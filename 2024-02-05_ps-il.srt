@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:10,419
-O Noite arranca hoje na SICA a série de debates entre líderes políticos rumo às legislativas de 10 de março.
+O Noite arranca hoje na SIC a série de debates entre líderes políticos rumo às legislativas de 10 de março.
 
 2
 00:00:10,880 --> 00:00:14,359
@@ -412,7 +412,7 @@ Qual é?
 
 104
 00:06:28,420 --> 00:06:32,420
-Não, nós queremos uma economia mais festicada, mais diversificada, mais complexa.
+Não, nós queremos uma economia mais sofisticada, mais diversificada, mais complexa.
 
 105
 00:06:32,420 --> 00:06:36,420
@@ -484,7 +484,7 @@ Rui Rocha, este choque fiscal de 15% seria compensado de que forma?
 
 122
 00:07:34,420 --> 00:07:39,420
-E como é que concilia esse objectivo com a Constituição portuguesa,
+E como é que concilia esse objetivo com a Constituição portuguesa,
 
 123
 00:07:39,420 --> 00:07:41,420
@@ -836,7 +836,7 @@ São cerca de 9 mil milhões de euros por ano.
 
 210
 00:11:55,419 --> 00:12:00,419
-Oh, Dr. Riojocha, se diz que é falso, apresentem então as suas contas, porque nós fizemos-las.
+Oh, Dr. Rui Rocha, se diz que é falso, apresentem então as suas contas, porque nós fizemos-las.
 
 211
 00:12:00,419 --> 00:12:01,419
@@ -1200,11 +1200,11 @@ Só no IRF.
 
 301
 00:16:02,420 --> 00:16:04,420
-Só no IRF são 3 mil e 500 milhões.
+Só no IRS são 3 mil e 500 milhões.
 
 302
 00:16:04,420 --> 00:16:07,420
-Só no IRCE entre 1 mil e 500 a 2 mil milhões.
+Só no IRC entre 1 mil e 500 a 2 mil milhões.
 
 303
 00:16:07,420 --> 00:16:08,420
@@ -1296,7 +1296,7 @@ há pouco e que não me respondeu.
 
 325
 00:16:50,420 --> 00:16:52,420
-Como é que concilia esse objectivo com a nossa Constituição,
+Como é que concilia esse objetivo com a nossa Constituição,
 
 326
 00:16:52,420 --> 00:16:57,420
@@ -1484,11 +1484,11 @@ As propostas da iniciativa liberal ficam bem nos cartazes
 
 372
 00:18:52,420 --> 00:18:55,420
-e provavelmente até nos gráficos, só que elas depois não são execuíveis,
+e provavelmente até nos gráficos, só que elas depois não são exequíveis,
 
 373
 00:18:55,420 --> 00:18:56,420
-ou sendo execuíveis, atingiriam a sua proposta.
+ou sendo exequíveis, atingiriam a sua proposta.
 
 374
 00:18:56,420 --> 00:19:02,420
@@ -2000,7 +2000,7 @@ não vai deixar de fora os mais frágeis
 
 501
 00:24:45,420 --> 00:24:48,420
-e beneficiar aqueles que mais têm em entremento de quem menos tem?
+e beneficiar aqueles que mais têm em detrimento de quem menos tem?
 
 502
 00:24:48,420 --> 00:24:50,420
@@ -2516,7 +2516,7 @@ Muito boa noite.
 
 630
 00:30:27,420 --> 00:30:30,420
-Amanhã na antena da Cicnotícias, Rui Rocha regressa para um novo debate.
+Amanhã na antena da SIC Notícias, Rui Rocha regressa para um novo debate.
 
 631
 00:30:30,420 --> 00:30:35,420

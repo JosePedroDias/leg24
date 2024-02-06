@@ -17,6 +17,10 @@
                 display: inline-block;
                 width: 120px;
             }
+
+            #progress {
+                width: 600px;
+            }
         </style>
     </head>
     <body>
@@ -34,35 +38,50 @@
 
         <div>
             <span id="time">0:00</span> / <span id="duration">0:00</span>
+            <button id="toggle-play">⏯️</button><input id="progress" type="range" step="1" value="0">
         </div>
         
-        <div id="subtitle"></div>
+        <div id="content"></div>
 
         <script src="player.js"></script>
         <script>
-            const timeEl     = document.getElementById('time');
+            const timeEl = document.getElementById('time');
             const durationEl = document.getElementById('duration');
-            const subtitleEl = document.getElementById('subtitle');
+            const togglePlayEl = document.getElementById('toggle-play');
+            const progressEl = document.getElementById('progress');
+            const contentEl = document.getElementById('content');
 
             async function run(name) {
                 const p = await player(name);
                 const audio = p.audio;
 
-                if (audio.duration) {
-                    durationEl.innerHTML = humanTime(audio.duration);
+                const onDuration = () => {
+                    const d = audio.duration;
+                    durationEl.innerHTML = humanTime(d);
+                    progressEl.max = Math.ceil(d);
                 }
 
-                audio.addEventListener('loadedmetadata', () => {
-                    durationEl.innerHTML = humanTime(audio.duration);
+                if (audio.duration) onDuration();
+                audio.addEventListener('loadedmetadata', onDuration);
+                audio.addEventListener('timeupdate', () => {
+                    const t = audio.currentTime;
+                    const ti = Math.round(t);
+                    const ts = humanTime(ti);
+                    if (timeEl.innerHTML != ts) timeEl.innerHTML = ts;
+                    if (ti != progressEl.value) progressEl.value = ti;
                 });
 
-                audio.addEventListener('timeupdate', () => {
-                    timeEl.innerHTML = humanTime(audio.currentTime);
+                progressEl.addEventListener('change', () => {
+                    audio.currentTime = progressEl.value;
+                });
+
+                togglePlayEl.addEventListener('click', () => {
+                    audio.paused ? audio.play() : audio.pause();
                 });
 
                 p.play();
 
-                window.a = audio;
+                //window.a = audio;
             }
         </script>
     </body>

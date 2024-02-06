@@ -55,12 +55,13 @@ async function player(name) {
 
     const audio = new Audio(audioUrl);
     const subtitleSrt = await fetch(subtitleUrl).then(r => r.text());
-    const subs = parseSrt(subtitleSrt);
+    const subtitles = parseSrt(subtitleSrt);
 
-    console.log('subs', subs);
+    console.log('subtitles', subtitles);
 
     return {
         audio,
+        subtitles,
         
         play() {
             audio.play();
