@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>debates legislativas 2024</title>
+        <style>
+            body {
+                font-family: sans-serif;
+            }
+
+            button {
+                display: inline-block;
+                margin-left: 10px;
+            }
+
+            li span {
+                display: inline-block;
+                width: 120px;
+            }
+        </style>
+    </head>
+    <body>
+        <ul>
+            <li>5 fev (2a)</li>
+            <ul>
+                <li>
+                    <span>PAN - CHEGA</span><button onclick="run('2024-02-05_pan-chega')">play</button>
+                </li>
+                <li>
+                    <span>PS - IL</span><button onclick="run('2024-02-05_ps-il')">play</button>
+                </li>
+            </ul>
+        </ul>
+
+        <div>
+            <span id="time">0:00</span> / <span id="duration">0:00</span>
+        </div>
+        
+        <div id="subtitle"></div>
+
+        <script src="player.js"></script>
+        <script>
+            const timeEl     = document.getElementById('time');
+            const durationEl = document.getElementById('duration');
+            const subtitleEl = document.getElementById('subtitle');
+
+            async function run(name) {
+                const p = await player(name);
+                const audio = p.audio;
+
+                if (audio.duration) {
+                    durationEl.innerHTML = humanTime(audio.duration);
+                }
+
+                audio.addEventListener('loadedmetadata', () => {
+                    durationEl.innerHTML = humanTime(audio.duration);
+                });
+
+                audio.addEventListener('timeupdate', () => {
+                    timeEl.innerHTML = humanTime(audio.currentTime);
+                });
+
+                p.play();
+
+                window.a = audio;
+            }
+        </script>
+    </body>
+</html>
