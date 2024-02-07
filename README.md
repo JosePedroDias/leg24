@@ -15,7 +15,7 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 7/2
 
-- 18h CNN: [IL - Livre]
+- 18h CNN: [IL - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-07-Debate-Livre-vs-IL-os-dois-Ruis-o-canalizador-e-o-transformador-b721084e)
 
 ## Process
 
