@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+button {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+li span {
+    display: inline-block;
+    width: 120px;
+}
+
+#progress {
+    width: 600px;
+}
+
+#content {
+    background-color: aliceblue;
+    max-height: 60vh;
+    overflow-y: scroll;
+}
+
+.highlight {
+    background-color: yellow;
+}

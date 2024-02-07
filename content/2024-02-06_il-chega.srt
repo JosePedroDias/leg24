@@ -4,7 +4,7 @@ Boa noite, seja bem-vindo.
 
 2
 00:00:06,700 --> 00:00:11,279
-No debate esta noite para as legislativas de 10 de março, vão estar frente a frente
+No debate desta noite para as legislativas de 10 de março, vão estar frente a frente
 
 3
 00:00:11,279 --> 00:00:14,339
@@ -12,7 +12,7 @@ o Presidente do Chega e o Presidente da Iniciativa Liberal.
 
 4
 00:00:14,780 --> 00:00:18,780
-O sorteio editou que comece André Ventura e termina com Rocha.
+O sorteio ditou que comece André Ventura e termine Rui Rocha.
 
 5
 00:00:19,140 --> 00:00:20,480
@@ -20,7 +20,7 @@ Muito boa noite aos dois.
 
 6
 00:00:21,199 --> 00:00:25,160
-Vamos começar por um assunto que interessa a todos os portugueses, vamos falar de imposto,
+Vamos começar por um assunto que interessa a todos os portugueses, vamos falar de impostos,
 
 7
 00:00:25,260 --> 00:00:28,480
@@ -48,11 +48,11 @@ em que as pessoas sentem que muito do que pagam vai para sustentar o próprio Es
 
 13
 00:00:57,500 --> 00:01:00,840
-ou o aparelho do Estado e sentem que é preciso.
+ou o aparelho do Estado e sentem que é preciso,
 
 14
 00:01:01,159 --> 00:01:05,500
-Porque nós precisamos para o crescimento económico, e ainda estivemos aqui na SIC com Pedro Nuno Santos
+porque nós precisamos para o crescimento económico, e ainda estivemos aqui na SIC com Pedro Nuno Santos
 
 15
 00:01:05,500 --> 00:01:11,120
@@ -68,7 +68,7 @@ um crescimento eficaz, uma descida de impostos.
 
 18
 00:01:15,439 --> 00:01:20,019
-Todos gostávamos de não ter IRS, não ter IRC, não ter IMI, não ter IMT, não ter imposto seu.
+Todos gostávamos de não ter IRS, não ter IRC, não ter IMI, não ter IMT, não ter imposto de selo.
 
 19
 00:01:20,560 --> 00:01:24,500
@@ -80,7 +80,7 @@ que a compensação pelo elemento do crescimento económico,
 
 26
 00:01:27,620 --> 00:01:29,359
-que justifica esses impostos. Eu vou-lhe dar um exemplo.
+justifique esses impostos. Eu vou-lhe dar um exemplo.
 
 27
 00:01:30,920 --> 00:01:32,500
@@ -96,7 +96,7 @@ Portugal tem das taxas estatutárias mais altas da OCDE.
 
 30
 00:01:41,120 --> 00:01:44,020
-E aí até chega a Iniciativa Liberal, estão de acordo nessa matéria.
+E aí até Chega a Iniciativa Liberal, estão de acordo nessa matéria.
 
 31
 00:01:44,140 --> 00:01:45,140
@@ -110,9 +110,13 @@ Alguns pensam, vamos perder alguma receita.
 00:01:47,420 --> 00:01:50,920
 Vamos, mas também vamos atrair muito mais investimento, se tudo correr bem,
 
+33
+00:01:50,920 --> 00:01:54,480
+porque Portugal tem um ambiente que pode ajudar a essa atração,
+
 34
-00:01:57,480 --> 00:01:59,180
-riqueza e criação de riqueza.
+00:01:54,480 --> 00:01:59,180
+e esse crescimento económico gerará mais emprego e gerará mais atração de riqueza.
 
 35
 00:01:59,540 --> 00:02:02,079
@@ -160,7 +164,7 @@ Uma delas é porque, a par do licenciamento, da construção,
 
 46
 00:02:31,959 --> 00:02:34,280
-que tudo certo, e aí até acho que chega a Iniciativa Liberal,
+que tudo certo, e aí até acho que Chega a Iniciativa Liberal,
 
 47
 00:02:34,399 --> 00:02:37,219
@@ -192,11 +196,11 @@ que a Iniciativa Liberal discorda e que nós respeitamos.
 
 54
 00:02:54,339 --> 00:02:55,439
-Porquê se ficou a ganhar o quê?
+Mas os Portugueses ficam a ganhar o quê
 
 55
 00:02:55,439 --> 00:02:58,400
-Em termos de redução de carga fiscal com o Chega?
+em termos de redução de carga fiscal com o Chega?
 
 56
 00:02:58,419 --> 00:02:59,800
@@ -384,7 +388,7 @@ que o único voto que muda Portugal
 
 102
 00:04:44,759 --> 00:04:46,400
-é o voto da Iniciativa Liberal.
+é o voto na Iniciativa Liberal.
 
 103
 00:04:46,920 --> 00:04:48,160
@@ -399,16 +403,8 @@ Nós dizemos que, no limite, as nossas medidas
 em IRS e em IRC
 
 106
-00:04:52,860 --> 00:04:54,879
-valem uma redução de receita de dinheiro.
-
-107
-00:04:54,879 --> 00:04:55,020
-E, por isso, a Iniciativa Liberal é a única que muda Portugal.
-
-108
-00:04:55,040 --> 00:04:57,080
-A nossa receita fiscal é entre 4 e 5 mil milhões.
+00:04:52,860 --> 00:04:57,879
+valem uma redução da receita fiscal entre 4 e 5 mil milhões.
 
 109
 00:04:57,640 --> 00:04:59,040
@@ -454,12 +450,8 @@ que tem, onde foram injetados,
 00:05:19,660 --> 00:05:21,300
 1.800 milhões na CP,
 
-120
-00:05:22,040 --> 00:05:25,020
-3.200 milhões de euros dos contratos,
-
 121
-00:05:25,019 --> 00:05:25,599
+00:05:22,040 --> 00:05:25,599
 3.200 milhões de euros dos contribuintes.
 
 122
@@ -480,7 +472,7 @@ E a questão, por exemplo,
 
 126
 00:05:34,060 --> 00:05:36,120
-da EFASEC, de 400 milhões de euros.
+da EFACEC, de 400 milhões de euros.
 
 127
 00:05:36,259 --> 00:05:38,859
@@ -516,10 +508,10 @@ a subida de receita fiscal
 
 135
 00:05:53,560 --> 00:05:55,000
-E o que nós dizemos é uma coisa que,
+E o que nós dizemos
 
 136
-00:05:55,019 --> 00:05:55,579
+00:05:55,019 --> 00:05:56,359
 é uma coisa muito simples,
 
 137
@@ -684,7 +676,7 @@ Nós não somos contra esta injeção descontrolada.
 
 177
 00:07:17,199 --> 00:07:19,879
-Aliás, o Chega, e onde a cidade seja feita a iniciativa liberal,
+Aliás, o Chega, e honestidade seja feita à Iniciativa Liberal,
 
 178
 00:07:20,300 --> 00:07:21,240
@@ -724,7 +716,7 @@ Há uma diferença.
 
 187
 00:07:33,300 --> 00:07:33,980
-Deixa-me só responder.
+Deixe-me só responder.
 
 188
 00:07:34,040 --> 00:07:36,340
@@ -732,11 +724,11 @@ Mas diga se quer a TAP nacionalizada ou não.
 
 189
 00:07:36,720 --> 00:07:38,500
-Há uma diferença entre nós e a iniciativa liberal.
+Há uma diferença entre nós e a Iniciativa Liberal.
 
 190
 00:07:38,960 --> 00:07:40,340
-A iniciativa liberal conhece duas palavras.
+A Iniciativa Liberal conhece duas palavras.
 
 191
 00:07:40,600 --> 00:07:41,420
@@ -756,7 +748,7 @@ Eu queria recordar aqui que foi o Chega,
 
 195
 00:07:48,300 --> 00:07:49,220
-e não a iniciativa liberal,
+e não a Iniciativa Liberal,
 
 196
 00:07:49,660 --> 00:07:51,259
@@ -816,7 +808,7 @@ e não Lisboa.
 
 210
 00:08:14,099 --> 00:08:15,420
-Para a iniciativa liberal isto não interessa.
+Para a Iniciativa Liberal isto não interessa.
 
 211
 00:08:15,860 --> 00:08:17,039
@@ -844,7 +836,7 @@ Eu não concebo...
 
 217
 00:08:23,060 --> 00:08:23,879
-A iniciativa liberal diz
+A Iniciativa Liberal diz
 
 218
 00:08:23,879 --> 00:08:25,319
@@ -936,7 +928,7 @@ destrua-se a empresa,
 
 240
 00:08:53,460 --> 00:08:54,440
-desmantela-se a empresa
+desmantele-se a empresa
 
 241
 00:08:54,440 --> 00:08:55,600
@@ -956,7 +948,7 @@ Quem levou a tribunal o Estado português
 
 245
 00:09:01,560 --> 00:09:02,759
-não foi a iniciativa liberal.
+não foi a Iniciativa Liberal.
 
 246
 00:09:03,060 --> 00:09:03,899
@@ -1012,7 +1004,7 @@ senão tenho mais uma pergunta.
 
 259
 00:09:25,360 --> 00:09:27,780
-E a iniciativa liberal parece ser só despedir e privatizar.
+E a Iniciativa Liberal parece ser só despedir e privatizar.
 
 260
 00:09:27,940 --> 00:09:29,000
@@ -1028,7 +1020,7 @@ relativamente a isto que o André disse.
 
 263
 00:09:32,400 --> 00:09:34,000
-E o primeiro comentário é que a iniciativa liberal
+E o primeiro comentário é que a Iniciativa Liberal
 
 264
 00:09:34,000 --> 00:09:35,420
@@ -1064,7 +1056,7 @@ André Ventura,
 
 272
 00:09:45,680 --> 00:09:48,980
-há muitas diferenças entre a iniciativa liberal
+há muitas diferenças entre a Iniciativa Liberal
 
 273
 00:09:48,980 --> 00:09:49,580
@@ -1072,7 +1064,7 @@ e o Chega.
 
 274
 00:09:49,600 --> 00:09:50,440
-Vou lhe dizer algumas.
+Vou-lhe dizer algumas.
 
 275
 00:09:50,760 --> 00:09:52,180
@@ -1202,10 +1194,6 @@ na ordem dos 9 a 10 mil milhões de euros.
 00:10:42,780 --> 00:10:44,140
 E isto é socialista.
 
-307
-00:10:44,140 --> 00:10:44,180
-É socialista.
-
 308
 00:10:44,180 --> 00:10:47,160
 Porque põe em causa o futuro de Portugal
@@ -1224,7 +1212,7 @@ só pode ter duas interpretações.
 
 312
 00:10:52,520 --> 00:10:54,140
-O André Ventura está a dizer às pessoas
+Ou André Ventura está a dizer às pessoas
 
 313
 00:10:54,140 --> 00:10:56,540
@@ -1240,7 +1228,7 @@ que vão pagar 500,
 
 316
 00:10:59,900 --> 00:11:02,780
-ou está a dizer às pessoas que vamos para uma banca rota.
+ou está a dizer às pessoas que vamos para uma bancarrota.
 
 317
 00:11:02,920 --> 00:11:04,560
@@ -1268,7 +1256,7 @@ e que eu acho que é verdadeira,
 
 323
 00:11:11,560 --> 00:11:13,720
-é que o André Ventura tem,
+é que o André Ventura
 
 324
 00:11:13,720 --> 00:11:15,460
@@ -1308,7 +1296,7 @@ Porque é uma medida absolutamente impossível de cumprir.
 
 333
 00:11:31,600 --> 00:11:33,160
-Então a iniciativa liberal é contra o aumento de pensões.
+Então a Iniciativa Liberal é contra o aumento de pensões.
 
 334
 00:11:33,320 --> 00:11:33,580
@@ -1316,11 +1304,11 @@ Então a iniciativa liberal é contra o aumento de pensões.
 
 335
 00:11:33,700 --> 00:11:36,180
-A iniciativa liberal é a favor...
+A Iniciativa Liberal é a favor...
 
 336
 00:11:36,180 --> 00:11:37,379
-Olha, eu vou lhe dizer sobre pensões.
+Olhe, eu vou-lhe dizer sobre pensões.
 
 337
 00:11:37,600 --> 00:11:39,279
@@ -1336,7 +1324,7 @@ A favor do futuro do país contra uma banca...
 
 340
 00:11:43,720 --> 00:11:44,000
-Estão a um comício.
+Isto não é um comício.
 
 341
 00:11:44,000 --> 00:11:45,860
@@ -1352,7 +1340,7 @@ Estou a favor do cumprimento da lei na atualização das pensões.
 
 344
 00:11:51,460 --> 00:11:53,259
-Então a iniciativa liberal é capaz de dizer aos portugueses hoje
+Então a Iniciativa Liberal é capaz de dizer aos portugueses hoje
 
 345
 00:11:53,259 --> 00:11:55,080
@@ -1364,7 +1352,7 @@ que tem as pensões mais baixas da Europa Ocidental?
 
 347
 00:11:57,460 --> 00:12:00,920
-Estou contra uma banca rota que seria o que essa medida traria.
+Estou contra uma bancarrota que seria o que essa medida traria.
 
 348
 00:12:01,000 --> 00:12:03,160
@@ -1400,7 +1388,7 @@ Já disse que ia buscar fundos europeus.
 
 356
 00:12:15,180 --> 00:12:15,540
-Não, não é?
+Não, não é.
 
 357
 00:12:15,660 --> 00:12:17,720
@@ -1432,7 +1420,7 @@ há muitos anos e sempre foram sublinhados obstáculos
 
 364
 00:12:39,960 --> 00:12:42,960
-à possibilidade de tributar os lucros oferidos.
+à possibilidade de tributar os lucros auferidos.
 
 365
 00:12:42,960 --> 00:12:46,860
@@ -1448,7 +1436,7 @@ Já lá vamos.
 
 368
 00:12:51,160 --> 00:12:53,280
-Deixe-me só responder à iniciativa legal porque acho que é importante
+Deixe-me só responder à Iniciativa Liberal porque acho que é importante
 
 369
 00:12:53,280 --> 00:12:55,320
@@ -1508,7 +1496,7 @@ Não, Rui Rocha.
 
 383
 00:13:22,380 --> 00:13:25,760
-O que a iniciativa legal faz é estar completamente desligado do país real.
+O que a Iniciativa Liberal faz é estar completamente desligada do país real.
 
 384
 00:13:26,080 --> 00:13:27,660
@@ -1588,7 +1576,7 @@ Sim, nós não estamos aqui a defender a banca.
 
 403
 00:14:12,300 --> 00:14:13,540
-Isso é o papel da iniciativa liberal.
+Isso é o papel da Iniciativa Liberal.
 
 404
 00:14:13,840 --> 00:14:14,160
@@ -1600,7 +1588,7 @@ Nós entendemos que deve haver...
 
 406
 00:14:15,860 --> 00:14:16,860
-Como é que financiamos a aventura?
+Como é que financia, André Ventura?
 
 407
 00:14:16,880 --> 00:14:18,400
@@ -1660,7 +1648,7 @@ O André Ventura já repetiu esse número diversas vezes.
 
 421
 00:14:40,039 --> 00:14:42,379
-Mas como é que se consegue taxar a economia paralela na minha questão?
+Mas como é que se consegue taxar a economia paralela é a minha questão?
 
 422
 00:14:42,399 --> 00:14:44,779
@@ -1696,11 +1684,11 @@ Sim, nós defendemos...
 
 430
 00:14:56,899 --> 00:14:58,480
-Mas já referiu-te desta vez a esses números.
+Mas já referiu diversas vezes esses números,
 
 431
 00:14:58,919 --> 00:15:00,639
-Mas depois nunca especifica como é que vai buscar esse dinheiro.
+mas depois nunca especifica como é que vai buscar esse dinheiro.
 
 432
 00:15:00,639 --> 00:15:01,579
@@ -1728,7 +1716,7 @@ O André Ventura quer taxar os lucros excessivos da banca.
 
 438
 00:15:09,459 --> 00:15:09,759
-Quer, Rui.
+Quero, Rui.
 
 439
 00:15:09,839 --> 00:15:10,259
@@ -1780,7 +1768,7 @@ Aliás, faz sentido dizer ainda que o André Ventura quer taxar gasolineiras.
 
 451
 00:15:42,319 --> 00:15:46,120
-Ou seja, as pequenas e médias postos de gasolina que estão em Porto Alegre,
+Ou seja, as pequenas e médias postos de gasolina que estão em Portalegre,
 
 452
 00:15:46,220 --> 00:15:47,620
@@ -1928,7 +1916,7 @@ O André Ventura parece uma daquelas crianças que vai para um parque de divers�
 
 488
 00:16:48,220 --> 00:16:49,700
-os carroceiros e quer andar em todos.
+os carróceis e quer andar em todos.
 
 489
 00:16:50,000 --> 00:16:51,759
@@ -2000,7 +1988,7 @@ de ser imposto pelo Estado.
 
 506
 00:17:23,839 --> 00:17:28,059
-De que forma é que este método, que de certa forma coloca o ônibus na entidade empregadora,
+De que forma é que este método, que de certa forma coloca o ónus na entidade empregadora,
 
 507
 00:17:28,559 --> 00:17:30,000
@@ -2060,15 +2048,15 @@ ajustamentos mais favoráveis aos trabalhadores.
 
 521
 00:18:11,660 --> 00:18:13,480
-É este o modelo de salário mínimo que é a iniciativa liberal.
+É este o modelo de salário mínimo que é a Iniciativa Liberal.
 
 522
 00:18:13,640 --> 00:18:17,580
-Portanto, a iniciativa liberal está confortável com pessoas a ganhar-se 800 euros.
+Portanto, a Iniciativa Liberal está confortável com pessoas a ganhar-se 800 euros.
 
 523
 00:18:17,900 --> 00:18:21,780
-A iniciativa liberal está confortável com pensionistas a ganhar 200 e 300 euros.
+A Iniciativa Liberal está confortável com pensionistas a ganhar 200 e 300 euros.
 
 524
 00:18:21,800 --> 00:18:23,760
@@ -2148,11 +2136,11 @@ Portanto, desculpe lá, Rui Rocha.
 
 543
 00:18:57,460 --> 00:18:58,660
-O que disse aqui hoje só confirma.
+O que disse aqui hoje só confirma
 
 544
 00:18:58,880 --> 00:19:00,060
-A ideia que eu tenho da Iniciativa Liberal.
+a ideia que eu tenho da Iniciativa Liberal.
 
 545
 00:19:00,500 --> 00:19:01,900
@@ -2164,7 +2152,7 @@ Vocês são o partido dos grandes grupos económicos.
 
 547
 00:19:03,740 --> 00:19:04,760
-Vocês são partidos ricos.
+Vocês são o partido dos ricos.
 
 548
 00:19:04,880 --> 00:19:07,520
@@ -2224,7 +2212,7 @@ Vamos então...
 
 562
 00:19:38,279 --> 00:19:39,279
-Defendem a equiparação do sublimento.
+Defendem a equiparação do suplemento?
 
 563
 00:19:39,279 --> 00:19:40,759
@@ -2360,7 +2348,7 @@ Quer dizer, isto não é imigração, isto é bandalheira.
 
 596
 00:20:46,859 --> 00:20:50,259
-Portanto, quando alguém diz que nós passemos um país decente, temos que
+Portanto, quando alguém diz que nós para sermos um país decente, temos que
 
 597
 00:20:50,259 --> 00:20:50,559
@@ -2376,7 +2364,7 @@ Isto não é ser contra nem a favor da imigração.
 
 600
 00:20:55,759 --> 00:21:00,359
-Agora, vistos da Cplp, em que a pessoa chega cá, não tem que dizer se tem trabalho, se
+Agora, vistos da CPLP, em que a pessoa chega cá, não tem que dizer se tem trabalho, se
 
 601
 00:21:00,359 --> 00:21:03,480
@@ -2508,15 +2496,11 @@ Temos uma bandalheira a céu aberto.
 
 633
 00:22:12,859 --> 00:22:17,700
-Rui Rocha, a Iniciativa Liberal defende um país de portas abertas, mas impõe que para
-
-634
-00:22:17,700 --> 00:22:17,759
-integrar...
+Rui Rocha, a Iniciativa Liberal defende um país de portas abertas, mas impõe que
 
 635
 00:22:17,759 --> 00:22:23,019
-Para entrar no país, um cidadão tem de apresentar prova de meios de subsistência,
+para entrar no país, um cidadão tem de apresentar prova de meios de subsistência,
 
 636
 00:22:23,339 --> 00:22:24,920
@@ -2544,11 +2528,11 @@ Aliás, a economia, por muitos motivos, mas sobretudo também...
 
 642
 00:22:44,759 --> 00:22:47,680
-Porque a economia não funcionaria de todos se não tivéssemos...
+Porque a economia não funcionaria de todos se não tivéssemos
 
 643
 00:22:47,680 --> 00:22:53,019
-Os imigrantes, em muitas áreas onde os imigrantes são absolutamente necessários para que Portugal funcione.
+imigrantes, em muitas áreas onde os imigrantes são absolutamente necessários para que Portugal funcione.
 
 644
 00:22:53,519 --> 00:22:59,100
@@ -2596,7 +2580,7 @@ não estão sujeitas a nenhum tipo de abuso, não estão sujeitas a nenhuma rede
 
 655
 00:23:35,480 --> 00:23:40,420
-Portanto, a iniciativa liberal quer, como eu digo, imigração com dignidade e com humanismo.
+Portanto, a Iniciativa Liberal quer, como eu digo, imigração com dignidade e com humanismo.
 
 656
 00:23:40,539 --> 00:23:41,120
@@ -2604,11 +2588,11 @@ Somos um Estado de...
 
 657
 00:23:41,120 --> 00:23:45,980
-Mas concorda com a ideia de que o governo socialista é mais liberal do que a iniciativa
+Mas concorda com a ideia de que o governo socialista é mais liberal do que a
 
 658
 00:23:45,980 --> 00:23:47,519
-liberal em termos de imigração?
+Iniciativa Liberal em termos de imigração?
 
 659
 00:23:47,519 --> 00:23:47,560
@@ -2636,11 +2620,7 @@ Ter as pessoas a serem exploradas, sujeitas aos ataques da rede de tráfego, nã
 
 665
 00:24:06,560 --> 00:24:07,500
-sentido para a iniciativa liberal.
-
-666
-00:24:07,519 --> 00:24:07,539
-Só oito minutos.
+sentido para a Iniciativa Liberal.
 
 667
 00:24:07,539 --> 00:24:08,660
@@ -2652,7 +2632,7 @@ Sempre que o Chega propôs que quem viesse para Portugal e cometesse crimes send
 
 669
 00:24:13,180 --> 00:24:16,220
-ou tenha dupla nacionalidade para ser expulso, a iniciativa liberal teve contra.
+ou tenha dupla nacionalidade para ser expulso, a Iniciativa Liberal teve contra.
 
 670
 00:24:16,400 --> 00:24:16,880
@@ -2676,7 +2656,7 @@ expulso.
 
 675
 00:24:24,180 --> 00:24:25,480
-A iniciativa liberal não concorda com isso.
+A Iniciativa Liberal não concorda com isso.
 
 676
 00:24:25,720 --> 00:24:27,079
@@ -2700,7 +2680,7 @@ Não, não, é mesmo uma pergunta.
 
 681
 00:24:31,700 --> 00:24:36,539
-A posição da iniciativa liberal é a posição do quadro legal, da dignidade e das soluções.
+A posição da Iniciativa Liberal é a posição do quadro legal, da dignidade e das soluções.
 
 682
 00:24:36,539 --> 00:24:37,920
@@ -2712,7 +2692,7 @@ O André Ventura tem nesta matéria...
 
 684
 00:24:38,639 --> 00:24:39,259
-Olha, André Ventura...
+Olhe, André Ventura...
 
 685
 00:24:39,259 --> 00:24:39,900
@@ -2726,9 +2706,13 @@ Estou-lhe a perguntar.
 00:24:40,700 --> 00:24:41,720
 É o quadro legal, André Ventura.
 
+687
+00:24:41,819 --> 00:24:44,600
+Mas concorda que seja expulso quem comete crimes e é imigrante?
+
 688
-00:24:47,519 --> 00:24:48,160
-Cumpra-se a lei.
+00:24:44,619 --> 00:24:48,160
+Eu não vou dizer nada que não seja: cumpra-se a lei.
 
 689
 00:24:48,299 --> 00:24:48,480
@@ -2824,7 +2808,7 @@ Sabe o que é que eu não faço?
 
 712
 00:25:13,900 --> 00:25:14,480
-Vamos fazer uma pergunta.
+Estou-lhe a fazer uma pergunta.
 
 713
 00:25:14,560 --> 00:25:15,200
@@ -2964,11 +2948,11 @@ governar exige cada vez mais acordos entre as várias forças partidárias.
 
 747
 00:25:58,599 --> 00:26:03,879
-Roroxa, há alguma circunstância em que o eventual acordo de governação que Conte
+Rui Rocha: há alguma circunstância em que o eventual acordo de governação que conte
 
 748
 00:26:03,879 --> 00:26:07,819
-coxega possa deixar de ser uma linha vermelha para a iniciativa liberal?
+com o Chega possa deixar de ser uma linha vermelha para a Iniciativa Liberal?
 
 749
 00:26:08,200 --> 00:26:12,440
@@ -2980,11 +2964,11 @@ Nós precisamos de um país completamente diferente.
 
 751
 00:26:15,099 --> 00:26:20,759
-Não sendo a iniciativa liberal a ganhar as eleições, a única solução é trazer
+Não sendo a Iniciativa Liberal a ganhar as eleições, a única solução é trazer
 
 752
 00:26:20,759 --> 00:26:24,259
-o PSD para as transformações necessárias.
+o PSD para as transformações necessárias no país.
 
 753
 00:26:24,279 --> 00:26:30,940
@@ -2996,7 +2980,7 @@ E cabe aos outros partidos, nomeadamente ao Chega e ao PS, decidirem se viabiliz
 
 755
 00:26:38,879 --> 00:26:43,639
-solução desta natureza transformadora do país ou se pelo contrário a inviabilizam
+solução desta natureza, transformadora do país ou se pelo contrário a inviabilizam
 
 756
 00:26:43,639 --> 00:26:47,500
@@ -3008,11 +2992,11 @@ Ora, o que acontece até agora é que o André Ventura não tem sido claro sobre
 
 758
 00:26:52,420 --> 00:26:54,259
-E aliás, eu trouxe até aqui uma declaração.
+E aliás, eu trouxe até aqui uma declaração
 
 759
 00:26:54,279 --> 00:26:54,759
-Vou ler.
+que vou ler.
 
 760
 00:26:55,059 --> 00:26:55,940
@@ -3024,7 +3008,7 @@ Eu, André Claro Amaral Ventura, enquanto presidente do Partido Chega, assumo pe
 
 762
 00:27:01,799 --> 00:27:06,579
-os portugueses que viabilizarei um governo minoritário entre PSD e iniciativa liberal
+os portugueses que viabilizarei um governo minoritário entre PSD e Iniciativa Liberal
 
 763
 00:27:06,579 --> 00:27:10,779
@@ -3032,7 +3016,7 @@ de modo a transformar Portugal e a retirar o Partido Socialista do Poder.
 
 764
 00:27:11,200 --> 00:27:13,420
-O Eiras, 6 de fevereiro de 2024.
+Oeiras, 6 de fevereiro de 2024.
 
 765
 00:27:13,519 --> 00:27:16,899
@@ -3044,11 +3028,11 @@ E portanto está aqui para o André Ventura, se quiser, hoje assumir definitivam
 
 767
 00:27:22,039 --> 00:27:24,259
-é a sua posição sobre um governo minoritário da iniciativa liberal.
+é a sua posição sobre um governo minoritário da Iniciativa Liberal
 
 768
 00:27:24,279 --> 00:27:25,279
-O que ele acha?
+e do PSD.
 
 769
 00:27:25,279 --> 00:27:27,779
@@ -3068,7 +3052,7 @@ Um partido que está com 4% nas sondagens ou 5%.
 
 773
 00:27:33,079 --> 00:27:34,399
-Aproveito para assumir uma posição.
+Aproveite para assumir uma posição.
 
 774
 00:27:34,399 --> 00:27:37,720
@@ -3076,11 +3060,11 @@ Um partido que está com 4% ou 5% não impõe linhas vermelhas aos outros.
 
 775
 00:27:37,819 --> 00:27:40,639
-Era uma questão até de humildade que lhe falta e que falta à iniciativa liberal.
+Era uma questão até de humildade que lhe falta e que falta à Iniciativa Liberal.
 
 776
 00:27:41,019 --> 00:27:44,680
-Segundo, eu estou à vontade porque essas declarações que a iniciativa liberal vai
+Segundo, eu estou à vontade porque essas declarações que a Iniciativa Liberal vai
 
 777
 00:27:44,680 --> 00:27:46,440
@@ -3103,20 +3087,8 @@ meses.
 Eu sou líder do partido há cinco anos.
 
 782
-00:27:52,779 --> 00:27:53,399
-E sobre a posição do Partido Socialista.
-
-783
-00:27:53,399 --> 00:27:54,220
-E deixam sobre o governo.
-
-784
-00:27:54,279 --> 00:27:54,319
-Eu sou o líder do Partido Socialista.
-
-785
-00:27:54,319 --> 00:27:56,200
-Eu sou o minoritário da iniciativa liberal do PSD.
+00:27:52,779 --> 00:27:56,199
+E sobre a posição do governo minoritário da Iniciativa Liberal do PSD?
 
 786
 00:27:56,220 --> 00:27:57,559
@@ -3148,7 +3120,7 @@ E eu sempre disse que ou haveria acordo de governo ou não haveria.
 
 793
 00:28:07,059 --> 00:28:09,279
-Agora, eu já percebi, ao relaxar, eu já percebi.
+Agora, eu já percebi, ó Rui Rocha, eu já percebi.
 
 794
 00:28:09,599 --> 00:28:11,379
@@ -3156,7 +3128,7 @@ Temos aqui uma situação de clarificação.
 
 795
 00:28:11,460 --> 00:28:14,379
-Eu já percebi que a iniciativa liberal está doidinha para se meter na cama com o PSD
+Eu já percebi que a Iniciativa Liberal está doidinha para se meter na cama com o PSD
 
 796
 00:28:14,379 --> 00:28:17,379
@@ -3172,7 +3144,7 @@ Nós não.
 
 799
 00:28:18,299 --> 00:28:21,599
-Nós ou há combate à corrupção a sério, ou há combate à imigração liberal,
+Nós ou há combate à corrupção a sério, ou há combate à imigração ilegal,
 
 800
 00:28:21,919 --> 00:28:23,759
@@ -3188,7 +3160,7 @@ Vocês até dizem que é de qualquer maneira.
 
 803
 00:28:29,779 --> 00:28:31,359
-O minuto final é do Rio Rocha.
+O minuto final é do Rui Rocha.
 
 804
 00:28:31,740 --> 00:28:32,099
@@ -3208,7 +3180,7 @@ uma vez que nunca se assume perante nada, muito menos sobre esta situação,
 
 808
 00:28:42,819 --> 00:28:47,919
-dizendo que viabiliza um governo minoritário da iniciativa liberal e do PSD.
+dizendo que viabiliza um governo minoritário da Iniciativa Liberal e do PSD.
 
 809
 00:28:47,919 --> 00:28:48,279
@@ -3227,7 +3199,7 @@ A consequência é clara.
 Um voto no Chega é um voto no Partido Socialista.
 
 813
-00:28:54,599 --> 00:28:54,779
+00:28:54,599 --> 00:28:55,009
 Ah, é?
 
 814
@@ -3236,7 +3208,7 @@ André Ventura, se tiver oportunidade, coloca o Partido Socialista no poder.
 
 815
 00:28:59,319 --> 00:29:00,899
-Mas quem é que apresenta duas moções de censura?
+Mas quem é que apresentou duas moções de censura ao país?
 
 816
 00:29:01,220 --> 00:29:08,579
@@ -3244,7 +3216,7 @@ Temos um voto no PSD que muda o governo, mas não transforma o país.
 
 817
 00:29:08,819 --> 00:29:12,799
-Temos um voto na iniciativa liberal que muda o governo e transforma o país.
+Temos um voto na Iniciativa Liberal que muda o governo e transforma o país.
 
 818
 00:29:13,039 --> 00:29:17,819
@@ -3252,7 +3224,7 @@ E temos o voto no Chega, que é um voto no PS para colocar outra vez o PS no pod
 
 819
 00:29:17,819 --> 00:29:17,899
-Claro.
+Mas só para que fique claro,
 
 820
 00:29:17,919 --> 00:29:18,279
@@ -3296,7 +3268,7 @@ Acho que são todos socialistas.
 
 830
 00:29:29,779 --> 00:29:33,200
-O acordo com o Chega de governação é impossível para a iniciativa liberal em qualquer
+O acordo com o Chega de governação é impossível para a Iniciativa Liberal em qualquer
 
 831
 00:29:33,200 --> 00:29:33,779
@@ -3324,11 +3296,11 @@ Primeiro, há questões de princípios de dignidade humana.
 
 837
 00:29:41,519 --> 00:29:42,700
-Estão a ficar ao lado do PS.
+Então votarão ao lado do PS.
 
 838
 00:29:42,759 --> 00:29:42,779
-Estão a ficar ao lado do PS.
+Então votarão ao lado do PS.
 
 839
 00:29:42,779 --> 00:29:43,480
@@ -3336,27 +3308,31 @@ E segundo ponto.
 
 840
 00:29:43,480 --> 00:29:44,119
-Estão a ficar ao lado do PS.
+Então votarão ao lado do PS.
 
 841
 00:29:44,119 --> 00:29:44,940
 E segundo ponto.
 
+841
+00:29:44,940 --> 00:29:48,299
+Nós não nos entendemos com partidos
+
 842
 00:29:48,299 --> 00:29:49,759
-Os estatistas e socialistas.
+estatistas e socialistas.
 
 843
 00:29:50,000 --> 00:29:50,559
-O André Ventura.
+O André Ventura,
 
 844
 00:29:50,639 --> 00:29:53,240
-Olha, eu debati ontem com o Pedro Nuno Santos, líder do Partido Socialista.
+olhe, eu debati ontem com o Pedro Nuno Santos, líder do Partido Socialista.
 
 845
 00:29:53,480 --> 00:29:56,779
-Hoje debati com o líder do outro Partido Socialista, do Espeto Português.
+Hoje debati com o líder do outro Partido Socialista, do espectro Português.
 
 846
 00:29:56,799 --> 00:29:56,819
@@ -3382,21 +3358,9 @@ Temos que respeitar.
 00:30:00,720 --> 00:30:01,700
 Levou uma coça dos dois.
 
-852
-00:30:01,720 --> 00:30:01,960
-São as reias dos dados.
-
 853
 00:30:01,960 --> 00:30:02,700
 Está a ver como é que é.
-
-854
-00:30:02,879 --> 00:30:04,399
-Foi uma coisa que eu vejo.
-
-855
-00:30:04,399 --> 00:30:04,419
-Uma coisa que eu vejo.
 
 856
 00:30:04,419 --> 00:30:05,819
@@ -3412,7 +3376,7 @@ Muito boa noite.
 
 859
 00:30:08,559 --> 00:30:13,039
-O próximo debate na SIC Notícias vai colocar frente a frente o Bloco de Esquerda e o LIVRE
+O próximo debate na SIC Notícias vai colocar frente a frente o Bloco de Esquerda e o Livre
 
 860
 00:30:13,039 --> 00:30:16,399
@@ -3421,4 +3385,3 @@ na quinta-feira, a partir das seis da tarde.
 861
 00:30:16,659 --> 00:30:16,940
 Boa noite.
-
