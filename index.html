@@ -43,8 +43,14 @@
             <li>6 fev (3a)</li>
             <ul>
                 <li><span>PCP - PAN </span><button onclick="run('2024-02-06_pcp-pan')" >carregar</button></li>
-                <li><span>AD - BE   *</span><button onclick="run('2024-02-06_ad-be')"   >carregar</button></li>
+                <li><span>AD - BE   </span><button onclick="run('2024-02-06_ad-be')"   >carregar</button></li>
                 <li><span>IL - CHEGA *</span><button onclick="run('2024-02-06_il-chega')">carregar</button></li>
+            </ul>
+            <li>7 fev (4a)</li>
+            <ul>
+                <li><span></span><button onclick="run('2024-02-07_')">carregar</button></li>
+                <li><span></span><button onclick="run('2024-02-07_')">carregar</button></li>
+                <li><span></span><button onclick="run('2024-02-07_')">carregar</button></li>
             </ul>
         </ul>
 
@@ -79,6 +85,8 @@
                 audio.currentTime = start;
                 currentSubIndex = subEls.indexOf(el);
                 highlightSub(currentSubIndex);
+                if (audio.paused) audio.play();
+                togglePlayEl.focus();
             });
 
             async function run(name) {
