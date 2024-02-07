@@ -28,7 +28,7 @@ Bem-vindos. Boa noite também a si.
 
 8
 00:00:22,240 --> 00:00:28,400
-O sorteio que fazemos sempre antes destes debates determinou que começa esta conversa.
+O sorteio que fazemos sempre antes destes debates determinou que começa esta conversa
 
 9
 00:00:28,400 --> 00:00:34,060
@@ -60,11 +60,11 @@ apresentar o seu plano de governo e quiser, eventualmente, governar em minoria,
 
 16
 00:00:55,660 --> 00:00:58,380
-o Chega vai derrubar esta concorrência?
+o Chega vai derrubar esta
 
 17
 00:00:58,399 --> 00:00:59,259
-Vai dar uma coligação de direita?
+coligação de direita?
 
 18
 00:00:59,699 --> 00:01:02,100
@@ -76,7 +76,7 @@ Boa noite.
 
 20
 00:01:02,799 --> 00:01:03,960
-Boa noite, Inês, também.
+Boa noite à Inês também.
 
 21
 00:01:04,519 --> 00:01:07,480
@@ -107,16 +107,8 @@ que, depois de um orçamento que cai por haver instabilidade,
 depois de haver eleições por haver instabilidade,
 
 28
-00:01:27,219 --> 00:01:28,219
-que não se procura uma solução.
-
-29
-00:01:28,219 --> 00:01:28,379
-E, por isso, eu acho que é uma situação que não se procura uma solução.
-
-30
-00:01:28,379 --> 00:01:29,280
-É uma solução maioritária.
+00:01:27,219 --> 00:01:29,280
+que não se procure uma solução maioritária.
 
 31
 00:01:29,879 --> 00:01:31,739
@@ -264,7 +256,7 @@ há dois, que fazem uma maioria total,
 
 67
 00:02:36,659 --> 00:02:38,340
-porquê é que não sabe ter uma solução de estabilidade?
+porquê é que não se há de ter uma solução de estabilidade?
 
 68
 00:02:38,600 --> 00:02:39,620
@@ -512,7 +504,7 @@ de hoje darmos a conhecer aos portugueses o nosso programa
 
 129
 00:04:24,080 --> 00:04:26,760
-e recordar que o PAN, como a deputada apenas
+e recordar que o PAN, com uma deputada apenas
 
 130
 00:04:26,760 --> 00:04:27,700
@@ -620,11 +612,11 @@ porque nós não nos podemos esquecer que a ascensão
 
 156
 00:05:17,660 --> 00:05:19,980
-de André Ventura ao poder requer a todo o custo
+de André Ventura ao poder que quer a todo o custo
 
 157
 00:05:19,980 --> 00:05:21,379
-de ser governo, já percebemos, basta ver
+ser governo, já percebemos, basta ver
 
 158
 00:05:21,379 --> 00:05:21,600
@@ -844,7 +836,7 @@ O PAN está a colar-se ao poder como uma lapa.
 
 212
 00:07:06,839 --> 00:07:08,699
-Olha, isto foi o que a sua representante disse,
+Olhe, isto foi o que a sua representante disse,
 
 213
 00:07:09,040 --> 00:07:10,459
@@ -1052,11 +1044,11 @@ Querem entrar nos temas e vamos entrar nos temas.
 
 264
 00:08:45,639 --> 00:08:45,799
-Isto é um paracrisis.
+...
 
 265
 00:08:45,799 --> 00:08:46,059
-Isto é um paracrisis.
+...
 
 266
 00:08:46,960 --> 00:08:49,399
@@ -1132,7 +1124,7 @@ Está respondido.
 
 284
 00:09:16,200 --> 00:09:17,899
-André Ventura, está disponível.
+André Ventura, está respondido.
 
 285
 00:09:17,899 --> 00:09:18,500
@@ -1268,7 +1260,7 @@ e quando chega o momento final deste governo,
 
 318
 00:10:22,299 --> 00:10:24,759
-e cairá muito até reivindicado por vários partidos.
+e que era há muito até reivindicado por vários partidos.
 
 319
 00:10:25,000 --> 00:10:25,360
@@ -1308,7 +1300,7 @@ só para dizer isto.
 
 328
 00:10:42,139 --> 00:10:44,679
-Isto deve só ao orçamento de 2024 que o PAN aprovou.
+Isto deve-se ao orçamento de 2024 que o PAN aprovou.
 
 329
 00:10:44,819 --> 00:10:46,679
@@ -1760,7 +1752,7 @@ O Chega votou mais ao lado do PS
 
 441
 00:14:25,879 --> 00:14:27,720
-do que o Pano. Os dados da Assembleia da República
+do que o PAN. Os dados da Assembleia da República
 
 442
 00:14:27,720 --> 00:14:29,799
@@ -1800,7 +1792,7 @@ do Partido Socialista.
 
 451
 00:14:43,320 --> 00:14:44,019
-Aprovaram zero propósito.
+Aprovaram zero propostas.
 
 452
 00:14:44,019 --> 00:14:44,580
@@ -1816,7 +1808,7 @@ Duas. Eu quero que as pessoas em casa vejam-se.
 
 455
 00:14:48,639 --> 00:14:50,700
-Duas. Sabem como é que o Pano sustentou
+Duas. Sabem como é que o PAN sustentou
 
 456
 00:14:50,700 --> 00:14:52,420
@@ -1832,7 +1824,7 @@ todas as vezes.
 
 459
 00:14:58,280 --> 00:14:58,800
-Votos do Pano.
+Votos do PAN.
 
 460
 00:14:59,500 --> 00:15:02,080
@@ -1840,7 +1832,7 @@ Abstenção, abstenção, abstenção, abstenção.
 
 461
 00:15:02,300 --> 00:15:03,040
-Declarações do Pano.
+Declarações do PAN.
 
 462
 00:15:03,320 --> 00:15:04,800
@@ -1860,7 +1852,7 @@ Vocês são o maior ataque ao taxismo.
 
 466
 00:15:11,280 --> 00:15:13,940
-Querem garantir que se mantenham à volta do poder
+Querem garantir que se mantêm à volta do poder
 
 467
 00:15:13,940 --> 00:15:14,560
@@ -1923,12 +1915,8 @@ devem ser taxados de alguma maneira
 para que o consumidor pague menos
 
 482
-00:15:43,180 --> 00:15:44,560
-ou só retirar o dinheiro.
-
-483
-00:15:44,560 --> 00:15:46,620
-Ou seja, os impostos na venda do combustível.
+00:15:43,180 --> 00:15:46,620
+ou só retirar os impostos na venda do combustível?
 
 484
 00:15:46,740 --> 00:15:48,080
@@ -2072,7 +2060,7 @@ Porque o PAN tem defendido o aumento sistemático
 
 519
 00:16:51,280 --> 00:16:54,160
-dos impostos sobre o gás óleo e sobre os combustíveis.
+dos impostos sobre o gasoleo e sobre os combustíveis.
 
 520
 00:16:54,480 --> 00:16:55,940
@@ -2096,15 +2084,15 @@ Acabar com as isenções de quem é mais público e quem é mais lucro
 
 525
 00:17:03,040 --> 00:17:04,620
-O PAN votou contra as desidrativas nos combustíveis
+O PAN votou contra a descida do IVA nos combustíveis
 
 526
 00:17:04,620 --> 00:17:05,920
-e votou contra as desidrativas na energia.
+e votou contra a descida do IVA na energia.
 
 527
 00:17:05,940 --> 00:17:08,539
-Estamos a dar bolas fiscais, mais de 300 milhões de euros.
+Estamos a dar borlas fiscais, mais de 300 milhões de euros.
 
 528
 00:17:08,539 --> 00:17:08,940
@@ -2116,7 +2104,7 @@ André Ventura, então, mais de 300 milhões de euros
 
 530
 00:17:11,500 --> 00:17:12,440
-para bolas fiscais.
+para borlas fiscais.
 
 531
 00:17:13,440 --> 00:17:14,180
@@ -2224,11 +2212,11 @@ Não, mas desculpe-me só para terminar o que eu estava a dizer.
 
 557
 00:17:57,400 --> 00:17:58,700
-Porque eu gostava que o Bando esclarecesse isto.
+Porque eu gostava que o PAN esclarecesse isto.
 
 558
 00:17:58,940 --> 00:18:00,920
-Porque o Bando votou sistematicamente contra
+Porque o PAN votou sistematicamente contra
 
 559
 00:18:00,920 --> 00:18:02,480
@@ -2296,7 +2284,7 @@ Claro que sim.
 
 575
 00:18:31,659 --> 00:18:33,159
-Aquilo que o Bando defende é que este dinheiro
+Aquilo que o PAN defende é que este dinheiro
 
 576
 00:18:33,159 --> 00:18:35,419
@@ -2316,11 +2304,11 @@ de 300 milhões de euros, que era o equivalente
 
 580
 00:18:40,000 --> 00:18:41,059
-a 4 milhões de euros.
+a 4 milhões de passes sociais gratuitos.
 
 581
 00:18:41,079 --> 00:18:44,379
-E como é óbvio, o Bando está ao lado das famílias.
+E como é óbvio, o PAN está ao lado das famílias.
 
 582
 00:18:44,619 --> 00:18:46,019
@@ -2332,7 +2320,7 @@ porque o André Ventura e os seus 12 deputados
 
 584
 00:18:48,059 --> 00:18:50,059
-votaram contra a proposta do Bando
+votaram contra a proposta do PAN
 
 585
 00:18:50,059 --> 00:18:52,919
@@ -2400,7 +2388,7 @@ E está aqui a dizer que não.
 
 601
 00:19:22,159 --> 00:19:23,220
-Concluo a história da banca.
+Conclua a história da banca.
 
 602
 00:19:23,299 --> 00:19:25,460
@@ -2416,7 +2404,7 @@ da suspensão da penhora da casa de morada de família
 
 605
 00:19:31,220 --> 00:19:33,439
-e que significava que, à semente do que aconteceu
+e que significava que, à semelhança do que aconteceu
 
 606
 00:19:33,439 --> 00:19:34,960
@@ -2428,7 +2416,7 @@ durante a crise da Covid-19, as famílias
 
 608
 00:19:36,960 --> 00:19:38,619
-poderiam enfocar este mecanismo de travão
+poderiam invocar este mecanismo de travão
 
 609
 00:19:38,619 --> 00:19:41,059
@@ -2520,7 +2508,7 @@ E quanto aos impostos que são cobrados pelo Governo
 
 631
 00:20:21,980 --> 00:20:24,500
-para quem compra gasolina e gás óleo?
+para quem compra gasolina e gasóleo?
 
 632
 00:20:24,519 --> 00:20:26,639
@@ -2612,7 +2600,7 @@ Não, mas estávamos a falar dos combustíveis.
 
 654
 00:21:02,720 --> 00:21:05,059
-Para que ele envie a qualidade de vida das pessoas
+Para que alivie a qualidade de vida das pessoas
 
 655
 00:21:05,059 --> 00:21:06,779
@@ -2700,7 +2688,7 @@ E também incluir as bicicletas e as sucessões de espaços
 
 676
 00:21:47,720 --> 00:21:48,299
-em CDRS.
+em sede de IRS.
 
 677
 00:21:48,400 --> 00:21:50,819
@@ -2752,7 +2740,7 @@ Será um tema a desenvolver no outro dia?
 
 689
 00:22:10,559 --> 00:22:12,519
-É que a Espanha paga menos impostos sobre o gasol.
+É que a Espanha paga menos impostos sobre o gasóleo.
 
 690
 00:22:12,579 --> 00:22:16,019
@@ -2820,7 +2808,7 @@ por falta de garantias e porque o próprio sistema bancário
 
 706
 00:22:46,539 --> 00:22:46,919
-é completo.
+é complexo.
 
 707
 00:22:47,460 --> 00:22:49,619
@@ -2836,7 +2824,7 @@ Porque propomos ao mesmo tempo.
 
 710
 00:22:53,119 --> 00:22:54,879
-Não porque estava mal feito e não obrigia todos os jovens.
+Não porque estava mal feito e não abrangia todos os jovens.
 
 711
 00:22:55,119 --> 00:22:55,599
@@ -2916,7 +2904,7 @@ Não, mas a oferta tem outros problemas.
 
 730
 00:23:32,559 --> 00:23:34,659
-Hoje o Zando teve com os impostos que estes senhores aprovaram.
+A juzante tem a ver com os impostos que estes senhores aprovaram.
 
 731
 00:23:34,859 --> 00:23:35,779
@@ -3064,7 +3052,7 @@ o seu Estado de conservação e o seu uso.
 
 767
 00:24:52,860 --> 00:24:53,759
-A que uso é que está a feto?
+A que uso é que está afeto?
 
 768
 00:24:53,780 --> 00:24:55,360
@@ -3284,7 +3272,7 @@ Que é a ideia que só se pode defender o ambiente
 
 822
 00:26:54,320 --> 00:26:56,280
-fazer as pessoas pagarem mais de gás óleo e de gasolina
+fazer as pessoas pagarem mais de gasóleo e de gasolina
 
 823
 00:26:56,280 --> 00:26:57,600
@@ -3480,7 +3468,7 @@ Porque tem que equilibrar.
 
 871
 00:28:27,000 --> 00:28:29,040
-Porque eu gostava de ouvir uma justificação da Sra. Real.
+Porque eu gostava de ouvir uma justificação da Inês Sousa Real.
 
 872
 00:28:29,040 --> 00:28:30,040
@@ -3560,7 +3548,7 @@ Primeiro em relação à agricultura.
 
 891
 00:29:06,160 --> 00:29:08,759
-eram beneficiários produtores do IVA 0 no cabal essencial.
+puderam beneficiar os produtores do IVA 0 no cabaz essencial.
 
 892
 00:29:09,080 --> 00:29:11,320
@@ -3668,7 +3656,7 @@ Acabou o tempo.
 
 918
 00:29:51,360 --> 00:29:52,560
-Conseguimos proteger também os cabalos.
+Conseguimos proteger também os cavalos.
 
 919
 00:29:52,560 --> 00:29:54,220
@@ -3680,7 +3668,7 @@ Vão continuar a estevar seguramente.
 
 921
 00:29:56,940 --> 00:29:58,800
-Tendemos os cabalos mudados à lei de proteção animal.
+Tendemos os cavalos mudados à lei de proteção animal.
 
 922
 00:29:58,800 --> 00:30:01,580

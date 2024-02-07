@@ -22,29 +22,28 @@ function humanTime(secs) {
 function parseSrt(str) {
     const lines = str.split('\n');
     const result = [];
-    let content = '';
     try {
-        let l = lines.shift();
-        const index = parseInt(l, 10); // 1
+        while (true) {
+            let l = lines.shift();
+            const index = parseInt(l, 10); // 1
 
-        l = lines.shift();
-        parts = l.split(' --> '); // 00:00:11,380 --> 00:00:16,620
-        const [start, end] = parts.map(parseTime);
+            l = lines.shift();
+            parts = l.split(' --> '); // 00:00:11,380 --> 00:00:16,620
+            const [start, end] = parts.map(parseTime);
 
-        l = lines.shift();
-        content = l;
+            let content = '';
+            while (true) {
+                l = lines.shift();
+                if (!l) break;
+                if (!content) content = l;
+                else content = content + '\n' + l;
+            }
 
-        while (l = lines.shift()) {
-            console.log('keep going', l);
-            content += '\n' + l;
+            const o = { start, end, content, index };
+            result.push(o);
         }
-
-        const o = { start, end, content, index };
-        result.push(o);
-        console.log(o);
-        content = '';
     } catch (err) {
-        console.log('err', err);
+        //console.log('err', err);
     }
     return result;
 }
@@ -57,17 +56,5 @@ async function player(name) {
     const subtitleSrt = await fetch(subtitleUrl).then(r => r.text());
     const subtitles = parseSrt(subtitleSrt);
 
-    console.log('subtitles', subtitles);
-
-    return {
-        audio,
-        subtitles,
-        
-        play() {
-            audio.play();
-        },
-        pause() {
-            audio.pause();
-        }
-    }
+    return { audio, subtitles };
 }

@@ -21,18 +21,30 @@
             #progress {
                 width: 600px;
             }
+
+            #content {
+                background-color: aliceblue;
+                max-height: 60vh;
+                overflow-y: scroll;
+            }
+
+            .highlight {
+                background-color: yellow;
+            }
         </style>
     </head>
     <body>
         <ul>
             <li>5 fev (2a)</li>
             <ul>
-                <li>
-                    <span>PAN - CHEGA</span><button onclick="run('2024-02-05_pan-chega')">play</button>
-                </li>
-                <li>
-                    <span>PS - IL</span><button onclick="run('2024-02-05_ps-il')">play</button>
-                </li>
+                <li><span>PAN - CHEGA</span><button onclick="run('2024-02-05_pan-chega')">carregar</button></li>
+                <li><span>PS - IL    </span><button onclick="run('2024-02-05_ps-il')"    >carregar</button></li>
+            </ul>
+            <li>6 fev (3a)</li>
+            <ul>
+                <li><span>PCP - PAN </span><button onclick="run('2024-02-06_pcp-pan')" >carregar</button></li>
+                <li><span>AD - BE   </span><button onclick="run('2024-02-06_ad-be')"   >carregar</button></li>
+                <li><span>IL - CHEGA</span><button onclick="run('2024-02-06_il-chega')">carregar</button></li>
             </ul>
         </ul>
 
@@ -51,9 +63,40 @@
             const progressEl = document.getElementById('progress');
             const contentEl = document.getElementById('content');
 
+            let subEls, audio, subtitles, currentSubIndex;
+            currentSubIndex = -1;
+
+            const highlightSub = (idx) => {
+                subEls.forEach((subEl, i) => subEl.classList.toggle('highlight', i === idx));
+                subEls[idx]?.scrollIntoView({ behavior: 'auto', block: 'center', inline: 'center' });
+            }
+
+            contentEl.addEventListener('click', (ev) => {
+                const el = ev.target;
+                const start = parseFloat(el.dataset.start);
+                audio.currentTime = start;
+                currentSubIndex = subEls.indexOf(el);
+                highlightSub(currentSubIndex);
+            });
+
             async function run(name) {
-                const p = await player(name);
-                const audio = p.audio;
+                if (audio) audio.pause();
+
+                const p = (await player(name));
+                ({ audio, subtitles } = p);
+
+                contentEl.innerHTML = '';
+                subEls = [];
+
+                for (const { index, content, start, end } of subtitles) {
+                    const divEl = document.createElement('div');
+                    divEl.appendChild(document.createTextNode(content));
+                    divEl.dataset.index = index;
+                    divEl.dataset.start = start;
+                    divEl.dataset.end = end;
+                    contentEl.appendChild(divEl);
+                    subEls.push(divEl);
+                }
 
                 const onDuration = () => {
                     const d = audio.duration;
@@ -69,6 +112,12 @@
                     const ts = humanTime(ti);
                     if (timeEl.innerHTML != ts) timeEl.innerHTML = ts;
                     if (ti != progressEl.value) progressEl.value = ti;
+
+                    let sub = subtitles[currentSubIndex];
+                    if (!sub || t < sub.start || t > sub.end) {
+                        currentSubIndex = subtitles.findIndex((s, i) => s && t >= s.start && t <= s.end);
+                        highlightSub(currentSubIndex);
+                    }
                 });
 
                 progressEl.addEventListener('change', () => {
@@ -79,9 +128,7 @@
                     audio.paused ? audio.play() : audio.pause();
                 });
 
-                p.play();
-
-                //window.a = audio;
+                audio.play();
             }
         </script>
     </body>
