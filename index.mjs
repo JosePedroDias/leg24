@@ -1,6 +1,18 @@
 import { player } from './player.mjs';
 import { humanTime } from './subtitles.mjs';
 
+function parseHash() {
+    if (!location.hash) return ['', 0];
+    let [name, time] = location.hash.slice(1).split('/');
+    time = parseFloat(time);
+    if (isNaN(time)) time = 0;
+    return [name, time];
+}
+
+function updateHash(name, time = 0) {
+    location.hash = `${name}/${time}`;
+}
+
 export function main() {
     const listEl = document.getElementById('list');
     const uiEl = document.getElementById('ui');
@@ -15,6 +27,13 @@ export function main() {
 
     let subEls, audio, subtitles, metadata;
     let currentSubIndex = -1;
+
+    {
+        const [name, time] = parseHash();
+        if (name) {
+            run(name);
+        }
+    }
 
     const highlightSub = (idx) => {
         subEls.forEach((subEl, i) => subEl.classList.toggle('highlight', i === idx));
@@ -104,6 +123,9 @@ export function main() {
         audio.addEventListener('loadedmetadata', onDuration);
         audio.addEventListener('timeupdate', () => {
             const t = audio.currentTime;
+
+            updateHash(name, t.toFixed(1));
+
             const ti = Math.round(t);
             const ts = humanTime(ti);
             if (timeEl.innerHTML != ts) timeEl.innerHTML = ts;
@@ -159,6 +181,9 @@ export function main() {
 
         rew15El.addEventListener('click', () => move(-15));
         ffw15El.addEventListener('click', () => move( 15));
+
+        const t = parseHash()[1];
+        if (t) audio.currentTime = t;
 
         audio.play();
         togglePlayEl.focus();
