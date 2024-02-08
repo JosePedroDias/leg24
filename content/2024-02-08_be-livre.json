@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "m mortágua",
+        "r tavares"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "m mortágua": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "r tavares": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

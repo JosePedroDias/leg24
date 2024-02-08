@@ -2804,7 +2804,7 @@ Nós desejamos que as pessoas trabalhem menos tempo.
 
 702
 00:22:48,399 --> 00:22:49,119
-Não apoiá-las.
+Não apoiaram...
 
 703
 00:22:49,319 --> 00:22:50,079
@@ -3048,7 +3048,7 @@ Estas empresas juntaram-se voluntariamente.
 
 763
 00:24:51,059 --> 00:24:54,059
-O teste parece que direcionemos agora o foco para a habitação
+Peço que direcionemos agora o foco para a habitação
 
 764
 00:24:54,059 --> 00:24:56,059
@@ -3124,7 +3124,7 @@ Acho que basta olhar...
 
 782
 00:25:34,539 --> 00:25:36,539
-É abaixo do que tem vários países europeus.
+É abaixo do que têm vários países europeus.
 
 783
 00:25:36,539 --> 00:25:38,539
