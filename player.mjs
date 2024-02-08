@@ -10,7 +10,7 @@ export async function player(name) {
     const audio = new Audio(audioUrl);
     
     const metadata = await fetch(metadataUrl).then(r => {
-        if (r.ok) r.json();
+        if (r.ok) return r.json();
         return {
             bindings: ['moderator', 'A', 'B'],
             speakers: {
@@ -21,7 +21,7 @@ export async function player(name) {
         };
     });
 
-    window.metadata = metadata; // copy(JSON.stringify(window.metadata, null, 2))
+    window.metadata = metadata; // copy(JSON.stringify(window.metadata, null, 4))
 
     const subtitleSrt0 = await fetch(subtitleUrl).then(r => r.text());
     const subtitleSrt = subtitleSrt0.replaceAll(/\r\n/mg, '\n').replaceAll(/\r/mg, '\n');
