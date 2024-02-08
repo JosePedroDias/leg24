@@ -57,7 +57,7 @@ export function parseSrt(str) {
 export function serializeSrt(subs) {
     let result = '';
     for (const sub of subs) {
-        result += sub.index + '\n';
+        result += sub.srtIndex + '\n';
         result += machineTime(sub.start) + ' --> ' + machineTime(sub.end) + '\n';
         result += sub.content + '\n\n';
     }
