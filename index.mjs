@@ -13,8 +13,8 @@ export function main() {
     const progressEl = document.getElementById('progress');
     const contentEl = document.getElementById('content');
 
-    let subEls, audio, subtitles, currentSubIndex;
-    currentSubIndex = -1;
+    let subEls, audio, subtitles, metadata;
+    let currentSubIndex = -1;
 
     const highlightSub = (idx) => {
         subEls.forEach((subEl, i) => subEl.classList.toggle('highlight', i === idx));
@@ -40,19 +40,52 @@ export function main() {
 
         if (audio) audio.pause();
 
-        const p = (await player('content/' + name));
-        ({ audio, subtitles } = p);
+        const p = (await player(name));
+        ({ audio, subtitles, metadata } = p);
 
-        //console.log(subtitles)
+        const lookForSpeaker = (index) => {
+            for (const [k, v] of Object.entries(metadata.speakers)) {
+                if (v.subtitles.includes(index)) return k;
+            }
+        }
+
+        const setSubtitleSpeaker = (index, name) => {
+            for (const [k, v] of Object.entries(metadata.speakers)) {
+                const foundPos = v.subtitles.indexOf(index);
+                if (k === name) {
+                    if (foundPos === -1) {
+                        v.subtitles.push(index);
+                        v.subtitles.sort((a, b) => a - b);
+                    }
+                } else {
+                    if (foundPos !== -1) {
+                        v.subtitles.splice(foundPos, 1);
+                    }
+                }
+            }
+        }
+
+        const colorizeSub = (divEl) => {
+            const index = Number(divEl.dataset.srtIndex);
+            const speaker = lookForSpeaker(index);
+            if (speaker) {
+                const color = metadata.speakers[speaker].color;
+                divEl.style.borderLeft = `4px solid ${color}`;
+            } else {
+                divEl.style.borderLeft = ``;
+            }
+        }
 
         contentEl.innerHTML = '';
         subEls = [];
 
-        for (const { content } of subtitles) {
+        for (const { srtIndex, content } of subtitles) {
             const divEl = document.createElement('div');
-            divEl.appendChild(document.createTextNode(content));
-            contentEl.appendChild(divEl);
             subEls.push(divEl);
+            divEl.appendChild(document.createTextNode(content));
+            divEl.dataset.srtIndex = srtIndex;
+            colorizeSub(divEl);
+            contentEl.appendChild(divEl);
         }
 
         const onDuration = () => {
@@ -102,6 +135,15 @@ export function main() {
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
+            else if (['1', '2', '3', '§'].includes(ev.key)) {
+                if (currentSubIndex === -1) return;
+                const name = metadata.bindings[Number(ev.key) - 1];
+                setSubtitleSpeaker(currentSubIndex + 1, name);
+                colorizeSub(subEls[currentSubIndex]);
+                //console.log(JSON.stringify(metadata, null, 2));
+            } else {
+                //console.log(ev.key);
+            }
 
             if (deltaSecs || deltaIndex) {
                 ev.preventDefault();

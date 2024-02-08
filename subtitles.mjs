@@ -31,7 +31,7 @@ export function parseSrt(str) {
     try {
         while (true) {
             let l = lines.shift();
-            const index = parseInt(l, 10); // 1
+            const srtIndex = parseInt(l, 10); // 1
 
             l = lines.shift();
             const parts = l.split(' --> '); // 00:00:11,380 --> 00:00:16,620
@@ -45,7 +45,7 @@ export function parseSrt(str) {
                 else content = content + '\n' + l;
             }
 
-            const o = { start, end, content, index };
+            const o = { start, end, content, srtIndex };
             result.push(o);
         }
     } catch (err) {
@@ -66,7 +66,7 @@ export function serializeSrt(subs) {
 
 export function fixSubtitles(subs) {
     let lastSub = {
-        index: 0,
+        srtIndex: 0,
         start: 0,
         end: 0,
         content: '',
@@ -76,10 +76,10 @@ export function fixSubtitles(subs) {
         startShifts: 0,
     };
     for (const sub of subs) {
-        if (sub.index !== lastSub.index + 1) {
-            sub.index = lastSub.index + 1;
+        if (sub.srtIndex !== lastSub.srtIndex + 1) {
+            sub.srtIndex = lastSub.srtIndex + 1;
             ++stats.indexChanges;
-            //console.log(`fixed #${sub.index} index`);
+            //console.log(`fixed #${sub.srtIndex} srtIndex`);
         }
         const gap = sub.start - lastSub.end;
         if (gap < 0) {
