@@ -1648,7 +1648,7 @@ E já agora fechava os outros bancos e ficava só a Caixa Geral de Depósitos.
 
 413
 00:19:11,700 --> 00:19:14,700
-Acho que quero ouvir o doutor Luís Mandeiro aceitar as regras da concorrência
+Acho que quero ouvir o doutor Luís Montenegro aceitar as regras da concorrência
 
 414
 00:19:14,700 --> 00:19:16,700
@@ -2183,8 +2183,7 @@ Não, não são ricos.
 É preciso aproveitar as suas potencialidades.
 
 547
-NaN:NaN:000NaN --> NaN:NaN:000NaN
-
+...
 
 548
 00:26:11,700 --> 00:26:12,700
@@ -2300,7 +2299,7 @@ E não é isso que tira a habitação às pessoas.
 
 576
 00:27:17,700 --> 00:27:18,700
-É a lei que permite o descuento às pessoas.
+É a lei que permite expulsar as pessoas.
 
 577
 00:27:18,700 --> 00:27:19,700

@@ -19,8 +19,7 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 8/2
 
-- 18h SICN: [BE - Livre]
-
+- 18h SICN: [BE - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-08-Debate-BE-vs.-Livre-e-mais-o-que-nos-une-do-que-nos-separa--2fddbf55)
 
 ## Process
 
