@@ -1,19 +1,19 @@
 {
     "bindings": [
-        "moderator",
-        "A",
-        "B"
+        "moderador",
+        "r rocha",
+        "a ventura"
     ],
     "speakers": {
-        "moderator": {
+        "moderador": {
             "color": "gray",
             "subtitles": []
         },
-        "A": {
+        "r rocha": {
             "color": "cyan",
             "subtitles": []
         },
-        "B": {
+        "a ventura": {
             "color": "magenta",
             "subtitles": []
         }
