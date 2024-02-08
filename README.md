@@ -17,34 +17,37 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 - 18h CNN: [IL - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-07-Debate-Livre-vs-IL-os-dois-Ruis-o-canalizador-e-o-transformador-b721084e)
 
-## Process
+## 8/2
 
+- 18h SICN: [BE - Livre]
+
+
+## Process
 
 ### VLC download stream to file
 
-save m3u8 stream to file on VLC:
-vlc open network
-first m3u8...
-stream output
-settings
-file ... asd.ts
-MPEG TS
+- save m3u8 stream to file on VLC:
+- vlc open network
+- first m3u8...
+- stream output
+- settings
+- file ... asd.ts
+- MPEG TS
 
 ### FFMPEG extract aac stream and convert to mp3
 
-check it plays:
-ffplay vlc-output.ts
-
-video to audio without transcoding:
-ffmpeg -i vlc-output.ts -vn -acodec copy audio.aac
-
-aac to mp3
-ffmpeg -i audio.aac -acodec mp3 audio.mp3
-
+- check it plays: `ffplay vlc-output.ts`
+- video to audio without transcoding: `ffmpeg -i vlc-output.ts -vn -acodec copy audio.aac`
+- aac to mp3: `ffmpeg -i audio.aac -acodec mp3 audio.mp3`
 
 ### transcribe mp3 to srt
 
-pinokio + whisper webui
-large v3
-portuguese
-mp3 file...
+- pinokio + whisper webui
+- large v3
+- portuguese
+- mp3 file...
+
+### editing tools
+
+- vscode
+- https://www.nikse.dk/subtitleedit/online
