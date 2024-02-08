@@ -1,26 +1,48 @@
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
 body {
     font-family: sans-serif;
 }
 
 button {
     display: inline-block;
-    margin-left: 10px;
+    min-width: 2.2em;
+    height: 2.2em;
+    font-size: 1em;
 }
 
-li span {
+#list li span {
     display: inline-block;
     width: 120px;
 }
 
+#ui {
+    display: none;
+    height: 10dvh;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
 #progress {
     width: 600px;
-    max-width: 90vw;
+    max-width: 95vw;
 }
 
 #content {
     background-color: aliceblue;
-    max-height: 60vh;
+    max-height: 90dvh;
     overflow-y: scroll;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+#content div {
+    padding: 0 0.5em;
 }
 
 .highlight {

@@ -2,6 +2,9 @@ import { player } from './player.mjs';
 import { humanTime } from './subtitles.mjs';
 
 export function main() {
+    const listEl = document.getElementById('list');
+    const uiEl = document.getElementById('ui');
+
     const timeEl = document.getElementById('time');
     const durationEl = document.getElementById('duration');
     const togglePlayEl = document.getElementById('toggle-play');
@@ -32,6 +35,9 @@ export function main() {
     contentEl.addEventListener('click', (ev) => onClickContentEl(ev.target));
 
     async function run(name) {
+        listEl.style.display = 'none';
+        uiEl.style.display = 'block';
+
         if (audio) audio.pause();
 
         const p = (await player('content/' + name));

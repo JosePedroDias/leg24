@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        <ul>
+        <ul id="list">
             <li>5 fev (2a)</li>
             <ul>
                 <li><span>PAN - Chega</span><button onclick="run('2024-02-05_pan-chega')">carregar</button></li>
@@ -37,11 +37,13 @@
         <!-- <p>* - transcrição por rever</p> -->
 
         <div id="ui">
-            <span>
-                <span id="time">0:00</span> / <span id="duration">0:00</span>
-                <button id="rew-15">⏪</button>
-                <button id="toggle-play">⏯️</button>
-                <button id="ffw-15">⏩</button>
+            <span id="ui1">
+                <span id="time-col">
+                    <span id="time">0:00</span> / <span id="duration">0:00</span>
+                </span>
+                <span id="controls-col">
+                    <button id="rew-15">⏪</button><button id="toggle-play">⏯️</button><button id="ffw-15">⏩</button>
+                </span>
             </span>
             <input id="progress" type="range" step="1" value="0">
         </div>
