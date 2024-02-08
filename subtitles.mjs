@@ -11,7 +11,13 @@ function parseTime(str) {
     return hh * 3600 + mm * 60 + ss + frac;
 }
 
-function humanTime(secs) {
+function machineTime(secs) {
+    const hh = Math.floor(secs / 3600); secs -= hh * 3600;
+    const mm = Math.floor(secs /   60); secs -= mm *   60;
+    return `${hh.toString().padStart(2, '0')}:${mm.toString().padStart(2, '0')}:${secs.toFixed(3).padStart(6, '0').replace('.', ',')}`;
+}
+
+export function humanTime(secs) {
     const hh = Math.floor(secs / 3600); secs -= hh * 3600;
     const mm = Math.floor(secs /   60); secs -= mm *   60;
     const ss = Math.floor(secs);
@@ -19,13 +25,7 @@ function humanTime(secs) {
     return `${mm}:${ss.toString().padStart(2, '0')}`;
 }
 
-function machineTime(secs) {
-    const hh = Math.floor(secs / 3600); secs -= hh * 3600;
-    const mm = Math.floor(secs /   60); secs -= mm *   60;
-    return `${hh.toString().padStart(2, '0')}:${mm.toString().padStart(2, '0')}:${secs.toFixed(3).padStart(6, '0').replace('.', ',')}`;
-}
-
-function parseSrt(str) {
+export function parseSrt(str) {
     const lines = str.split('\n');
     const result = [];
     try {
@@ -34,7 +34,7 @@ function parseSrt(str) {
             const index = parseInt(l, 10); // 1
 
             l = lines.shift();
-            parts = l.split(' --> '); // 00:00:11,380 --> 00:00:16,620
+            const parts = l.split(' --> '); // 00:00:11,380 --> 00:00:16,620
             const [start, end] = parts.map(parseTime);
 
             let content = '';
@@ -54,7 +54,7 @@ function parseSrt(str) {
     return result;
 }
 
-function serializeSrt(subs) {
+export function serializeSrt(subs) {
     let result = '';
     for (const sub of subs) {
         result += sub.index + '\n';
@@ -64,7 +64,7 @@ function serializeSrt(subs) {
     return result;
 }
 
-function fixSubtitles(subs) {
+export function fixSubtitles(subs) {
     let lastSub = {
         index: 0,
         start: 0,

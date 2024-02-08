@@ -1,4 +1,6 @@
-async function player(name) {
+import { parseSrt, serializeSrt, fixSubtitles } from './subtitles.mjs';
+
+export async function player(name) {
     const audioUrl = `${name}.mp3`;
     const subtitleUrl = `${name}.srt`;
 
