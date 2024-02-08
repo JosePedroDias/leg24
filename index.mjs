@@ -76,10 +76,13 @@ export function main() {
             if (timeEl.innerHTML != ts) timeEl.innerHTML = ts;
             if (ti != progressEl.value) progressEl.value = ti;
 
-            let sub = subtitles[currentSubIndex];
+            const sub = subtitles[currentSubIndex];
             if (!sub || t < sub.start || t > sub.end) {
-                currentSubIndex = subtitles.findIndex((s, i) => s && t >= s.start && t <= s.end);
-                highlightSub(currentSubIndex);
+                const newIndex = subtitles.findIndex((s) => s && t >= s.start && t <= s.end);
+                if (newIndex !== -1) {
+                    currentSubIndex = newIndex;
+                    highlightSub(currentSubIndex);
+                }
             }
         });
 
