@@ -1,7 +1,7 @@
 {
     "bindings": [
         "moderador",
-        "i corte-real",
+        "i sousa real",
         "m ventura"
     ],
     "speakers": {
@@ -255,7 +255,7 @@
                 924
             ]
         },
-        "i corte-real": {
+        "i sousa real": {
             "color": "cyan",
             "subtitles": [
                 124,
