@@ -20,6 +20,7 @@ export function main() {
     const timeEl = document.getElementById('time');
     const durationEl = document.getElementById('duration');
     const togglePlayEl = document.getElementById('toggle-play');
+    const toMenuEl = document.getElementById('to-menu');
     const rew15El = document.getElementById('rew-15');
     const ffw15El = document.getElementById('ffw-15');
     const progressEl = document.getElementById('progress');
@@ -181,6 +182,8 @@ export function main() {
 
         rew15El.addEventListener('click', () => move(-15));
         ffw15El.addEventListener('click', () => move( 15));
+
+        toMenuEl.addEventListener('click', () => location.href = '');
 
         const t = parseHash()[1];
         if (t) audio.currentTime = t;
