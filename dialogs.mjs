@@ -1,7 +1,6 @@
-export function alertDialog(contentText, buttonLabels = ['ok'], dialogClass) {
+function baseDialog(contentText, populateFn) {
     return new Promise((resolve) => {
         const dialogEl = document.createElement('dialog');
-        dialogEl.className = dialogClass || 'default';
         dialogEl.setAttribute('open', '');
 
         dialogEl.addEventListener('mousedown', (ev) => ev.stopPropagation());
@@ -15,16 +14,6 @@ export function alertDialog(contentText, buttonLabels = ['ok'], dialogClass) {
             dialogEl.close();
             dialogEl.parentNode?.removeChild(dialogEl);
             resolve(result);
-        }
-
-        let firstButtonEl;
-        for (const buttonLabel of buttonLabels) {
-            const buttonEl = document.createElement('button');
-            if (!firstButtonEl) firstButtonEl = buttonEl;
-            buttonEl.type = 'button';
-            buttonEl.appendChild( document.createTextNode(buttonLabel) );
-            buttonEl.addEventListener('click', () => onEnd(buttonLabel));
-            dialogEl.appendChild(buttonEl);
         }
 
         const onKeyDown = (ev) => {
@@ -36,7 +25,7 @@ export function alertDialog(contentText, buttonLabels = ['ok'], dialogClass) {
 
         document.body.appendChild(dialogEl);
 
-        firstButtonEl?.focus();
+        populateFn(dialogEl, onEnd);
 
         const o = dialogEl.getBoundingClientRect();
         dialogEl.style.marginLeft = `-${o.width  / 2}px`;
@@ -44,37 +33,28 @@ export function alertDialog(contentText, buttonLabels = ['ok'], dialogClass) {
     });
 }
 
-function promptDialog(contentText, initialValue = '', dialogClass) {
-    return new Promise((resolve) => {
-        const dialogEl = document.createElement('dialog');
-        dialogEl.className = dialogClass || 'default';
-        dialogEl.setAttribute('open', '');
-
-        dialogEl.addEventListener('mousedown', (ev) => ev.stopPropagation());
-
-        const pEl = document.createElement('div');
-        pEl.appendChild( document.createTextNode(contentText) );
-        dialogEl.appendChild(pEl);
-
-        const onEnd = (result) => {
-            window.removeEventListener('keydown', onKeyDown);
-            dialogEl.close();
-            dialogEl.parentNode?.removeChild(dialogEl);
-            resolve(result);
+export function alertDialog(contentText, buttonLabels = ['ok']) {
+    return baseDialog(contentText, (dialogEl, onEnd) => {
+        let firstButtonEl;
+        for (const buttonLabel of buttonLabels) {
+            const buttonEl = document.createElement('button');
+            if (!firstButtonEl) firstButtonEl = buttonEl;
+            buttonEl.type = 'button';
+            buttonEl.appendChild( document.createTextNode(buttonLabel) );
+            buttonEl.addEventListener('click', () => onEnd(buttonLabel));
+            dialogEl.appendChild(buttonEl);
         }
+        firstButtonEl?.focus();
+    });
+}
 
+function promptDialog(contentText, initialValue = '', dialogClass) {
+    return baseDialog(contentText, (dialogEl, onEnd) => {
         const inputEl = document.createElement('input');
         inputEl.type = 'text';
         inputEl.style.width = '80dvw';
         inputEl.value = initialValue;
         dialogEl.appendChild(inputEl);
-
-        const onKeyDown = (ev) => {
-            const key = ev.key;
-            if (key === 'Escape') onEnd('');
-        };
-
-        window.addEventListener('keydown', onKeyDown);
 
         inputEl.addEventListener('keyup', () => {
             inputEl.value = inputEl.value.substring(0, inputEl.value.length - 1);
@@ -87,13 +67,7 @@ function promptDialog(contentText, initialValue = '', dialogClass) {
             onEnd(inputEl.value);
         });
 
-        document.body.appendChild(dialogEl);
-
         inputEl.focus();
-
-        const o = dialogEl.getBoundingClientRect();
-        dialogEl.style.marginLeft = `-${o.width  / 2}px`;
-        dialogEl.style.marginTop  = `-${o.height / 2}px`;
     });
 }
 
