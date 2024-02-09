@@ -48,3 +48,18 @@ button {
 .highlight {
     background-color: yellow;
 }
+
+dialog {
+    font-size: 16px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border: 1px solid #333;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    vertical-align: middle;
+}
+
+dialog div {
+    margin-bottom: 10px;
+    text-align: center;
+}

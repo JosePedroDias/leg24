@@ -1,5 +1,6 @@
 import { player } from './player.mjs';
 import { humanTime, serializeSrt } from './subtitles.mjs';
+import { joinDialog, splitDialog, editDialog } from './dialogs.mjs';
 
 const IS_EDITING = ['127.0.0.1', 'localhost'].includes(location.hostname);
 
@@ -163,19 +164,70 @@ export function main() {
             audio.paused ? audio.play() : audio.pause();
         });
 
-        togglePlayEl.addEventListener('keydown', (ev) => {
+        togglePlayEl.addEventListener('keydown', async (ev) => {
+            const sub = subtitles[currentSubIndex];
             let deltaSecs = 0;
             let deltaIndex = 0;
             if      (ev.key === 'ArrowLeft')  deltaSecs = -15;
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
-            else if (IS_EDITING) {
+            else if (IS_EDITING && sub && ['j', 's', 'e', '1', '2', '3', '§'].includes(ev.key)) {
                 if (ev.key === 'j') {
+                    audio.pause();
+                    const mode = await joinDialog();
+                    console.log('TODO join', mode);
+                    if (mode === '') { return;
+                    } else if (mode === 'with previous') {
+                        const prevSub = subtitles[currentSubIndex - 1];
+                        sub.start = prevSub.start;
+                        sub.content = prevSub.content + ' ' + sub.content;
+                        subtitles.splice(currentSubIndex - 1, 1);
+                        --currentSubIndex;
+                        
+                    } else if (mode === 'with next') {
+                        const nextSub = subtitles[currentSubIndex + 1];
+                        sub.end = nextSub.end;
+                        sub.content = sub.content + ' ' + nextSub.content;
+                        subtitles.splice(currentSubIndex + 1, 1);
+                    }
+                    // TODO: reassign speaker indices
+                    // TODO: update list
                     updateFile(name, 'srt', serializeSrt(subtitles));
                 } else if (ev.key === 's') {
+                    audio.pause();
+                    const result = await splitDialog();
+                    if (result === '') return;
+                    const ratio = parseFloat(result);
+                    const tCut = sub.start + ratio * (sub.end - sub.start);
+                    const len = sub.content.length;
+                    let cutIndex = Math.round(ratio * len);
+                    while (cutIndex > 0) {
+                        if ([' ', '\n'].includes(sub.content[cutIndex])) break;
+                        --cutIndex;
+                    }
+                    
+                    const content0 = sub.content.slice(0, cutIndex);
+                    const content1 = sub.content.slice(cutIndex + 1);
+                    const nextSub = {
+                        srtIndex: currentSubIndex + 1,
+                        start: tCut,
+                        end: sub.end,
+                        content: content1,
+                    }
+                    sub.end = tCut;
+                    sub.content = content0;
+                    subtitles.splice(currentSubIndex + 1, 0, nextSub);
+
+                    // TODO: reassign speaker indices
+                    // TODO: update list
                     updateFile(name, 'srt', serializeSrt(subtitles));
                 } else if (ev.key === 'e') {
+                    audio.pause();
+                    const content = await editDialog(sub.content);
+                    if (!content) return;
+                    sub.content = content;
+                    // TODO: update list
                     updateFile(name, 'srt', serializeSrt(subtitles));
                 } else if (['1', '2', '3', '§'].includes(ev.key)) {
                     if (currentSubIndex === -1) return;
