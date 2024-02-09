@@ -26,6 +26,7 @@ export function humanTime(secs) {
 }
 
 export function parseSrt(str) {
+    str = str.replaceAll(/\r\n/mg, '\n').replaceAll(/\r/mg, '\n');
     const lines = str.split('\n');
     const result = [];
     try {
@@ -55,6 +56,8 @@ export function parseSrt(str) {
 }
 
 export function serializeSrt(subs) {
+    fixSubtitles(subs);
+
     let result = '';
     let li = 0;
     for (const sub of subs) {

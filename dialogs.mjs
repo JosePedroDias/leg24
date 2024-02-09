@@ -1,4 +1,4 @@
-function alertDialog(contentText, buttonLabels = ['ok'], dialogClass) {
+export function alertDialog(contentText, buttonLabels = ['ok'], dialogClass) {
     return new Promise((resolve) => {
         const dialogEl = document.createElement('dialog');
         dialogEl.className = dialogClass || 'default';
@@ -106,5 +106,5 @@ export function joinDialog() {
 }
 
 export function splitDialog() {
-    return alertDialog('split', ['0.1', '0.2', '0.3', '0.4', '0.5', '0.6', '0.7', '0.8', '0.9']);
+    return alertDialog('split', ['0.2', '0.3', '0.4', '0.5', '0.6', '0.7', '0.8']);
 }

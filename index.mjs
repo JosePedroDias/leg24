@@ -1,12 +1,12 @@
 import { player } from './player.mjs';
 import { humanTime, serializeSrt } from './subtitles.mjs';
-import { joinDialog, splitDialog, editDialog } from './dialogs.mjs';
+import { alertDialog, joinDialog, splitDialog, editDialog } from './dialogs.mjs';
 
 const IS_EDITING = ['127.0.0.1', 'localhost'].includes(location.hostname);
 
 function updateFile(name, ext, content) {
     if (!IS_EDITING) return;
-    fetch(
+    return fetch(
         `http://${location.hostname}:9091/${name}.${ext}`,
         {
             method: 'POST',
@@ -68,6 +68,10 @@ export function main() {
     contentEl.addEventListener('click', (ev) => onClickContentEl(ev.target));
 
     async function run(name) {
+        const saveSubs = () => updateFile(name, 'srt', serializeSrt(subtitles));
+        const saveMeta = () => updateFile(name, 'json', JSON.stringify(metadata, null, 4));
+        const saveBoth = () => Promise.all([saveSubs(), saveMeta()]);
+
         listEl.style.display = 'none';
         uiEl.style.display = 'block';
 
@@ -98,6 +102,12 @@ export function main() {
             }
         }
 
+        const reassignSpeakerIndices = (fn) => {
+            for (const [_, v] of Object.entries(metadata.speakers)) {
+                v.subtitles = v.subtitles.map(fn).filter(i => i !== -1);
+            }
+        };
+
         const colorizeSub = (divEl) => {
             const index = Number(divEl.dataset.srtIndex);
             const speaker = lookForSpeaker(index);
@@ -109,17 +119,21 @@ export function main() {
             }
         }
 
-        contentEl.innerHTML = '';
-        subEls = [];
+        const updateList = () => {
+            contentEl.innerHTML = '';
+            subEls = [];
 
-        for (const { srtIndex, content } of subtitles) {
-            const divEl = document.createElement('div');
-            subEls.push(divEl);
-            divEl.appendChild(document.createTextNode(content));
-            divEl.dataset.srtIndex = srtIndex;
-            colorizeSub(divEl);
-            contentEl.appendChild(divEl);
+            for (const { srtIndex, content } of subtitles) {
+                const divEl = document.createElement('div');
+                subEls.push(divEl);
+                divEl.appendChild(document.createTextNode(content));
+                divEl.dataset.srtIndex = srtIndex;
+                colorizeSub(divEl);
+                contentEl.appendChild(divEl);
+            }
         }
+
+        updateList();
 
         const onDuration = () => {
             const d = audio.duration;
@@ -191,9 +205,11 @@ export function main() {
                         sub.content = sub.content + ' ' + nextSub.content;
                         subtitles.splice(currentSubIndex + 1, 1);
                     }
-                    // TODO: reassign speaker indices
-                    // TODO: update list
-                    updateFile(name, 'srt', serializeSrt(subtitles));
+
+                    const decreaseFrom = currentSubIndex;
+                    reassignSpeakerIndices((idx) => idx > decreaseFrom ? idx - 1 : idx);
+                    updateList();
+                    saveBoth();
                 } else if (ev.key === 's') {
                     audio.pause();
                     const result = await splitDialog();
@@ -206,9 +222,11 @@ export function main() {
                         if ([' ', '\n'].includes(sub.content[cutIndex])) break;
                         --cutIndex;
                     }
+                    if (cutIndex === 0) return alertDialog('you need to increase the split ratio');
                     
                     const content0 = sub.content.slice(0, cutIndex);
                     const content1 = sub.content.slice(cutIndex + 1);
+
                     const nextSub = {
                         srtIndex: currentSubIndex + 1,
                         start: tCut,
@@ -219,22 +237,25 @@ export function main() {
                     sub.content = content0;
                     subtitles.splice(currentSubIndex + 1, 0, nextSub);
 
-                    // TODO: reassign speaker indices
-                    // TODO: update list
-                    updateFile(name, 'srt', serializeSrt(subtitles));
+                    const increaseFrom = currentSubIndex;
+                    reassignSpeakerIndices((idx) => idx > increaseFrom ? idx + 1 : idx);
+
+                    updateList();
+                    saveBoth();
                 } else if (ev.key === 'e') {
                     audio.pause();
                     const content = await editDialog(sub.content);
                     if (!content) return;
                     sub.content = content;
-                    // TODO: update list
-                    updateFile(name, 'srt', serializeSrt(subtitles));
+
+                    updateList();
+                    saveSubs();
                 } else if (['1', '2', '3', '§'].includes(ev.key)) {
                     if (currentSubIndex === -1) return;
                     const speaker = metadata.bindings[Number(ev.key) - 1];
                     setSubtitleSpeaker(currentSubIndex + 1, speaker);
                     colorizeSub(subEls[currentSubIndex]);
-                    updateFile(name, 'json', JSON.stringify(metadata, null, 4));
+                    saveMeta();
                 }
             }
 

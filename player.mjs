@@ -21,18 +21,8 @@ export async function player(name) {
         };
     });
 
-    window.metadata = metadata; // copy(JSON.stringify(window.metadata, null, 4))
-
-    const subtitleSrt0 = await fetch(subtitleUrl).then(r => r.text());
-    const subtitleSrt = subtitleSrt0.replaceAll(/\r\n/mg, '\n').replaceAll(/\r/mg, '\n');
-    if (subtitleSrt !== subtitleSrt0) console.log('fixed line breaks');
+    const subtitleSrt = await fetch(subtitleUrl).then(r => r.text());
     const subtitles = parseSrt(subtitleSrt);
-
-    if (false) {
-        fixSubtitles(subtitles);
-        const subtitleSrt2 = serializeSrt(subtitles);
-        window.subs = subtitleSrt2; // copy(subs)
-    }
     
     return { audio, subtitles, metadata };
 }
