@@ -1,6 +1,6 @@
 import { player } from './player.mjs';
 import { humanTime, serializeSrt, lookForSpeaker, setSubtitleSpeaker, reassignSpeakerIndices } from './subtitles.mjs';
-import { alertDialog, joinDialog, splitDialog, editDialog } from './dialogs.mjs';
+import { alertDialog, joinDialog, splitDialog, editDialog, tweakTimesDialog } from './dialogs.mjs';
 import { computeStats } from './stats.mjs';
 
 const IS_EDITING = ['127.0.0.1', 'localhost'].includes(location.hostname);
@@ -161,11 +161,10 @@ export function main() {
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
-            else if (IS_EDITING && sub && ['j', 's', 'e', '1', '2', '3', '§', '0'].includes(ev.key)) {
+            else if (IS_EDITING && sub && ['j', 's', 'e', 't', '1', '2', '3', '§', '0'].includes(ev.key)) {
                 if (ev.key === 'j') {
                     audio.pause();
                     const mode = await joinDialog();
-                    console.log('TODO join', mode);
                     if (mode === '') { return;
                     } else if (mode === 'with previous') {
                         const prevSub = subtitles[currentSubIndex - 1];
@@ -224,6 +223,11 @@ export function main() {
                     sub.content = content;
 
                     updateList();
+                    saveSubs();
+                } else if (ev.key === 't') {
+                    if (currentSubIndex < 1 || currentSubIndex > subtitles.length - 2) return;
+                    audio.pause();
+                    await tweakTimesDialog(subtitles, currentSubIndex, audio);
                     saveSubs();
                 } else if (['1', '2', '3', '§'].includes(ev.key)) {
                     if (currentSubIndex === -1) return;
