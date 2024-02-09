@@ -104,3 +104,40 @@ export function fixSubtitles(subs) {
 
     console.log('stats', stats);
 }
+
+//////
+
+export function lookForSpeaker(metadata, index) {
+    for (const [k, v] of Object.entries(metadata.speakers)) {
+        if (v.subtitles.includes(index)) return k;
+    }
+}
+
+export function setSubtitleSpeaker(metadata, index, name) {
+    for (const [k, v] of Object.entries(metadata.speakers)) {
+        const foundPos = v.subtitles.indexOf(index);
+        if (k === name) {
+            if (foundPos === -1) {
+                v.subtitles.push(index);
+                v.subtitles.sort((a, b) => a - b);
+            }
+        } else {
+            if (foundPos !== -1) {
+                v.subtitles.splice(foundPos, 1);
+            }
+        }
+    }
+}
+
+export function reassignSpeakerIndices(metadata, fn) {
+    for (const [_, v] of Object.entries(metadata.speakers)) {
+        v.subtitles = v.subtitles.map(fn).filter(i => i !== -1);
+    }
+}
+
+export function getSubtitleSpeakerPairs(subtitles, metadata) {
+    return subtitles.map((sub) => {
+        const speaker = lookForSpeaker(metadata, sub.srtIndex);
+        return [sub, speaker];
+    });
+}

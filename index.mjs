@@ -1,6 +1,7 @@
 import { player } from './player.mjs';
-import { humanTime, serializeSrt } from './subtitles.mjs';
+import { humanTime, serializeSrt, lookForSpeaker, setSubtitleSpeaker, reassignSpeakerIndices } from './subtitles.mjs';
 import { alertDialog, joinDialog, splitDialog, editDialog } from './dialogs.mjs';
+import { computeStats } from './stats.mjs';
 
 const IS_EDITING = ['127.0.0.1', 'localhost'].includes(location.hostname);
 
@@ -80,37 +81,11 @@ export function main() {
         const p = (await player(name));
         ({ audio, subtitles, metadata } = p);
 
-        const lookForSpeaker = (index) => {
-            for (const [k, v] of Object.entries(metadata.speakers)) {
-                if (v.subtitles.includes(index)) return k;
-            }
-        }
-
-        const setSubtitleSpeaker = (index, name) => {
-            for (const [k, v] of Object.entries(metadata.speakers)) {
-                const foundPos = v.subtitles.indexOf(index);
-                if (k === name) {
-                    if (foundPos === -1) {
-                        v.subtitles.push(index);
-                        v.subtitles.sort((a, b) => a - b);
-                    }
-                } else {
-                    if (foundPos !== -1) {
-                        v.subtitles.splice(foundPos, 1);
-                    }
-                }
-            }
-        }
-
-        const reassignSpeakerIndices = (fn) => {
-            for (const [_, v] of Object.entries(metadata.speakers)) {
-                v.subtitles = v.subtitles.map(fn).filter(i => i !== -1);
-            }
-        };
+        
 
         const colorizeSub = (divEl) => {
             const index = Number(divEl.dataset.srtIndex);
-            const speaker = lookForSpeaker(index);
+            const speaker = lookForSpeaker(metadata, index);
             if (speaker) {
                 const color = metadata.speakers[speaker].color;
                 divEl.style.borderLeft = `4px solid ${color}`;
@@ -186,7 +161,7 @@ export function main() {
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
-            else if (IS_EDITING && sub && ['j', 's', 'e', '1', '2', '3', '§'].includes(ev.key)) {
+            else if (IS_EDITING && sub && ['j', 's', 'e', '1', '2', '3', '§', '0'].includes(ev.key)) {
                 if (ev.key === 'j') {
                     audio.pause();
                     const mode = await joinDialog();
@@ -207,7 +182,7 @@ export function main() {
                     }
 
                     const decreaseFrom = currentSubIndex;
-                    reassignSpeakerIndices((idx) => idx > decreaseFrom ? idx - 1 : idx);
+                    reassignSpeakerIndices(metadata, (idx) => idx > decreaseFrom ? idx - 1 : idx);
                     updateList();
                     saveBoth();
                 } else if (ev.key === 's') {
@@ -238,7 +213,7 @@ export function main() {
                     subtitles.splice(currentSubIndex + 1, 0, nextSub);
 
                     const increaseFrom = currentSubIndex;
-                    reassignSpeakerIndices((idx) => idx > increaseFrom ? idx + 1 : idx);
+                    reassignSpeakerIndices(metadata, (idx) => idx > increaseFrom ? idx + 1 : idx);
 
                     updateList();
                     saveBoth();
@@ -253,9 +228,12 @@ export function main() {
                 } else if (['1', '2', '3', '§'].includes(ev.key)) {
                     if (currentSubIndex === -1) return;
                     const speaker = metadata.bindings[Number(ev.key) - 1];
-                    setSubtitleSpeaker(currentSubIndex + 1, speaker);
+                    setSubtitleSpeaker(metadata, currentSubIndex + 1, speaker);
                     colorizeSub(subEls[currentSubIndex]);
                     saveMeta();
+                } else if (ev.key === '0') {
+                    const stats = computeStats(subtitles, metadata);
+                    console.log(stats);
                 }
             }
 
