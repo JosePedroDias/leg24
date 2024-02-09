@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "r rocha",
+        "i sousa real"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "r rocha": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "i sousa real": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
