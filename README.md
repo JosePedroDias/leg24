@@ -21,6 +21,13 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 - 18h SICN: [BE - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-08-Debate-BE-vs.-Livre-e-mais-o-que-nos-une-do-que-nos-separa--2fddbf55)
 
+## 9/2
+
+- 18h SICN: [IL - PAN]
+- 21h RTP:  [PS - Livre]
+- 22h CNN:  [Chega - PCP]
+
+
 ## Process
 
 ### VLC download stream to file

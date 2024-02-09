@@ -30,10 +30,8 @@ export function main() {
     let currentSubIndex = -1;
 
     {
-        const [name, time] = parseHash();
-        if (name) {
-            run(name);
-        }
+        const name = parseHash()[0];
+        if (name) run(name);
     }
 
     const highlightSub = (idx) => {
