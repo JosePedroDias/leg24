@@ -56,10 +56,13 @@ export function parseSrt(str) {
 
 export function serializeSrt(subs) {
     let result = '';
+    let li = 0;
     for (const sub of subs) {
+        const isLast = li === subs.length - 1;
         result += sub.srtIndex + '\n';
         result += machineTime(sub.start) + ' --> ' + machineTime(sub.end) + '\n';
-        result += sub.content + '\n\n';
+        result += sub.content + (isLast ? '\n' : '\n\n');
+        ++li;
     }
     return result;
 }

@@ -1,5 +1,19 @@
 import { player } from './player.mjs';
-import { humanTime } from './subtitles.mjs';
+import { humanTime, serializeSrt } from './subtitles.mjs';
+
+const IS_EDITING = ['127.0.0.1', 'localhost'].includes(location.hostname);
+
+function updateFile(name, ext, content) {
+    if (!IS_EDITING) return;
+    fetch(
+        `http://${location.hostname}:9091/${name}.${ext}`,
+        {
+            method: 'POST',
+            mode: 'cors',
+            body: content,
+        }
+    );
+}
 
 function parseHash() {
     if (!location.hash) return ['', 0];
@@ -156,14 +170,20 @@ export function main() {
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
-            else if (['1', '2', '3', '§'].includes(ev.key)) {
-                if (currentSubIndex === -1) return;
-                const name = metadata.bindings[Number(ev.key) - 1];
-                setSubtitleSpeaker(currentSubIndex + 1, name);
-                colorizeSub(subEls[currentSubIndex]);
-                //console.log(JSON.stringify(metadata, null, 2));
-            } else {
-                //console.log(ev.key);
+            else if (IS_EDITING) {
+                if (ev.key === 'j') {
+                    updateFile(name, 'srt', serializeSrt(subtitles));
+                } else if (ev.key === 's') {
+                    updateFile(name, 'srt', serializeSrt(subtitles));
+                } else if (ev.key === 'e') {
+                    updateFile(name, 'srt', serializeSrt(subtitles));
+                } else if (['1', '2', '3', '§'].includes(ev.key)) {
+                    if (currentSubIndex === -1) return;
+                    const speaker = metadata.bindings[Number(ev.key) - 1];
+                    setSubtitleSpeaker(currentSubIndex + 1, speaker);
+                    colorizeSub(subEls[currentSubIndex]);
+                    updateFile(name, 'json', JSON.stringify(metadata, null, 4));
+                }
             }
 
             if (deltaSecs || deltaIndex) {
