@@ -24,8 +24,8 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 ## 9/2
 
 - 18h SICN: [IL - PAN](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-09-Debate-IL-PAN-na-integra-76ed618c)
-- 21h RTP:  [PS - Livre]
-- 22h CNN:  [Chega - PCP]
+- 21h RTP:  [PS - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-09-Debate-PS-vs.-Livre-o-apelo-ao-voto-util-e-a-vontade-da-maioria-a-esquerda-bc29de53)
+- 22h CNN:  [Chega - PCP](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-09-Debate-CDU-vs-Chega-uma-viagem-a-Troika-e-ao-PREC-1611faa1)
 
 
 ## Process
