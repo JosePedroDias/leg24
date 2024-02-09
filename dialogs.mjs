@@ -146,14 +146,15 @@ export function tweakTimesDialog(subtitles, currentSubIndex, audio) {
             });
         });
 
-        audio.addEventListener('timeupdate', () => {
+        const onTimeUpdate = () => {
             const t = audio.currentTime;
             refresh();
             const x = (t - t0) * scale;
             ctx.fillStyle = 'red';
             ctx.fillRect(x, 0, 1, H);
             if (t >= t1) audio.pause();
-        });
+        }
+        audio.addEventListener('timeupdate', onTimeUpdate);
 
         for (const label of ['play', 'done']) {
             const buttonEl = document.createElement('button');
@@ -168,9 +169,9 @@ export function tweakTimesDialog(subtitles, currentSubIndex, audio) {
                         audio.pause();
                     }
                 } else {
+                    audio.removeEventListener('timeupdate', onTimeUpdate);
                     onEnd();
                 }
-                
             });
         }
     });

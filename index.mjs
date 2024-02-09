@@ -251,6 +251,8 @@ export function main() {
                     if (el) onClickContentEl(el);
                 }
             }
+
+            togglePlayEl.focus();
         });
 
         rew15El.addEventListener('click', () => move(-15));
