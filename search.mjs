@@ -52,7 +52,6 @@ function fillSelect(selectEl, options) {
 }
 
 const MAX_VISIBLE_RESULTS = 200;
-//const MAX_VISIBLE_RESULTS = 10000;
 const ALL = '-todos-';
 
 export async function search() {
@@ -84,12 +83,11 @@ export async function search() {
     fillSelect(searchSpeakerEl, speakers);
 
     searchEl.style.display = '';
-    searchInputEl.focus();
 
     const updateResults = () => {
         listEl.style.display = 'none';
         searchResultsEl.innerHTML = '';
-        const w = searchInputEl.value;
+        const w = searchInputEl.value.toLowerCase();
         const isExact = searchExactWordEl.checked;
         const desiredSpeaker = searchSpeakerEl.value;
         const filterSpeaker = desiredSpeaker !== ALL;
