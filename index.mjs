@@ -32,6 +32,7 @@ function updateHash(name, time = 0) {
 export function main() {
     const listEl = document.getElementById('list');
     const uiEl = document.getElementById('ui');
+    const searchEl = document.getElementById('search');
 
     const timeEl = document.getElementById('time');
     const durationEl = document.getElementById('duration');
@@ -74,14 +75,13 @@ export function main() {
         const saveBoth = () => Promise.all([saveSubs(), saveMeta()]);
 
         listEl.style.display = 'none';
+        searchEl.style.display = 'none';
         uiEl.style.display = 'block';
 
         if (audio) audio.pause();
 
         const p = (await player(name));
         ({ audio, subtitles, metadata } = p);
-
-        
 
         const colorizeSub = (divEl) => {
             const index = Number(divEl.dataset.srtIndex);

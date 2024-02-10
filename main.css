@@ -63,3 +63,26 @@ dialog div {
     margin-bottom: 10px;
     text-align: center;
 }
+
+#search p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+#search label {
+    font-family: 'Arial Narrow', sans-serif;
+}
+
+#search-input {
+    width: 17em;
+}
+
+#search-results {
+    border: 1px solid #bbb;
+    max-height: 70dvh;
+    overflow-y: scroll;
+}
+
+#search-results a {
+    text-decoration-color: #84ace9;
+}

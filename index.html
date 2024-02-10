@@ -37,8 +37,26 @@
             <!-- <li>10 fev (sáb)</li>
             <ul>
                 <li><span></span><button onclick="run('2024-02-10_')">carregar</button></li>
+                <li><span></span><button onclick="run('2024-02-10_')">carregar</button></li>
             </ul> -->
         </ul>
+
+        <div id="search" style="display: none">
+            <label for="search-input">palavra:</label>
+            <input type="search" id="search-input" value="" placeholder="palavra a pesquisar. mínimo 2 letras">
+
+            <label for="search-exact-word">exacta</label>
+            <input type="checkbox" name="search-exact-word" id="search-exact-word" value="">
+
+            <label for="search-speaker">orador</label>
+            <select name="search-speaker" id="search-speaker"></select>
+
+            <label for="search-debate">debate</label>
+            <select name="search-debate" id="search-debate"></select>
+            <p id="search-results-count"></p>
+            <div id="search-results">
+            </div>
+        </div>
 
         <!-- <p>* - transcrição por rever</p> -->
 
@@ -58,7 +76,10 @@
 
         <script type="module">
             import { main } from './index.mjs';
+            import { search } from './search.mjs';
+
             window.run = main();
+            if (!location.hash) search();
         </script>
     </body>
 </html>

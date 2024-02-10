@@ -12,7 +12,7 @@ export function computeStats(subtitles, metadata) {
     const times = new Map(); //   who => how many secs did they talk
     const lengths = new Map(); // who => how many chars did they talk
 
-    const wordOccurrences = new Map();
+    const wordOccurrences = new Map(); // array of pairs [time, who]
 
     for (const [sub, speaker] of pairs) {
         const t = sub.start;
