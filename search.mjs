@@ -124,15 +124,8 @@ export async function search() {
 
             const resultEl = document.createElement('p');
             const aEl = document.createElement('a');
-            const url = `./index.html#${name}/${time}`;
+            const url = `./?r=${Date.now() % 10000}#${name}/${time}`;
             aEl.href = url;
-            aEl.addEventListener('click', (ev) => {
-                setupEvents(true);
-                ev.preventDefault();
-                ev.stopPropagation();
-                location.replace(url);
-                location.reload();
-            });
             let label = `${humanTime(time)}`;
             if (!filterDebate) label += ` no debate ${title}`;
             if (!filterSpeaker) label = `${speaker} ao ` + label;
