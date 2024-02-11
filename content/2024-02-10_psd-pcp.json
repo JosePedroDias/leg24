@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "l montenegro",
+        "p raimundo"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "l montenegro": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "p raimundo": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

@@ -28,9 +28,22 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 - 22h CNN:  [Chega - PCP](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-09-Debate-CDU-vs-Chega-uma-viagem-a-Troika-e-ao-PREC-1611faa1)
 
 
-## Process
+## 10/2
 
-### VLC download stream to file
+- 20.30 RTP1 [PSD - PCP](https://sicnoticias.pt/podcasts/legislativas-2024/2024-02-10-Luis-Montenegro-vs-Paulo-Raimundo-ouca-aqui-o-debate-entre-os-lideres-do-PSD-e-do-PCP-0a71e3a6)
+- 21h   TVI  [PS - PAN](https://sicnoticias.pt/podcasts/legislativas-2024/2024-02-10-Pedro-Nuno-Santos-vs-Ines-Sousa-Real-ouca-aqui-o-debate-entre-os-lideres-do-PS-e-do-PAN-2f13f3a0)
+
+# Process
+
+## simpler audio-only grab from podcast
+
+PODCAST PROCESS
+
+wget "url" -O 1.mp3
+ffmpeg -i 1.mp3 -map 0:a -c:a copy -map_metadata -1 2.mp3
+ffmpeg -i 2.mp3 -ss 35 -vcodec copy -acodec copy 3.mp3
+
+## video stream grab w/ VLC + FFMPEG to extract aac stream and convert to mp3
 
 - save m3u8 stream to file on VLC:
 - vlc open network
@@ -40,20 +53,12 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 - file ... asd.ts
 - MPEG TS
 
-### FFMPEG extract aac stream and convert to mp3
-
-- check it plays: `ffplay vlc-output.ts`
 - video to audio without transcoding: `ffmpeg -i vlc-output.ts -vn -acodec copy audio.aac`
 - aac to mp3: `ffmpeg -i audio.aac -acodec mp3 audio.mp3`
 
-### transcribe mp3 to srt
+## transcribe mp3 to srt
 
 - pinokio + whisper webui
 - large v3
 - portuguese
 - mp3 file...
-
-### editing tools
-
-- vscode
-- https://www.nikse.dk/subtitleedit/online

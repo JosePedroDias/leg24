@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "p n santos",
+        "i sousa real"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "p n santos": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "i sousa real": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
