@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "l montenegro",
+        "a ventura"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "l montenegro": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "a ventura": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

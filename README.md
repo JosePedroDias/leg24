@@ -40,7 +40,12 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 12/2
 
-- 
+- 21h RTP [PSD - Chega](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-12-Debate-AD-vs-Chega-o-idiota-util-da-esquerda-e-o-xenofobo-demagogo-991381b9)
+
+## 13/2
+
+- 18h [PCP - Livre]
+- 22h [Chega - BE]
 
 # Process
 
