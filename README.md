@@ -33,6 +33,15 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 - 20.30 RTP1 [PSD - PCP](https://sicnoticias.pt/podcasts/legislativas-2024/2024-02-10-Luis-Montenegro-vs-Paulo-Raimundo-ouca-aqui-o-debate-entre-os-lideres-do-PSD-e-do-PCP-0a71e3a6)
 - 21h   TVI  [PS - PAN](https://sicnoticias.pt/podcasts/legislativas-2024/2024-02-10-Pedro-Nuno-Santos-vs-Ines-Sousa-Real-ouca-aqui-o-debate-entre-os-lideres-do-PS-e-do-PAN-2f13f3a0)
 
+## 11/2
+
+- 21h SIC  [PSD - PAN](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-11-Debate-na-integra-entre-AD-e-PAN-3fc877a6)
+- 22h SICN [BE - PCP](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-11-Debate-na-integra-entre-Mariana-Mortagua-e-Paulo-Raimundo-c97cfe26)
+
+## 12/2
+
+- 
+
 # Process
 
 ## simpler audio-only grab from podcast

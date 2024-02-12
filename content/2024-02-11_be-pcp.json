@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "m mortágua",
+        "p raimundo"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "m mortágua": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "p raimundo": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

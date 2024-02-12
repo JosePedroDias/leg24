@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "l montenegro",
+        "i sousa real"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "l montenegro": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "i sousa real": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
