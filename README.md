@@ -44,8 +44,8 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 13/2
 
-- 18h [PCP - Livre]
-- 22h [Chega - BE]
+- 18h [PCP - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-13-Debate-CDU-vs-Livre-o-pela-paz-e-o-europeista-e62971dc)
+- 22h [Chega - BE](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-13-Debate-BE-vs-Chega-vistos-gold-terroristas-imigracao-e-corrupcao--ate-Robles-voltou--6d3e1883)
 
 # Process
 
