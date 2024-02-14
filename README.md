@@ -44,8 +44,14 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 13/2
 
-- 18h [PCP - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-13-Debate-CDU-vs-Livre-o-pela-paz-e-o-europeista-e62971dc)
-- 22h [Chega - BE](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-13-Debate-BE-vs-Chega-vistos-gold-terroristas-imigracao-e-corrupcao--ate-Robles-voltou--6d3e1883)
+- 18h CNN  [PCP - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-13-Debate-CDU-vs-Livre-o-pela-paz-e-o-europeista-e62971dc)
+- 22h RTP3 [Chega - BE](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-13-Debate-BE-vs-Chega-vistos-gold-terroristas-imigracao-e-corrupcao--ate-Robles-voltou--6d3e1883)
+
+## 14/2
+
+- 18h RTP3 [Livre - PAN](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-14-Debate-Livre-vs-PAN-a-ode-do-voto--in-util-a530565a)
+- 21h TVI  [PS - Chega](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-14-Debate-PS-vs-Chega-a-amnesia-de-Pedro-Nuno-e-a-cobardia-de-Ventura-d70a4fde)
+- 22h RTP3 [IL - PCP](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-14-Debate-CDU-vs-IL-os-dois-opostos-atraem-se-mas-so-num-tema-8b641f3b)
 
 # Process
 

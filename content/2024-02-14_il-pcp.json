@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "r rocha",
+        "p raimundo"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "r rocha": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "p raimundo": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

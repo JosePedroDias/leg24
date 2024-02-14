@@ -1,0 +1,24 @@
+{
+    "bindings": [
+        "moderador",
+        "r tavares",
+        "i sousa real"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": [
+                1,
+                2
+            ]
+        },
+        "r tavares": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "i sousa real": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

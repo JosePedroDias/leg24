@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "p n santos",
+        "a ventura"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "p n santos": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "a ventura": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
