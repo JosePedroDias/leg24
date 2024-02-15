@@ -79,8 +79,8 @@ export function joinDialog() {
     return alertDialog('join', ['with previous', 'with next']);
 }
 
-export function splitDialog() {
-    return alertDialog('split', ['0.2', '0.3', '0.4', '0.5', '0.6', '0.7', '0.8']);
+export function splitDialog(ratios) {
+    return alertDialog('split', ratios.map(r => r.toFixed(1)));
 }
 
 export function tweakTimesDialog(subtitles, currentSubIndex, audio) {

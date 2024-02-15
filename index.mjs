@@ -1,5 +1,5 @@
 import { player } from './player.mjs';
-import { humanTime, serializeSrt, lookForSpeaker, setSubtitleSpeaker, reassignSpeakerIndices } from './subtitles.mjs';
+import { humanTime, serializeSrt, lookForSpeaker, setSubtitleSpeaker, reassignSpeakerIndices, splitText } from './subtitles.mjs';
 import { alertDialog, joinDialog, splitDialog, editDialog, tweakTimesDialog } from './dialogs.mjs';
 import { computeStats } from './stats.mjs';
 
@@ -83,6 +83,9 @@ export function main() {
         const p = (await player(name));
         ({ audio, subtitles, metadata } = p);
 
+        //audio.playbackRate = 0.8; // optional
+        //audio.playbackRate = 1.3; // optional
+
         const colorizeSub = (divEl) => {
             const index = Number(divEl.dataset.srtIndex);
             const speaker = lookForSpeaker(metadata, index);
@@ -161,11 +164,11 @@ export function main() {
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
-            else if (IS_EDITING && sub && ['j', 's', 'e', 't', '1', '2', '3', '§', '0'].includes(ev.key)) {
+            else if (IS_EDITING && sub && ['j', 's', 'e', 't', 'x', 'f', '1', '2', '3', '§'].includes(ev.key)) {
                 if (ev.key === 'j') {
                     audio.pause();
                     const mode = await joinDialog();
-                    if (mode === '') { return;
+                    if (mode === '') { return togglePlayEl.focus();
                     } else if (mode === 'with previous') {
                         const prevSub = subtitles[currentSubIndex - 1];
                         sub.start = prevSub.start;
@@ -185,22 +188,34 @@ export function main() {
                     updateList();
                     saveBoth();
                 } else if (ev.key === 's') {
-                    audio.pause();
-                    const result = await splitDialog();
-                    if (result === '') return;
-                    const ratio = parseFloat(result);
-                    const tCut = sub.start + ratio * (sub.end - sub.start);
-                    const len = sub.content.length;
-                    let cutIndex = Math.round(ratio * len);
-                    while (cutIndex > 0) {
-                        if ([' ', '\n'].includes(sub.content[cutIndex])) break;
-                        --cutIndex;
-                    }
-                    if (cutIndex === 0) return alertDialog('you need to increase the split ratio');
-                    
-                    const content0 = sub.content.slice(0, cutIndex);
-                    const content1 = sub.content.slice(cutIndex + 1);
+                    const sub = subtitles[currentSubIndex];
+                    if (!sub) return togglePlayEl.focus();
 
+                    audio.pause();
+
+                    // preview
+                    const ratios = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9];
+                    for (const ratio of ratios) {
+                        try {
+                            const [a, b] = splitText(sub.content, ratio);
+                            console.log(`${ratio}`);
+                            console.log(`  [${a}]`);
+                            console.log(`  [${b}]`);
+                        } catch (_) {}
+                    }
+
+                    const result = await splitDialog(ratios);
+                    if (result === '') return togglePlayEl.focus();
+                    const ratio = parseFloat(result);
+
+                    let content0, content1;
+                    try {
+                        [content0, content1] = splitText(sub.content, ratio);
+                    } catch (err) {
+                        return alertDialog(err.message || err);
+                    }
+
+                    const tCut = sub.start + ratio * (sub.end - sub.start);
                     const nextSub = {
                         srtIndex: currentSubIndex + 1,
                         start: tCut,
@@ -219,7 +234,7 @@ export function main() {
                 } else if (ev.key === 'e') {
                     audio.pause();
                     const content = await editDialog(sub.content);
-                    if (!content) return;
+                    if (!content) return togglePlayEl.focus();
                     sub.content = content;
 
                     updateList();
@@ -229,15 +244,32 @@ export function main() {
                     audio.pause();
                     await tweakTimesDialog(subtitles, currentSubIndex, audio);
                     saveSubs();
+                } else if (ev.key === 'x') {
+                    if (currentSubIndex === -1) return togglePlayEl.focus();
+                    subtitles.splice(currentSubIndex, 1);
+                    reassignSpeakerIndices(metadata, (idx) => idx >= currentSubIndex ? idx - 1 : idx);
+                    updateList();
+                    saveBoth();
+                } else if (ev.key === 'f') {
+                    if (currentSubIndex < 1) return togglePlayEl.focus();
+                    const prevSub = subtitles[currentSubIndex - 1];
+                    const currSub = subtitles[currentSubIndex];
+                    const newSub = {
+                        srtIndex: currentSubIndex,
+                        start: prevSub.end,
+                        end: currSub.start,
+                        content: 'TODO',
+                    };
+                    subtitles.splice(currentSubIndex, 0, newSub);
+                    reassignSpeakerIndices(metadata, (idx) => idx >= currentSubIndex ? idx + 1 : idx);
+                    updateList();
+                    saveBoth();
                 } else if (['1', '2', '3', '§'].includes(ev.key)) {
-                    if (currentSubIndex === -1) return;
+                    if (currentSubIndex === -1) return togglePlayEl.focus();
                     const speaker = metadata.bindings[Number(ev.key) - 1];
                     setSubtitleSpeaker(metadata, currentSubIndex + 1, speaker);
                     colorizeSub(subEls[currentSubIndex]);
                     saveMeta();
-                } else if (ev.key === '0') {
-                    const stats = computeStats(subtitles, metadata);
-                    console.log(stats);
                 }
             }
 

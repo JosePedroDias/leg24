@@ -11,6 +11,18 @@ function parseTime(str) {
     return hh * 3600 + mm * 60 + ss + frac;
 }
 
+function parseTimeFree(str) {
+    const parts = str.split(/[:]/);
+
+    if (parts.length === 2) parts.unshift(0);
+
+    const hh = parseInt(parts[0], 10);
+    const mm = parseInt(parts[1], 10);
+    const ss = parseInt(parts[2], 10);
+
+    return hh * 3600 + mm * 60 + ss;
+}
+
 function machineTime(secs) {
     const hh = Math.floor(secs / 3600); secs -= hh * 3600;
     const mm = Math.floor(secs /   60); secs -= mm *   60;
@@ -103,6 +115,50 @@ export function fixSubtitles(subs) {
     }
 
     console.log('stats', stats);
+}
+
+function adHocSubs(text, startIndex = 1) {
+    const lines = text.split('\n');
+    let idx = startIndex;
+    const subs = [];
+    let lastSub;
+
+    for (const line of lines) {
+        const spaceI = line.indexOf(' ');
+        const tS = parseTimeFree(line.slice(0, spaceI));
+        const lineContent = line.slice(spaceI + 1);
+
+        if (lastSub) lastSub.end = tS;
+
+        lastSub = {
+            srtIndex: idx++,
+            start: tS,
+            end: 0,
+            content: lineContent,
+        };
+        subs.push(lastSub);
+    }
+
+    if (lastSub) lastSub.end = lastSub.start + 1;
+
+    return serializeSrt(subs);
+}
+//window.adHocSubs = adHocSubs; // TODO TEMP
+// copy( adHocSubs(``) )
+
+export function splitText(text, ratio) {
+    const len = text.length;
+    let cutIndex = Math.round(ratio * len);
+    while (cutIndex > 0) {
+        if ([' ', '\n'].includes(text[cutIndex])) break;
+        --cutIndex;
+    }
+    if (cutIndex === 0) throw new Error('you need to increase the split ratio');
+    
+    const content0 = text.slice(0, cutIndex);
+    const content1 = text.slice(cutIndex + 1);
+
+    return [content0, content1];
 }
 
 //////

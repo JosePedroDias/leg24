@@ -14,6 +14,13 @@ button {
     font-size: 1em;
 }
 
+#list ul {
+    font-size: 80%;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+
 #list li span {
     display: inline-block;
     width: 120px;

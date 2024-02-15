@@ -53,6 +53,10 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 - 21h TVI  [PS - Chega](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-14-Debate-PS-vs-Chega-a-amnesia-de-Pedro-Nuno-e-a-cobardia-de-Ventura-d70a4fde)
 - 22h RTP3 [IL - PCP](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-14-Debate-CDU-vs-IL-os-dois-opostos-atraem-se-mas-so-num-tema-8b641f3b)
 
+## 15/2
+
+- 18h CNN [IL - BE]
+
 # Process
 
 ## simpler audio-only grab from podcast
@@ -82,3 +86,32 @@ ffmpeg -i 2.mp3 -ss 35 -vcodec copy -acodec copy 3.mp3
 - large v3
 - portuguese
 - mp3 file...
+
+# navigation key bindings
+
+- `space` - toggle playback
+- `up/down` - move to previous/next subtitle
+- `left/right` - review/fast forward by 15 seconds
+
+# onboarding new debates and editing text and speaker tags
+
+For each new debate (an mp3 file), we expect 2 additional files to be created:
+- a subtitles file (srt), which initially comes from running whisper over the mp3
+- a json file listing the speakers and which subtitles indices belong to each speaker
+the index.json needs to updated to also list the name of this new debate (used in the search features of the main page)
+
+When the site is running locally for editing purposes,
+`node server.mjs` should also be running. It changes the file system debate files according to the operations defined in the front end.
+
+There's a set of key bindings for manipulating SRT and JSON files in tandem:
+- `j`oins the current subtitle with either its previous or next one
+- `s`plits the current subtitle by a ratio into 2 new ones
+- `e`dits the current subtitle's text content
+- `t`ime tweaks the start and end placements for the current subtitle and its neighbors
+- `x` deletes the current subtitle
+- `f` fills the space between the previous subtitle and the current one with a new subtitle
+
+- `1` assigns the moderator role to the current subtitle (typically gray)
+- `2` assigns the 1st debater role to the current subtitle (typically cyan)
+- `3` assigns the 2nd debater role to the current subtitle (typically magenta)
+- `§` (before 1, on mac) clears any speaker role from the current subtitle
