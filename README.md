@@ -55,7 +55,13 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 15/2
 
-- 18h CNN [IL - BE]
+- 18h CNN [IL - BE]()
+
+## 16/2
+
+- 20.30 RTP3 [PS - BE]
+- 21h   TVI  [PSD - IL]
+- 22h   RTP3 [Chega - Livre]
 
 # Process
 
