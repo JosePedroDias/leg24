@@ -4,7 +4,7 @@ Decisão 24, bem-vindos e boa tarde.
 
 2
 00:00:03,740 --> 00:00:05,940
-A caminho das eleições, hoje na Sénia de Portugal,
+A caminho das eleições, hoje na CNN Portugal,
 
 3
 00:00:06,120 --> 00:00:08,060
@@ -28,7 +28,7 @@ Mariana Mortágua terá a última intervenção.
 
 8
 00:00:18,199 --> 00:00:20,039
-Bem-vindos à Sénia de Portugal.
+Bem-vindos à CNN de Portugal.
 
 9
 00:00:20,160 --> 00:00:24,339
@@ -52,7 +52,7 @@ como o Bloco de Esquerda propõe, por exemplo.
 
 14
 00:00:39,159 --> 00:00:41,359
-Parece-lhe execuível para os que querem construir em Portugal?
+Parece-lhe exequível para os que querem construir em Portugal?
 
 15
 00:00:42,060 --> 00:00:44,899
@@ -112,7 +112,7 @@ Portanto, o IVA deve descer para 6%.
 
 29
 00:01:29,260 --> 00:01:35,920
-Não faz sentido continuar a pagar IMT, Imposto de Seu, na aquisição de habitação própria e permanente.
+Não faz sentido continuar a pagar IMT, Imposto de Selo, na aquisição de habitação própria e permanente.
 
 30
 00:01:36,220 --> 00:01:41,540
@@ -131,2726 +131,2357 @@ E estes 25% de construção nova com rendas acessíveis, parece uma meta...
 Eu o que conheço da proposta do Bloco de Esquerda é uma proposta de 80 mil casas,
 
 34
-00:01:53,200 --> 00:01:55,500
-com 1.200 milhões por ano,
+00:01:53,200 --> 00:01:59,620
+com 1.200 milhões por ano, o que significa que estaríamos a de habitações com custos de 60 mil euros.
 
 35
-00:01:56,820 --> 00:01:59,620
-e estamos a falar de habitações com custos de 60 mil euros.
-
-36
 00:01:59,620 --> 00:02:02,320
 Ora, 60 mil euros é francamente inviável.
 
-37
+36
 00:02:02,320 --> 00:02:05,920
 Muitas vezes isso não cobre sequer o custo do terreno, quanto mais da construção.
 
-38
+37
 00:02:05,920 --> 00:02:12,219
 E portanto, eu creio que as medidas e as políticas e as propostas do Bloco de Esquerda nesta matéria são inviáveis,
 
-39
+38
 00:02:12,219 --> 00:02:16,580
 porque eu não acredito que o Bloco de Esquerda queira pôr as pessoas a viver em habitações,
 
-40
+39
 00:02:16,580 --> 00:02:21,500
 quatro, cinco pessoas em T0, em contentores, que é isso que esta proposta representa.
 
-41
+40
 00:02:21,500 --> 00:02:24,760
 Portanto, eu não percebo as contas do Bloco de Esquerda, portanto não me posso pronunciar mais do que isso.
 
+41
+00:02:24,760 --> 00:02:29,980
+Mariana Mortágua, no programa, critica à direita quando esta diz que o problema é a falta de casas,
+
 42
-00:02:24,760 --> 00:02:26,300
-Marina Mortágua, no programa,
-
-43
-00:02:26,300 --> 00:02:29,980
-critica à direita quando esta diz que o problema é a falta de casas,
-
-44
 00:02:29,980 --> 00:02:33,740
 mas no entendo do Bloco faltam ou não casas para atender às necessidades da população?
 
-45
+43
 00:02:33,740 --> 00:02:35,100
 E se sim, quantas?
 
-46
+44
 00:02:35,100 --> 00:02:38,540
 Bom, quatro ou cinco pessoas no T0 é o que acontece neste momento.
 
-47
+45
 00:02:38,540 --> 00:02:43,480
 Portugal é o terceiro país mais caro do mundo se compararmos o preço da habitação com os rendimentos.
 
-48
+46
 00:02:43,480 --> 00:02:46,280
 Lisboa é a cidade mais cara para arrendar.
 
-49
+47
 00:02:46,280 --> 00:02:48,040
 E se olharmos, por exemplo, para Braga,
 
-50
+48
 00:02:48,040 --> 00:02:51,960
 é uma cidade onde os preços da habitação aumentaram 62% nos últimos quatro anos.
 
-51
+49
 00:02:51,960 --> 00:02:54,420
 100 metros quadrados custam agora mais de 70 mil euros.
 
-52
-00:02:54,420 --> 00:02:56,040
-Isto é o mercado a funcionar.
+50
+00:02:54,420 --> 00:02:57,199
+Isto é o mercado a funcionar. É um mercado a funcionar.
 
-53
-00:02:56,039 --> 00:02:57,199
-É um mercado a funcionar.
-
-54
+51
 00:02:57,199 --> 00:03:00,539
 É um mercado de habitação impossível, em que o salário não paga uma casa,
 
-55
+52
 00:03:00,539 --> 00:03:03,739
-e a iniciativa liberal quer mais do mesmo.
+e a Iniciativa Liberal quer mais do mesmo.
 
-56
-00:03:03,739 --> 00:03:06,319
+53
+00:03:03,739 --> 00:03:05,029
 Quer mais mercado a funcionar.
 
-57
+54
+00:03:05,029 --> 00:03:06,319
+Mais casas, mais casas.
+
+55
 00:03:06,319 --> 00:03:07,479
 Não há nada...
 
-58
+56
 00:03:07,479 --> 00:03:09,819
 Eu acho que há dois dados que são importantes.
 
-59
+57
 00:03:09,819 --> 00:03:16,259
-vivem menos pessoas em Portugal, viviam em 2022, que em 2007.
+Primeiro, vivem menos pessoas em Portugal, viviam em 2022, que em 2007.
 
-60
+58
 00:03:16,259 --> 00:03:18,479
 E não havia um problema de habitação em 2007.
 
-61
+59
 00:03:18,479 --> 00:03:23,299
 Viviam menos pessoas em 2022 do que em 2012.
 
-62
+60
 00:03:23,299 --> 00:03:24,560
 E até digo mais.
 
-63
-00:03:24,560 --> 00:03:25,879
-Há um super hábito de...
+61
+00:03:24,560 --> 00:03:31,740
+Há um superavit de casas para número de famílias de 1,8 milhões de euros.
 
-64
-00:03:25,879 --> 00:03:31,740
-Casas para número de famílias de 1,8 milhões de euros.
-
-65
+62
 00:03:31,740 --> 00:03:35,120
 E, portanto, há dois problemas aqui que é preciso enfrentar.
 
-66
+63
 00:03:35,120 --> 00:03:41,620
 O primeiro é que as casas que existem estão a ser desviadas para outros fins que não há habitação.
 
-67
+64
 00:03:41,620 --> 00:03:45,099
 Inclusive é casas que estão originalmente destinadas à habitação.
 
-68
+65
 00:03:45,099 --> 00:03:48,419
 E isto porque o alojamento local se expandiu sem qualquer controle,
 
-69
+66
 00:03:48,419 --> 00:03:50,120
 e porque há um mercado de luxo...
 
-70
+67
 00:03:50,120 --> 00:03:51,639
 Mariana, representa 3% do mercado.
 
-71
+68
 00:03:51,639 --> 00:03:52,840
 Há um mercado imobiliário de luxo...
 
-72
+69
 00:03:52,840 --> 00:03:53,840
 3%.
 
-73
+70
 00:03:53,840 --> 00:03:55,039
 ... que se centra nas grandes cidades,
 
-74
+71
 00:03:55,039 --> 00:03:58,179
 que faz subir os preços e que arrasta todos os preços.
 
-75
+72
 00:03:58,179 --> 00:04:01,939
 E é por isso que os preços em Braga aumentaram 62%.
 
-76
+73
 00:04:01,939 --> 00:04:05,879
 Segunda questão sobre a construção que acho que é importante discutirmos.
 
-77
+74
 00:04:05,879 --> 00:04:09,659
 Não há nenhuma regra que impeça uma construtora de construir.
 
-78
+75
 00:04:09,659 --> 00:04:14,319
 As construtoras que fizeram o boom da construção nos anos 2000 estão cá,
 
-79
+76
 00:04:14,319 --> 00:04:17,399
 as que sobreviveram no mercado, em 2022.
 
-80
+77
 00:04:17,399 --> 00:04:22,000
 Não há nenhuma lei que impeça as construtoras de fazer habitação a custos acessíveis.
 
-81
+78
 00:04:22,000 --> 00:04:23,000
 O que é que se passou?
 
-82
-00:04:23,000 --> 00:04:24,000
-Passou simplesmente que as construtoras, em 2022, estão a construir em casa.
+79
+00:04:23,000 --> 00:04:28,180
+Passou simplesmente que as construtoras encontraram formas mais rentáveis de dirigir a sua atividade.
 
-83
-00:04:24,000 --> 00:04:25,000
-O que é que se passou?
-
-84
-00:04:25,040 --> 00:04:28,180
-As construtoras encontraram formas mais rentáveis de dirigir a sua atividade.
-
-85
+80
 00:04:28,180 --> 00:04:29,860
-É um mercado de iniciativa liberal.
+É um mercado de Iniciativa Liberal.
 
-86
+81
 00:04:29,860 --> 00:04:32,280
 E portanto, em vez de construir casas a preços acessíveis...
 
-87
+82
 00:04:32,280 --> 00:04:34,280
 Estes 25% de nova construção...
 
-88
+83
 00:04:34,280 --> 00:04:36,800
 Ainda não percebemos as contas do Bloco nestas 80 mil casas.
 
-89
+84
 00:04:36,800 --> 00:04:38,800
 ... pode contribuir para afugentar as construtoras?
 
-90
+85
 00:04:38,800 --> 00:04:39,800
 Repare, as construtoras...
 
-91
+86
 00:04:39,800 --> 00:04:40,800
 Ou desincentivar?
 
-92
+87
 00:04:40,800 --> 00:04:44,480
 Não há como fugir de uma coisa que as construtoras não fazem.
 
-93
+88
 00:04:44,480 --> 00:04:48,040
 As construtoras estão viradas para o mercado imobiliário de luxo, para a reabilitação
 
-94
+89
 00:04:48,040 --> 00:04:50,480
 de luxo e para a construção de hotéis.
 
-95
+90
 00:04:50,480 --> 00:04:54,000
 Portugal em 2023 foi o quarto país com mais projetos de construção de hotéis.
 
-96
+91
 00:04:54,000 --> 00:04:58,240
 Nada impede as construtoras de construir casas a preços acessíveis.
 
-97
+92
 00:04:58,240 --> 00:05:03,100
 É o mercado que as impede, porque as leva para projetos muito mais rentáveis.
 
-98
+93
 00:05:03,100 --> 00:05:06,920
-Enquanto houver uma procura de luxo, porque é que as construtoras vão construir casas
+Enquanto houver uma procura de luxo, porque é que as construtoras hão de construir casas
 
-99
+94
 00:05:06,920 --> 00:05:07,920
 a preços acessíveis?
 
-100
+95
 00:05:07,920 --> 00:05:12,100
 E é por isso que o Bloco de Esquerda insiste que uma das medidas para garantir que pelo
 
-101
+96
 00:05:12,100 --> 00:05:18,720
 menos uma parte da construção vai para preços acessíveis é que 25% de toda a nova construção
 
-102
+97
 00:05:18,720 --> 00:05:20,920
 aprovada tenha que ir para custos acessíveis.
 
-103
+98
 00:05:20,920 --> 00:05:22,959
-Deixa-me também ouvir o Rui Rocha, para que eu equilibre aqui os tempos.
+Deixe-me também ouvir o Rui Rocha, para que eu equilibre aqui os tempos.
 
-104
+99
 00:05:22,959 --> 00:05:23,959
-Está de contrário?
+Caso contrário, preços milionários.
 
-105
+100
 00:05:23,959 --> 00:05:25,719
 Para responder antes de lançar também uma nova questão.
 
-106
+101
 00:05:25,719 --> 00:05:30,180
 Sim, eu queria sublinhar que nas contas que o Bloco tem das tais 80 mil casas a 60 mil
 
-107
+102
 00:05:30,180 --> 00:05:31,959
 euros, eu continuo a não perceber as contas.
 
-108
+103
 00:05:31,959 --> 00:05:32,959
-Iru.
+IHRU.
 
-109
+104
 00:05:32,959 --> 00:05:33,959
-Ah, é o Iru.
+Ah, é o IHRU.
 
-110
+105
 00:05:33,959 --> 00:05:34,959
 São dados oficiais.
 
-111
+106
 00:05:34,959 --> 00:05:37,620
 Sim, mas como é que com o preço de construção na ordem dos 1500 euros...
 
-112
+107
 00:05:37,620 --> 00:05:38,620
 A parte da reabilitação.
 
-113
+108
 00:05:38,620 --> 00:05:39,620
 Já o vou explicar várias vezes.
 
-114
+109
 00:05:39,620 --> 00:05:43,319
 Mas, oh Mariana, a reabilitação é mais cara muitas vezes, é mais caro reabilitar.
 
-115
+110
 00:05:43,319 --> 00:05:46,519
 O preço médio da reabilitação depende das circunstâncias.
 
-116
+111
 00:05:46,519 --> 00:05:49,120
 Mas pode ser 1700 euros, portanto eu não vejo de facto...
 
-117
+112
 00:05:49,120 --> 00:05:50,120
 Pode ser qualquer coisa se tivermos de falar.
 
-118
+113
 00:05:50,120 --> 00:05:53,120
 Claro, não, mas eu estou a falar dos preços correntes, não é de qualquer coisa, estou
 
-119
+114
 00:05:53,120 --> 00:05:54,120
 a falar dos preços correntes.
 
-120
+115
 00:05:54,120 --> 00:05:58,660
 Eu não percebo como é que fecham estes números que a Mariana Mortágua tem no programa eleitoral
 
-121
+116
 00:05:58,660 --> 00:05:59,660
 do Bloco de Esquerda.
 
-122
+117
 00:05:59,660 --> 00:06:02,560
 Mas quanto à habitação, a questão é clara.
 
-123
+118
 00:06:02,560 --> 00:06:05,579
 Nós temos que reduzir, por exemplo, o licenciamento.
 
-124
+119
 00:06:05,579 --> 00:06:09,660
 Se moram 3 ou 4 anos a licenciar o início de construção, é óbvio que há outras formas
 
-125
+120
 00:06:09,660 --> 00:06:12,699
 mais rentáveis de aplicar o investimento.
 
-126
+121
 00:06:12,699 --> 00:06:17,680
 Se temos impostos que podem representar 30% do custo final da habitação, é óbvio que
 
-127
+122
 00:06:17,680 --> 00:06:21,620
 temos que mexer aí para a habitação poder baixar e termos mais incentivo à construção.
 
-128
+123
 00:06:21,620 --> 00:06:23,100
 E é óbvio que o Estado tem que...
 
-129
+124
 00:06:23,100 --> 00:06:27,100
-Tem que disponibilizar as casas que têm fechadas e abandonadas para que venham casas
+Tem que disponibilizar as casas que tem fechadas e abandonadas para que venham casas
 
-130
+125
 00:06:27,100 --> 00:06:28,100
 para o mercado.
 
-131
+126
 00:06:28,100 --> 00:06:31,200
 Portanto, a posição da Iniciativa Liberal é clara, precisamos de mais casas, não é
 
-132
+127
 00:06:31,200 --> 00:06:35,540
 combatendo os estrangeiros, não é combatendo atividades como o alojamento local, que representam
 
-133
+128
 00:06:35,540 --> 00:06:38,480
 3% do mercado, que se vai resolver o problema.
 
-134
+129
 00:06:38,480 --> 00:06:42,780
 Nós queremos que os estrangeiros venham favorecidos, desfavorecidos, queremos que encontrem casas,
 
-135
+130
 00:06:42,780 --> 00:06:43,780
 precisamos de mais casas no mercado.
 
-136
+131
 00:06:43,780 --> 00:06:47,280
 Essa posição da Iniciativa Liberal é uma enorme hipocrisia, porque a Iniciativa Liberal
 
-137
+132
 00:06:47,280 --> 00:06:50,980
 sabe perfeitamente que a proposta do Bloco de Esquerda é para não residentes.
 
-138
+133
 00:06:50,980 --> 00:06:52,980
 A questão que está em causa não é nacionalidade...
 
-139
+134
 00:06:52,980 --> 00:06:58,480
 O que está em causa é se as pessoas que procuram as casas as procuram para viver,
 
-140
+135
 00:06:58,480 --> 00:07:01,620
 porque há quem trabalhe em Portugal, ganhe salários em Portugal e não consiga pagar
 
-141
+136
 00:07:01,620 --> 00:07:07,360
 uma casa, ou se procuram para ter um bem de luxo parado, vazio, para uns meses de férias.
 
-142
+137
 00:07:07,360 --> 00:07:08,360
 E quem vem e o faz...
 
-143
-00:07:08,360 --> 00:07:09,360
-Mas essa proposta na Europa, no espaço da União Europeia, é ilegal, Mariana, como
+138
+00:07:08,360 --> 00:07:10,360
+Mas essa proposta na Europa, no espaço da União Europeia, é ilegal, Mariana, como sabe.
 
-144
-00:07:09,360 --> 00:07:10,360
-se sabe.
-
-145
+139
 00:07:10,360 --> 00:07:11,360
 Quem vem e o faz...
 
-146
+140
 00:07:11,360 --> 00:07:12,360
 Não se pode limitar no espaço da União Europeia.
 
-147
+141
 00:07:12,360 --> 00:07:13,360
-Quem vem e o faz ainda tem...
+Quem vem e faz...
 
-148
+142
 00:07:13,360 --> 00:07:14,360
 Não pode, Mariana, não pode impedir cidadãos europeus de comprarem casas em Portugal.
 
-149
-00:07:14,360 --> 00:07:15,360
-Deixa-me terminar, porque eu quero que as pessoas também oiçam.
-
-150
-00:07:15,360 --> 00:07:16,360
-Não residentes, claro.
-
-151
+143
 00:07:16,360 --> 00:07:17,360
 E mesmo que não sejam cidadãos europeus, não podem.
 
-152
+144
 00:07:17,360 --> 00:07:20,560
 Não pode impedir cidadãos europeus de comprarem casas em Portugal.
 
-153
+145
 00:07:20,560 --> 00:07:22,560
 Deixa-me terminar, porque eu quero que as pessoas também oiçam.
 
-154
+146
 00:07:22,560 --> 00:07:25,680
 É muito importante que oiçam.
 
-155
+147
 00:07:25,680 --> 00:07:30,340
 Quem vem e o faz ainda tem benefícios fiscais de 1.500 milhões de euros.
 
-156
+148
 00:07:30,340 --> 00:07:34,319
 Portugal esteve a perder 1.500 milhões de euros por ano para dar benefícios fiscais
 
-157
+149
 00:07:34,319 --> 00:07:38,400
 para residentes não habituais comprarem casas a preços milionários e fazerem subir
 
-158
+150
 00:07:38,400 --> 00:07:39,400
 o preço da habitação.
 
-159
+151
 00:07:39,400 --> 00:07:43,439
 E o que o Bloco de Esquerda defende é uma habitação acessível para todos, independente
 
-160
+152
 00:07:43,439 --> 00:07:44,439
 da nacionalidade.
 
-161
-00:07:44,439 --> 00:07:47,340
-Toda a gente que vive em Portugal, que trabalha em Portugal, tem de poder aceder a um plano
+153
+00:07:44,439 --> 00:07:48,340
+Toda a gente que vive em Portugal, que trabalha em Portugal, tem de poder aceder a uma casa.
 
-162
-00:07:47,340 --> 00:07:48,340
-de compra de uma casa.
-
-163
+154
 00:07:48,340 --> 00:07:52,580
 A proibição de venda de casas a não residentes não só é uma proposta que o Canadá aplicou
 
-164
+155
 00:07:52,580 --> 00:07:58,340
 e que aliás está agora a levar um partido liberal, como existe também a Malta, até
 
-165
+156
 00:07:58,340 --> 00:08:01,340
 ontem era um país da União Europeia.
 
-166
+157
 00:08:01,340 --> 00:08:04,020
 Malta e Dinamarca têm duas derrogações que Portugal não tem dos tratados.
 
-167
+158
 00:08:04,020 --> 00:08:07,020
 Já viu é que é engraçado que afinal havia um problema...
 
-168
+159
 00:08:07,020 --> 00:08:09,220
 Malta e Dinamarca têm derrogações dos tratados que Portugal não tem.
 
-169
+160
 00:08:09,220 --> 00:08:10,220
 Em Portugal é ilegal.
 
-170
+161
 00:08:10,220 --> 00:08:11,220
-Deixa-me terminar.
+Deixe-me terminar.
 
-171
+162
 00:08:11,220 --> 00:08:12,220
 Viola o direito europeu.
 
-172
+163
 00:08:12,220 --> 00:08:13,220
 Então vamos mudando a lei.
 
-173
+164
 00:08:13,220 --> 00:08:14,220
 Em Malta faz parte da União Europeia, mas não viola o direito europeu.
 
-174
-00:08:14,220 --> 00:08:15,220
-É verdade.
-
-175
-00:08:15,220 --> 00:08:16,220
-É verdade.
-
-176
-00:08:16,220 --> 00:08:17,220
-É verdade.
-
-177
-00:08:17,220 --> 00:08:18,220
-É verdade.
-
-178
+165
 00:08:18,220 --> 00:08:19,220
-Porque tem uma derrogação com a Mariana Sá.
+Porque tem uma derrogação com a Mariana sabe.
 
-179
+166
 00:08:19,220 --> 00:08:20,220
 Dinamarca faz parte da União Europeia, mas não viola o direito europeu.
 
-180
+167
 00:08:20,220 --> 00:08:23,220
 Tem uma derrogação dos tratados que lhes permite exceções que Portugal não tem.
 
-181
-00:08:23,220 --> 00:08:24,220
-Vamos concluir este ponto.
+168
+00:08:23,220 --> 00:08:25,220
+Vamos concluir este ponto. Quero introduzir aqui outra questão.
 
-182
-00:08:24,220 --> 00:08:25,220
-Quero introduzir aqui outra questão.
-
-183
+169
 00:08:25,220 --> 00:08:31,220
-A mesma exceção que se aplica a Malta ou a Dinamarca pode se aplicar a Portugal.
+A mesma exceção que se aplica a Malta ou a Dinamarca pode-se aplicar a Portugal.
 
-184
+170
 00:08:31,220 --> 00:08:34,980
 Há um problema no acesso à habitação e é preciso resolvê-lo.
 
-185
+171
 00:08:34,980 --> 00:08:40,720
 E não serve de nada baixar impostos quando depois as construtoras e as promotoras vão
 
-186
+172
 00:08:40,720 --> 00:08:43,220
 usar essa margem e manter o preço da habitação.
 
-187
+173
 00:08:43,220 --> 00:08:47,100
 O que nós precisamos é menos, menos preços da habitação e é por isso que o Bloco de
 
-188
+174
 00:08:47,100 --> 00:08:48,100
 Estado apresenta propostas.
 
-189
+175
 00:08:48,100 --> 00:08:51,220
 E o custo da habitação cerca de 30% de impostos.
 
-190
+176
 00:08:51,220 --> 00:08:55,320
 Se contarmos taxas e taxinhas pode chegar aos 40% e é por isso que não há habitação
 
-191
+177
 00:08:55,320 --> 00:08:56,320
 acessível em Portugal.
 
-192
+178
 00:08:56,320 --> 00:09:01,500
 Não é impedindo estrangeiros, sejam eles quais forem, não residentes de comprarem
 
-193
+179
 00:09:01,500 --> 00:09:05,340
 habitação em Portugal, coisa que é, aliás, ilegal no espaço da União Europeia.
 
-194
+180
 00:09:05,340 --> 00:09:09,500
 Não foram os impostos que aumentaram 60% do preço das casas em Braga, foi o mercado.
 
-195
+181
 00:09:09,500 --> 00:09:13,540
-Marina Mortago, deixe-me também ouvi-la aqui numa medida relativamente à habitação.
+Mariana Mortágua, deixe-me também ouvi-la aqui numa medida relativamente à habitação.
 
-196
-00:09:13,540 --> 00:09:17,100
-Quer usar a Caixa Geral de Depósitos para aplicar juros baixos e ajudar a sociedade.
+182
+00:09:13,540 --> 00:09:18,100
+Quer usar a Caixa Geral de Depósitos para aplicar juros baixos e ajudar a suportar os créditos.
 
-197
-00:09:17,100 --> 00:09:18,100
-Para exportar os créditos.
-
-198
+183
 00:09:18,100 --> 00:09:21,860
 É um banco que já devolveu ao Estado cerca de dois terços do que lá foi posto.
 
-199
+184
 00:09:21,860 --> 00:09:25,420
 No que é que está a pensar concretamente sem comprometer essa estratégia de devolução?
 
-200
+185
 00:09:25,420 --> 00:09:29,580
 Na verdade, a Caixa Geral de Depósitos tem, apresentou lucros no terceiro até setembro
 
-201
+186
 00:09:29,580 --> 00:09:32,600
 de mil milhões de euros.
 
-202
+187
 00:09:32,600 --> 00:09:35,700
 Porque como todos os bancos, tem conseguido lucros muito grandes à custa das margens
 
-203
+188
 00:09:35,700 --> 00:09:38,259
 bancárias e os juros que tem cobrado no crédito à habitação.
 
-204
+189
 00:09:38,259 --> 00:09:42,860
 E portanto, a Caixa Geral de Depósitos pode reduzir o juro do crédito à habitação,
 
-205
+190
 00:09:42,860 --> 00:09:46,620
 mantendo os seus lucros, embora mais reduzidos, como é óbvio.
 
-206
+191
 00:09:46,620 --> 00:09:52,940
 Mantendo os seus rácios de capital, permitindo reduzir o encargo, as prestações ao crédito,
 
-207
+192
 00:09:52,940 --> 00:09:57,659
 fazendo com um efeito de arrastamento no mercado, com que os bancos também reduzam.
 
-208
+193
 00:09:57,659 --> 00:10:01,139
 Agora, há uma coisa que não funciona e que nem é justa.
 
-209
+194
 00:10:01,139 --> 00:10:04,379
 É que os bancos estejam a apresentar lucros milionários.
 
-210
+195
 00:10:04,379 --> 00:10:08,860
 A banca, no geral, apresentou 3,6 mil milhões de euros, sem contar, já com o fecho de contas,
 
-211
+196
 00:10:08,860 --> 00:10:09,860
 de muitos bancos.
 
-212
+197
 00:10:09,860 --> 00:10:14,379
 São mais 40% de lucros em 2023.
 
-213
+198
 00:10:14,379 --> 00:10:16,580
-A que se somam os quase mil milhões de éditos.
+A que se somam os quase mil milhões da EDP,
 
-214
+199
 00:10:16,580 --> 00:10:21,780
-São mais 83% de EDP, ou os mil milhões da Galp, mais 14%.
+São mais 83%, ou os mil milhões da Galp, mais 14%.
 
-215
+200
 00:10:21,780 --> 00:10:28,100
-E aquilo que a iniciativa liberal propõe é cortar os impostos, tanto da banca, como
+E aquilo que a Iniciativa Liberal propõe é cortar os impostos, tanto da banca, como
 
-216
+201
 00:10:28,100 --> 00:10:31,259
 da EDP, como da Galp, para metade.
 
-217
+202
 00:10:31,259 --> 00:10:32,900
 Já vamos à matéria de impostos.
 
-218
+203
 00:10:32,900 --> 00:10:38,020
-Deixa-me também ouvir o Rui Rocha nesta questão da Caixa.
+Deixe-me também ouvir o Rui Rocha nesta questão da Caixa.
 
-219
+204
 00:10:38,020 --> 00:10:43,900
-O Bloco quer usar a Caixa para a habitação, mas a IEL, neste ponto, continua a defender
+O Bloco quer usar a Caixa para a habitação, mas a IL, neste ponto, continua a defender
 
-220
+205
 00:10:43,900 --> 00:10:45,460
 a privatização do banco.
 
-221
-00:10:45,460 --> 00:10:46,460
-Em setembro, a Caixa...
+206
+00:10:45,460 --> 00:10:50,180
+Em setembro, a Caixa de facto, pagou o maior dividendo da sua história ao Estado.
 
-222
-00:10:46,580 --> 00:10:50,180
-De facto, pagou o maior dividendo da sua história ao Estado.
-
-223
+207
 00:10:50,180 --> 00:10:53,580
 Porquê mexer naquilo que aparentemente está a funcionar na esfera pública?
 
-224
+208
 00:10:53,580 --> 00:10:58,100
-Precisamente por isto que ouvimos agora a Mariana Mortago a dizer, que é o Estado a
+Precisamente por isto que ouvimos agora a Mariana Mortágua a dizer, que é o Estado a
 
-225
+209
 00:10:58,100 --> 00:11:03,700
 interferir no mercado, a dar ordens a bancos, como é o caso da Caixa Geral de Depósitos,
 
-226
+210
 00:11:03,700 --> 00:11:07,700
 para descomprometer o mercado daquilo que são as suas regras.
 
-227
+211
 00:11:07,700 --> 00:11:11,180
 E, portanto, nós não queremos o Estado a dar ordens a empresas em sectores que não
 
-228
+212
 00:11:11,180 --> 00:11:13,180
 têm que ter intervenção do Estado.
 
-229
+213
 00:11:13,180 --> 00:11:14,780
 O Estado deve preocupar-se com a saúde.
 
-230
+214
 00:11:14,780 --> 00:11:15,780
 Deve preocupar-se com a educação.
 
-231
-00:11:15,780 --> 00:11:15,900
-Com as regiões.
-
-232
-00:11:15,900 --> 00:11:15,980
-Com as regiões.
-
-233
+215
 00:11:15,980 --> 00:11:18,019
-Com a educação, com a justiça, com a defesa.
+com a justiça, com a defesa.
 
-234
+216
 00:11:18,019 --> 00:11:19,220
 Esse é o papel do Estado.
 
-235
+217
 00:11:19,220 --> 00:11:24,180
 Estar a interferir no mercado com detenção de capital de bancos não é esta a maneira
 
-236
+218
 00:11:24,180 --> 00:11:26,379
 de resolver o problema, nomeadamente dos juros.
 
-237
+219
 00:11:26,379 --> 00:11:27,500
 Mas até aqui tem funcionado.
 
-238
+220
 00:11:27,500 --> 00:11:30,899
 Para a iniciativa, porque tem aplicado regras privadas e não tem tido a interferência,
 
-239
+221
 00:11:30,899 --> 00:11:34,820
-por exemplo, da Mariana Mortago a dizer que deve baixar, quanto deve baixar a taxa de
+por exemplo, da Mariana Mortágua a dizer que deve baixar, quanto deve baixar a taxa de
 
-240
+222
 00:11:34,820 --> 00:11:35,820
 juros e tudo isso.
 
-241
+223
 00:11:35,820 --> 00:11:37,779
-Para a iniciativa liberal é muito claro.
+Para a Iniciativa Liberal é muito claro.
 
-242
+224
 00:11:37,779 --> 00:11:39,980
 Lucros privados, prejuízos privados.
 
-243
+225
 00:11:39,980 --> 00:11:43,820
 E, portanto, nós entendemos que quando os negócios correm bem não deve haver a tentação
 
-244
+226
 00:11:43,820 --> 00:11:45,300
 de asfixiar esses negócios.
 
-245
+227
 00:11:45,300 --> 00:11:50,060
 Da mesma maneira, quando os negócios correm mal não deve ser enfiado dinheiro dos contribuintes,
 
-246
+228
 00:11:50,060 --> 00:11:52,060
 nomeadamente na Caixa.
 
-247
+229
 00:11:52,060 --> 00:11:56,580
 Houve uma injeção de 20 mil milhões de euros para o BES, Novo Banco, para o BPN,
 
-248
+230
 00:11:56,580 --> 00:11:59,300
-para a Caixa e com a iniciativa liberal isso não aconteceria.
+para a Caixa e com a Iniciativa Liberal isso não aconteceria.
 
-249
+231
 00:11:59,300 --> 00:12:04,780
 Seguramente nós não partilhamos dessa visão de enfiar dinheiro dos contribuintes quando
 
-250
+232
 00:12:04,780 --> 00:12:07,300
 corre mal e asfixiar quando corre bem.
 
-251
+233
 00:12:07,300 --> 00:12:09,140
 Portanto, a nossa visão é completamente diferente.
 
-252
+234
 00:12:09,140 --> 00:12:13,700
 Agora, falando da Caixa, da REN, da Galp, que a Mariana acabou de falar, há aqui uma questão
 
-253
+235
 00:12:13,700 --> 00:12:15,060
 que era importante também esclarecer.
 
-254
+236
 00:12:15,300 --> 00:12:22,660
 O programa do Bloco é que propõe nacionalização, desprivatização, é o que dizem, a nacionalização,
 
-255
+237
 00:12:22,660 --> 00:12:26,180
 lá está, da REN, da EDP, da Galp.
 
-256
+238
 00:12:26,180 --> 00:12:31,300
 E isto, estas empresas que lá estão, o CTT, a ANA, estamos a falar de 30 mil milhões
 
-257
+239
 00:12:31,300 --> 00:12:34,820
 de euros que custaria fazer a nacionalização destas empresas.
 
-258
+240
 00:12:34,820 --> 00:12:37,700
 Eu tenho que perguntar à Mariana Morcagua, com o dinheiro de quem?
 
-259
+241
 00:12:37,700 --> 00:12:42,420
 Estamos a falar de, numa família de três pessoas, de 10 mil euros por família, três
 
-260
+242
 00:12:42,420 --> 00:12:45,140
 pessoas, para nacionalizar estas empresas.
 
-261
-00:12:45,139 --> 00:12:50,379
+243
+00:12:45,140 --> 00:12:50,379
 Ou a Mariana Morcagua não quer pagar o justo valor na nacionalização destas empresas,
 
-262
+244
 00:12:50,379 --> 00:12:53,139
 ou quer pagar e vai precisar do dinheiro dos contribuintes.
 
-263
+245
 00:12:53,139 --> 00:12:55,139
-Portanto, acho que era importante percebermos qual é a visão da Mariana Morcagua.
+Portanto, acho que era importante percebermos qual é a visão da Mariana Mortágua.
 
-264
+246
 00:12:55,139 --> 00:12:57,379
 Mariana, para responder, antes de avançarmos para outro tema.
 
-265
+247
 00:12:57,379 --> 00:12:59,179
 Sim, muito brevemente.
 
-266
+248
 00:12:59,179 --> 00:13:01,100
 Eu disse que era importante que as pessoas ouvissem o Dr.
 
-267
+249
 00:13:01,100 --> 00:13:04,100
 Rui Rocha porque o que aqui foi dito é que as pessoas têm que enfrentar a subida dos
 
-268
+250
 00:13:04,100 --> 00:13:08,019
 juros do crédito à habitação, isso é um mercado e nada tem que ser feito.
 
-269
+251
 00:13:08,019 --> 00:13:10,139
 E, portanto, cada um fica com a sua posição.
 
-270
+252
 00:13:10,139 --> 00:13:15,100
-O que é estranho é que a iniciativa liberal que é prejuízos privados, prejuízos privados,
+O que é estranho é que a Iniciativa Liberal que é prejuízos privados, prejuízos privados,
 
-271
+253
 00:13:15,139 --> 00:13:19,019
 mas quando o Bloco de Esquerda aprovou uma proposta para travar a injeção do Novo Banco
 
-272
+254
 00:13:19,019 --> 00:13:23,980
-em 2020 de 476 milhões, a iniciativa liberal votou contra.
+em 2020 de 476 milhões, a Iniciativa Liberal votou contra.
 
-273
-00:13:23,980 --> 00:13:27,580
-Votou contra essa proposta e ela foi aprovada com o voto contra da iniciativa liberal que
+255
+00:13:23,980 --> 00:13:28,580
+Votou contra essa proposta e ela foi aprovada com o voto contra da Iniciativa Liberal que aprovou.
 
-274
-00:13:27,580 --> 00:13:28,580
-aprovou.
-
-275
+256
 00:13:28,580 --> 00:13:32,460
-Porque havia um compromisso anterior do Estado português e a iniciativa liberal entende
+Porque havia um compromisso anterior do Estado português e a Iniciativa Liberal entende
 
-276
+257
 00:13:32,460 --> 00:13:34,980
 que o Estado português deve cumprir os seus compromissos.
 
-277
+258
 00:13:34,980 --> 00:13:35,980
 Só por isso.
 
-278
+259
 00:13:35,980 --> 00:13:36,980
 Eu ouço, eu ouço, vai ter que me deixar terminar.
 
-279
+260
 00:13:36,980 --> 00:13:37,980
 Sim, mas este esclarecimento era importante.
 
-280
+261
 00:13:37,980 --> 00:13:38,980
 Vai ter que me deixar terminar.
 
-281
+262
 00:13:38,980 --> 00:13:39,980
 Com certeza.
 
-282
+263
 00:13:39,980 --> 00:13:43,580
-A iniciativa liberal votou contra e, portanto, prejuízos privados, a não ser quando há
+A Iniciativa Liberal votou contra e, portanto, prejuízos privados, a não ser quando há
 
-283
+264
 00:13:43,580 --> 00:13:44,580
 uma garantia ao Novo Banco.
 
-284
+265
 00:13:44,580 --> 00:13:45,080
-400 milhões.
+476 milhões.
 
-285
+266
 00:13:45,080 --> 00:13:46,080
 Havia um compromisso prévio assumido.
 
-286
-00:13:46,080 --> 00:13:47,080
-Havia um compromisso prévio assumido.
+267
+00:13:47,080 --> 00:13:49,080
+Vai ter que me deixar terminar. A injeção foi feita.
 
-287
-00:13:47,080 --> 00:13:48,080
-Vai ter que me deixar terminar.
-
-288
-00:13:48,080 --> 00:13:49,080
-A injeção foi feita.
-
-289
+268
 00:13:49,080 --> 00:13:52,000
 Mas já há agora que fala sobre controle público.
 
-290
+269
 00:13:52,000 --> 00:13:56,139
 Eu não sei se defende que é uma grande ideia a eletricidade portuguesa pertencer ao Partido
 
-291
+270
 00:13:56,139 --> 00:13:57,139
 Comunista Chinês.
 
-292
+271
 00:13:57,139 --> 00:13:58,139
 Eu já explico.
 
-293
+272
 00:13:58,139 --> 00:14:00,320
 Não sei se defende se é uma grande ideia termos entregue a Portugal Telecom, que era
 
-294
+273
 00:14:00,320 --> 00:14:04,300
-a empresa mais tecnológica do país, para ter sido esbaratada entre os interesses de
+a empresa mais tecnológica do país, para ter sido desbaratada entre os interesses de
 
-295
+274
 00:14:04,300 --> 00:14:09,320
 Ricardo Salgado e de uma tecnológica, de uma empresa brasileira, ou depois para Altice,
 
-296
-00:14:09,320 --> 00:14:13,660
-para o CEO de Altice ser acusado de fraude e de lapidação do património da Portugal
+275
+00:14:09,320 --> 00:14:14,520
+para o CEO de Altice ser acusado de fraude e de lapidação do património da Portugal Telecom.
 
-297
-00:14:13,660 --> 00:14:14,520
-Telecom.
-
-298
-00:14:14,519 --> 00:14:17,600
+276
+00:14:14,520 --> 00:14:17,600
 Destruindo uma das melhores empresas portuguesas.
 
-299
+277
 00:14:17,600 --> 00:14:20,519
-Eu já direi qual é a posição da iniciativa liberal.
+Eu já direi qual é a posição da Iniciativa Liberal.
 
-300
-00:14:20,519 --> 00:14:21,519
-O Dr.
+278
+00:14:20,519 --> 00:14:23,759
+O Dr. Rui Rocha falou-me sobre as propostas do Bloco de Esquerda.
 
-301
-00:14:21,519 --> 00:14:23,759
-Riocha falou-me sobre as propostas do Bloco de Esquerda.
+279
+00:14:23,759 --> 00:14:25,759
+Sim. 31 mil milhões.
 
-302
-00:14:23,759 --> 00:14:24,759
-Sim.
-
-303
-00:14:24,759 --> 00:14:25,759
-31 mil milhões.
-
-304
+280
 00:14:25,759 --> 00:14:29,360
-O CTP, uma posição de controle de 60 milhões é o valor de mercado.
+O CTT, uma posição de controle de 60 milhões é o valor de mercado.
 
-305
+281
 00:14:29,360 --> 00:14:35,699
 A gestão global do sistema REN, 50 milhões, e uma posição de controle na REN são 450
 
-306
+282
 00:14:35,699 --> 00:14:37,879
 milhões valor de mercado.
 
-307
+283
 00:14:37,879 --> 00:14:42,639
 Estas propostas, que é o plano que o Bloco de Esquerda apresenta para ter controle público
 
-308
+284
 00:14:42,639 --> 00:14:44,500
 de alguns setores essenciais.
 
-309
+285
 00:14:44,500 --> 00:14:45,500
-E a GAU?
+E a GALP?
 
-310
+286
 00:14:45,500 --> 00:14:46,500
 Não.
 
-311
+287
 00:14:46,500 --> 00:14:51,500
 O plano que o Bloco de Esquerda apresenta tem duas medidas para estes quatro anos.
 
-312
+288
 00:14:51,500 --> 00:14:53,500
-CTP, 60 milhões.
+CTT, 60 milhões.
 
-313
+289
 00:14:53,500 --> 00:14:56,779
 REN, 50 mais 450 milhões.
 
-314
+290
 00:14:56,779 --> 00:15:04,779
 Estas propostas são menos de metade do que a borla de 2,2 mil milhões de euros que o
 
-315
-00:15:04,779 --> 00:15:05,779
-Dr.
+291
+00:15:04,779 --> 00:15:09,080
+Dr. Rui Rocha quer dar no IRC à banca, cortando-lhe metade dos impostos.
 
-316
-00:15:05,779 --> 00:15:09,080
-Riocha quer dar no IRC à banca, cortando-lhe metade dos impostos.
-
-317
+292
 00:15:09,080 --> 00:15:10,740
 Portanto, já que me pergunta a mim, já que me pergunta a mim, como é que se faz?
 
-318
+293
 00:15:10,740 --> 00:15:11,740
 Quero perceber como é que vai fazer desprivatizações previstas no seu governo.
 
-319
-00:15:11,740 --> 00:15:12,740
-Já que me pergunta a mim.
-
-320
-00:15:12,740 --> 00:15:13,740
-Já que me pergunta a mim.
-
-321
-00:15:13,740 --> 00:15:13,940
-Como é que se faz?
-
-322
-00:15:13,940 --> 00:15:14,059
-Já que me pergunta a mim.
-
-323
-00:15:14,059 --> 00:15:14,100
-Como é que se faz?
-
-324
-00:15:14,100 --> 00:15:14,139
-Já que me pergunta a mim.
-
-325
-00:15:14,139 --> 00:15:14,179
-Como é que se faz?
-
-326
-00:15:14,179 --> 00:15:14,200
-Como é que se faz?
-
-327
-00:15:14,500 --> 00:15:14,620
-Já que me pergunta a mim.
-
-328
+294
 00:15:14,620 --> 00:15:19,879
 Como é que se paga 540 milhões de uma proposta para ter o controle público sobre o sistema
 
-329
+295
 00:15:19,879 --> 00:15:22,440
 de distribuição de eletricidade no país?
 
-330
+296
 00:15:22,860 --> 00:15:28,220
-Explica ao país como é que paga 2,2 mil milhões de euros para dar uma borla de metade
+Explique ao país como é que paga 2,2 mil milhões de euros para dar uma borla de metade
 
-331
+297
 00:15:28,220 --> 00:15:32,600
 dos impostos que a banca vai deixar de pagar ou a EDP, que pertence ao Partido Comunista
 
-332
+298
 00:15:32,600 --> 00:15:34,759
-Chinês, ou a REN ou a GAUP.
+Chinês, ou a REN ou a GALP.
 
-333
+299
 00:15:34,899 --> 00:15:36,559
 Rui Rocha, para avançarmos.
 
-334
-00:15:36,580 --> 00:15:41,700
-Esta formulação da borla, tudo isto, aquilo que a Iniciativa Liberal quer é uma coisa
+300
+00:15:36,580 --> 00:15:42,419
+Esta formulação da borla, tudo isto, aquilo que a Iniciativa Liberal quer é uma coisa muito simples.
 
-335
-00:15:41,700 --> 00:15:42,419
-muito simples.
-
-336
-00:15:42,419 --> 00:15:44,059
-É que o investimento...
-
-337
+301
 00:15:44,060 --> 00:15:47,560
-O investimento em Portugal cresça e para isso nós temos que ser competitivos nas taxas
+É que o investimento em Portugal cresça e para isso nós temos que ser competitivos nas taxas
 
-338
+302
 00:15:47,560 --> 00:15:48,200
 que aplicamos.
 
-339
+303
 00:15:48,540 --> 00:15:52,980
 Nós temos salários baixos, temos baixa produtividade, baixa inovação, baixa tecnologia.
 
-340
-00:15:53,320 --> 00:15:54,380
-Queremos baixar o IRC?
+304
+00:15:53,320 --> 00:15:54,940
+Queremos baixar o IRC? Sim.
 
-341
-00:15:54,780 --> 00:15:54,940
-Sim.
-
-342
+305
 00:15:55,280 --> 00:15:59,820
 Queremos baixar o IRC para que empresas, empresas grandes, não sejam as empresas por onde os
 
-343
+306
 00:15:59,820 --> 00:16:04,320
 jovens portugueses emigram sistematicamente, mas sejam empresas que se fixam em Portugal,
 
-344
+307
 00:16:04,680 --> 00:16:09,320
 que tragam essa tecnologia, essa produtividade e tragam uma coisa muito importante, salários
 
-345
+308
 00:16:09,320 --> 00:16:10,860
 mais altos para os portugueses.
 
-346
+309
 00:16:10,860 --> 00:16:14,040
 Sim, nós queremos ser o partido dos que trabalham.
 
-347
+310
 00:16:14,060 --> 00:16:15,780
 Dos que querem crescer pelo seu trabalho.
 
-348
+311
 00:16:15,780 --> 00:16:18,460
 Das pessoas que têm dois empregos porque um só não chega.
 
-349
+312
 00:16:18,460 --> 00:16:20,600
 E queremos baixar o IRS a esses.
 
-350
+313
 00:16:20,600 --> 00:16:25,300
 Sim, queremos ser o partido das pequenas empresas, dos pequenos negócios, que querem abrir mais
 
-351
+314
 00:16:25,300 --> 00:16:27,520
 um estabelecimento, que querem ter outro mercado.
 
-352
+315
 00:16:27,520 --> 00:16:32,740
 E com esses nós queremos baixar taxas e eliminar taxas para que possam crescer.
 
-353
+316
 00:16:32,740 --> 00:16:35,240
 Sim, nós somos o partido das médias empresas.
 
-354
+317
 00:16:35,240 --> 00:16:39,120
 Sim, nós somos o partido das empresas que querem ser grandes, que querem ser internacionais.
 
-355
+318
 00:16:39,120 --> 00:16:43,420
 Sim, nós somos o partido dos profissionais liberais e dos trabalhadores independentes,
 
-356
+319
 00:16:43,420 --> 00:16:50,820
 com medidas como reforço dos direitos de parentalidade, isenções mais altas de IVA e de segurança
 
-357
+320
 00:16:50,820 --> 00:16:51,820
 social.
 
-358
+321
 00:16:51,820 --> 00:16:55,180
 Sim, nós queremos mexer nas taxas de retenção dos trabalhadores independentes que estão
 
-359
+322
 00:16:55,180 --> 00:16:56,880
 a ser asfixiados na sua atividade.
 
-360
+323
 00:16:56,880 --> 00:16:59,220
 Sim, nós queremos um país a crescer.
 
-361
+324
 00:16:59,220 --> 00:17:02,900
 E eu não percebo, olhando para o programa eleitoral da Mariana Mortágua e do Bloco de
 
-362
+325
 00:17:02,900 --> 00:17:07,180
 Esquerda, fala-se quatro vezes crescimento económico, uma é um título, outra é um
 
-363
+326
 00:17:07,180 --> 00:17:08,180
 subtítulo, duas vezes são três.
 
-364
+327
 00:17:08,180 --> 00:17:12,640
 Rui Rocha, antes de devolver a palavra à Mariana Mortágua, já que se antecipou na questão
 
-365
-00:17:12,640 --> 00:17:13,259
-dos impostos...
-
-366
+328
 00:17:13,259 --> 00:17:17,500
-Os impostos, fazendo este alívio que propõe, um alívio fiscal que já aqui discutimos,
+dos impostos, fazendo este alívio que propõe, um alívio fiscal que já aqui discutimos,
 
-367
+329
 00:17:17,500 --> 00:17:21,299
 taxas únicas de IRS, IRC, eliminar taxas e contribuições extraordinárias, onde é
 
-368
+330
 00:17:21,299 --> 00:17:25,920
 que vai buscar a receita e ainda manter o país a funcionar, concedentes?
 
-369
+331
 00:17:25,920 --> 00:17:26,920
 Muito bem.
 
-370
+332
 00:17:26,920 --> 00:17:32,220
 O programa fiscal da Iniciativa Liberal vale, no máximo dos máximos, no limite, 5 mil
 
-371
+333
 00:17:32,220 --> 00:17:33,220
 milhões de euros.
 
-372
+334
 00:17:33,220 --> 00:17:38,359
 Há um milhão e meio de euros, 1.500 milhões de euros, que imediatamente regressam, porque
 
-373
+335
 00:17:38,359 --> 00:17:42,619
 se o dinheiro deixar de estar no bolso do Estado e passar a estar no bolso dos portugueses,
 
-374
+336
 00:17:42,620 --> 00:17:46,660
 eles, ainda mais em Portugal, se eu tiver mais 100 euros por mês, é muito provável
 
-375
+337
 00:17:46,660 --> 00:17:48,000
-que os afeta consumo.
+que os afete a consumo.
 
-376
+338
 00:17:48,000 --> 00:17:50,320
 Portanto, 1.500 milhões são recuperados.
 
-377
-00:17:50,320 --> 00:17:54,660
-E depois o que nós dizemos é o seguinte, o país tem neste momento 123 mil milhões
+339
+00:17:50,320 --> 00:17:55,660
+E depois o que nós dizemos é o seguinte, o país tem neste momento 123 mil milhões de despesa.
 
-378
-00:17:54,660 --> 00:17:55,660
-de despesa.
-
-379
+340
 00:17:55,660 --> 00:18:00,660
 Aquilo que estamos a dizer é que é preciso recuperar 3,5 mil milhões.
 
-380
+341
 00:18:00,660 --> 00:18:02,940
 E isso são 2,8 da despesa.
 
-381
+342
 00:18:02,940 --> 00:18:08,280
 E não me conseguem convencer que, depois de pedirmos tantos sacrifícios às famílias,
 
-382
+343
 00:18:08,280 --> 00:18:12,300
 que cortam na saúde, que cortam na habitação, nos tempos livres, na educação dos filhos,
 
-383
-00:18:12,299 --> 00:18:18,980
+344
+00:18:12,300 --> 00:18:18,980
 que não é possível o Estado fazer um ajustamento de 2,8% desta despesa total, que trará alívio
 
-384
+345
 00:18:18,980 --> 00:18:23,859
 por uma vez às famílias e às empresas portuguesas, para que não sejam sempre elas a cortar e
 
-385
+346
 00:18:23,859 --> 00:18:24,859
 seja o Estado a pôr a sua parte.
 
-386
+347
 00:18:24,859 --> 00:18:26,859
-Deixa-me também ouvir a Mariana Mortágua.
+Deixe-me também ouvir a Mariana Mortágua.
 
-387
+348
 00:18:26,859 --> 00:18:32,299
 Mariana, em impostos, o Bloco defende tributação justa e progressiva da riqueza, grandes fortunas,
 
-388
+349
 00:18:32,299 --> 00:18:35,859
 lucros das grandes empresas, de maneira a desagravar os impostos sobre o trabalho e
 
-389
+350
 00:18:35,859 --> 00:18:36,859
 os bens essenciais.
 
-390
+351
 00:18:36,859 --> 00:18:40,899
 Apoia-se no que já é feito lá fora, sendo que em certos países a riqueza também é
 
-391
-00:18:40,899 --> 00:18:42,139
-maior do que aquela que é para os portugueses.
+352
+00:18:40,899 --> 00:18:43,140
+maior do que aquela que é produzida em Portugal.
 
-392
-00:18:42,140 --> 00:18:43,140
-Produzida em Portugal.
-
-393
+353
 00:18:43,140 --> 00:18:46,420
 Nesse sentido, o Estado não deveria ter um papel de incentivo também para as empresas?
 
-394
+354
 00:18:46,420 --> 00:18:49,520
 Fiquei surpreendida por saber que a Iniciativa Liberal quer desviar uma parte dos impostos
 
-395
-00:18:49,520 --> 00:18:53,700
-para mais impostos indiretos, porque é só assim que recupera impostos que diz que quer
+355
+00:18:49,520 --> 00:18:54,700
+para mais impostos indiretos, porque é só assim que recupera impostos que diz que quer cortar.
 
-396
-00:18:53,700 --> 00:18:54,700
-cortar.
-
-397
+356
 00:18:54,700 --> 00:18:55,700
-É a economia a funcionar, se as pessoas consomem pagam impostos.
+É a economia a funcionar, se as pessoas consomem, pagam impostos.
 
-398
+357
 00:18:55,700 --> 00:19:00,500
 Mas vamos lá fazer as contas a algumas propostas, depois deste pequeno momento de propaganda
 
-399
+358
 00:19:00,500 --> 00:19:03,980
 e comício que aqui tivemos, doutor Rui Rocha.
 
-400
+359
 00:19:03,980 --> 00:19:05,980
 Mas não se esqueça da habitação, Mariana, que ainda não percebemos.
 
-401
+360
 00:19:05,980 --> 00:19:07,980
-A proposta de IRC apresentada pela EL...
+A proposta de IRC apresentada pela IL...
 
-402
+361
 00:19:07,980 --> 00:19:10,980
 A proposta de habitação, nem os 30 mil milhões das privatizações, desprivatizações.
 
-403
-00:19:10,980 --> 00:19:11,980
-Vamos supor que...
+362
+00:19:10,980 --> 00:19:12,980
+Vamos deixar a Mariana Mortágua responder.
 
-404
-00:19:11,980 --> 00:19:12,980
-Vamos deixar a Mariana Mortado responder.
-
-405
+363
 00:19:12,980 --> 00:19:15,259
 ... durante todas as suas intervenções e até ao fim.
 
-406
+364
 00:19:15,259 --> 00:19:16,259
 Claro.
 
-407
+365
 00:19:16,259 --> 00:19:17,259
 Vai ter que fazer o mesmo comigo.
 
-408
+366
 00:19:17,259 --> 00:19:18,259
 Com certeza, farei.
 
-409
+367
 00:19:18,259 --> 00:19:19,259
 Obrigada.
 
-410
+368
 00:19:19,259 --> 00:19:25,660
-A proposta de IRC, e ela acha que a prioridade é cortar 50% nos impostos às grandes empresas
+A proposta de IRC, IL acha que a prioridade é cortar 50% nos impostos às grandes empresas
 
-411
+369
 00:19:25,660 --> 00:19:26,660
 em Portugal.
 
-412
+370
 00:19:26,660 --> 00:19:30,160
 E portanto explique-me, por favor, como é que paga 2.200 milhões de euros para cortar
 
-413
+371
 00:19:30,160 --> 00:19:34,779
 metade dos impostos à banca, à EDP, à Galp.
 
-414
+372
 00:19:34,779 --> 00:19:37,660
 Mas continua, porque podemos entrar na proposta de IRS.
 
-415
+373
 00:19:37,660 --> 00:19:41,220
 A proposta de IRS tem três problemas muito breves.
 
-416
+374
 00:19:41,220 --> 00:19:42,220
-é inconstitucional.
+Primeiro: é inconstitucional.
 
-417
+375
 00:19:42,220 --> 00:19:47,620
-É, aliás, a mesma proposta que o SEGA propõe, que é uma proposta que elimina a progressividade
+É, aliás, a mesma proposta que o Chega propõe, que é uma proposta que elimina a progressividade
 
-418
+376
 00:19:47,620 --> 00:19:48,620
 que existe em Portugal.
 
-419
+377
 00:19:48,620 --> 00:19:49,620
 Não, não elimina de todo.
 
-420
+378
 00:19:49,620 --> 00:19:53,220
 Está dito no programa, a ideia é caminhar por uma taxa de 15%, que é uma taxa plena.
 
-421
+379
 00:19:53,220 --> 00:19:55,500
 Com isenções que garantem a progressividade.
 
-422
+380
 00:19:55,500 --> 00:19:56,500
 Isso é falso, Mariana.
 
-423
+381
 00:19:56,500 --> 00:19:57,500
 Não vale a pena esconder o problema.
 
-424
+382
 00:19:57,500 --> 00:19:58,500
 Não, não.
 
-425
+383
 00:19:58,500 --> 00:19:59,500
 Está lá escrito, mas isso é falso.
 
-426
+384
 00:19:59,500 --> 00:20:00,500
 Segunda questão.
 
-427
+385
 00:20:00,500 --> 00:20:03,500
 Custa 3.500 milhões de euros.
 
-428
-00:20:03,500 --> 00:20:07,579
-Eu ouvi-o numa entrevista a dizer como é que explicava onde é que ia buscar os 3.500
+386
+00:20:03,500 --> 00:20:08,579
+Eu ouvi-o numa entrevista a dizer como é que explicava onde é que ia buscar os 3.500 milhões de euros.
 
-429
-00:20:07,579 --> 00:20:08,579
-milhões de euros.
-
-430
+387
 00:20:08,579 --> 00:20:09,500
 Ia buscar poupanças de papelaria no Estado.
 
-431
-00:20:09,500 --> 00:20:10,500
-Não, não.
-
-432
-00:20:10,500 --> 00:20:11,779
-Papelaria no Estado.
-
-433
+388
 00:20:11,779 --> 00:20:12,779
 Não foi isso que disse.
 
-434
+389
 00:20:12,779 --> 00:20:13,779
 Papel e lápis.
 
-435
+390
 00:20:13,779 --> 00:20:14,779
 Não foi isso que disse.
 
-436
+391
 00:20:14,779 --> 00:20:16,779
 Não, disse literalmente papel e lápis no Estado.
 
-437
+392
 00:20:16,779 --> 00:20:17,779
 Dei alguns exemplos, Mariana.
 
-438
+393
 00:20:17,779 --> 00:20:21,779
-Era a forma que o eleitor Arreio Rocha tinha para ir buscar 3.500 milhões de euros.
+Era a forma que o Dr. Rui Rocha tinha para ir buscar 3.500 milhões de euros.
 
-439
+394
 00:20:21,779 --> 00:20:22,779
 Isso é demagogia, Mariana.
 
-440
+395
 00:20:22,779 --> 00:20:23,779
 Que custa a sua proposta de IRS.
 
-441
+396
 00:20:23,779 --> 00:20:24,779
 Isso é demagogia.
 
-442
+397
 00:20:24,779 --> 00:20:29,779
 Mas vamos falar sobre os portugueses que trabalham e que vão ter menos impostos com a sua proposta
 
-443
+398
 00:20:29,779 --> 00:20:30,779
 de IRS.
 
-444
+399
 00:20:30,779 --> 00:20:36,299
-Porque há quatro presidentes de quatro empresas, e isto a EL nunca coloca nos seus cartazes,
+Porque há quatro presidentes de quatro empresas, e isto a IL nunca coloca nos seus cartazes,
 
-445
+400
 00:20:36,299 --> 00:20:39,980
 que em conjunto ganham um salário anual de 8 milhões de euros.
 
-446
+401
 00:20:39,980 --> 00:20:42,299
 8 milhões de euros por ano.
 
-447
+402
 00:20:42,299 --> 00:20:48,339
-E que quem é a EL quer oferecer, e o eleitor Arreio Rocha quer oferecer, 2,4 milhões de
+E que quem é a IL quer oferecer, e o Dr. Rui Rocha quer oferecer, 2,4 milhões de
 
-448
+403
 00:20:48,339 --> 00:20:50,539
 euros de borla fiscal com a sua proposta.
 
-449
+404
 00:20:50,539 --> 00:20:52,579
 Eu não sei se é isto que entende.
 
-450
+405
 00:20:52,579 --> 00:20:54,339
 Para os portugueses, trabalho árduo.
 
-451
+406
 00:20:54,339 --> 00:21:00,259
 Gente que recebe quatro, quatro pessoas, presidentes de empresas, quatro, 8 milhões de euros e
 
-452
+407
 00:21:00,259 --> 00:21:03,259
-vão ter uma borla fiscal de 2,4 milhões de euros com a proposta de iniciativa rural.
+vão ter uma borla fiscal de 2,4 milhões de euros com a proposta de Iniciativa Liberal.
 
-453
+408
 00:21:03,259 --> 00:21:06,660
-Mariana Mortago, já devolvo a palavra ao Arreio Rocha, mas, regressando à minha pergunta
+Mariana Mortágua, já devolvo a palavra ao Rui Rocha, mas, regressando à minha pergunta
 
-454
+409
 00:21:06,660 --> 00:21:09,779
 inicial, o Estado deve não incentivar as empresas?
 
-455
+410
 00:21:09,980 --> 00:21:16,180
 O Estado deve garantir que há uma economia de qualificações, que há uma economia com
 
-456
+411
 00:21:16,180 --> 00:21:20,740
 investimento em áreas que garantem futuro e garantem criação de emprego qualificado.
 
-457
+412
 00:21:20,740 --> 00:21:25,940
 Na eficiência energética, na capacidade do país de dar resposta nos setores dos transportes,
 
-458
+413
 00:21:25,940 --> 00:21:30,420
 na capacidade de produzir energia, nomeadamente no solar descentralizado, em serviços de
 
-459
+414
 00:21:30,420 --> 00:21:33,660
 saúde ponta, em investigação, em tecnologia.
 
-460
-00:21:33,660 --> 00:21:38,339
-Isto é o contrário do que o mercado tem trazido ao país, que é uma economia de baixos
+415
+00:21:33,660 --> 00:21:39,339
+Isto é o contrário do que o mercado tem trazido ao país, que é uma economia de baixos salários...
 
-461
-00:21:38,339 --> 00:21:39,339
-salários...
+416
+00:21:39,339 --> 00:21:46,299
+Focada no turismo, focada, muito focada na construção, no imobiliário e nas atividades financeiras.
 
-462
-00:21:39,339 --> 00:21:45,299
-Focada no turismo, focada, muito focada na construção, no imobiliário e nas atividades
-
-463
-00:21:45,299 --> 00:21:46,299
-financeiras.
-
-464
+417
 00:21:46,299 --> 00:21:48,220
 Mas isto o mercado deixou em Portugal, uma economia de baixos salários.
 
-465
+418
 00:21:48,220 --> 00:21:49,220
-Para responder antes de avançarmos para o futuro...
+Para responder antes de avançarmos...
 
-466
+419
 00:21:49,220 --> 00:21:53,339
-Para responder sobre a questão do IRS e desta visão dos ricos, que a iniciativa liberal
+Para responder sobre a questão do IRS e desta visão dos ricos, que a Iniciativa Liberal
 
-467
+420
 00:21:53,339 --> 00:21:56,459
-é o partido dos ricos, eu tenho a dizer à Mariana Mortago...
+é o partido dos ricos, eu tenho a dizer à Mariana Mortágua...
 
-468
+421
 00:21:56,459 --> 00:21:57,459
 É a sua proposta.
 
-469
+422
 00:21:57,459 --> 00:22:02,220
-Sim, mas a Mariana Mortago votou no Parlamento contra uma proposta de IRS que baixava apenas
+Sim, mas a Mariana Mortágua votou no Parlamento contra uma proposta de IRS que baixava apenas
 
-470
+423
 00:22:02,220 --> 00:22:05,179
 para os cinco primeiros escalões, para quem ganha menos.
 
-471
+424
 00:22:05,179 --> 00:22:07,539
 Não, mas esta é a proposta do seu programa, tem de responder por ela.
 
-472
+425
 00:22:07,539 --> 00:22:08,539
 Eu respondo por ela, sem nenhum problema.
 
-473
+426
 00:22:08,539 --> 00:22:09,139
 Tem de responder por ela.
 
-474
+427
 00:22:09,339 --> 00:22:12,939
-A Mariana Mortago está agora preocupada com um conjunto de pessoas e não se preocupa
+A Mariana Mortágua está agora preocupada com um conjunto de pessoas e não se preocupa
 
-475
+428
 00:22:12,939 --> 00:22:14,339
 com os portugueses todos.
 
-476
+429
 00:22:14,339 --> 00:22:18,139
 Aquilo que essas pessoas ganham, dividido pelos portugueses, não dava nada.
 
-477
+430
 00:22:18,139 --> 00:22:20,819
 E portanto é isto que é a demagogia do Bloco de Esquerda.
 
-478
+431
 00:22:20,819 --> 00:22:21,819
 E votou contra...
 
-479
+432
 00:22:21,819 --> 00:22:22,819
 É a sua proposta.
 
-480
+433
 00:22:22,819 --> 00:22:23,819
 E a Mariana, a sua votação foi...
 
-481
+434
 00:22:23,819 --> 00:22:24,819
 A sua proposta é esta.
 
-482
+435
 00:22:24,819 --> 00:22:31,459
 A votação no Parlamento foi contra uma proposta que baixava IRS para os cinco escalões de
 
-483
+436
 00:22:31,459 --> 00:22:32,459
 baixo e não mexia nos outros.
 
-484
+437
 00:22:32,459 --> 00:22:34,459
 Eu tenho uma proposta para baixar IRS no meu programa.
 
-485
+438
 00:22:34,459 --> 00:22:35,459
 A sua proposta...
 
-486
+439
 00:22:35,459 --> 00:22:36,459
 Agora vai ter de me deixar falar, Mariana.
 
-487
+440
 00:22:36,459 --> 00:22:37,459
 A sua proposta é esta.
 
-488
+441
 00:22:37,459 --> 00:22:38,459
 Mariana, agora vai ter de me deixar falar.
 
-489
-00:22:38,459 --> 00:22:39,339
-Vamos para a intervenção.
-
-490
+442
 00:22:39,339 --> 00:22:41,980
 Sempre esta acusação dos ricos, do Partido dos Ricos.
 
-491
+443
 00:22:41,980 --> 00:22:44,659
 Eu quero dizer à Mariana que nós queremos crescimento económico.
 
-492
+444
 00:22:44,659 --> 00:22:47,819
 E não há nada mais social do que o crescimento económico.
 
-493
+445
 00:22:47,819 --> 00:22:53,019
 Porque só com crescimento económico é que é possível depois distribuir e não ao contrário,
 
-494
+446
 00:22:53,019 --> 00:22:56,740
 distribuir aquilo que não existe, distribuir a pobreza que é proposta do Bloco de Esquerda.
 
-495
+447
 00:22:56,740 --> 00:23:02,619
 Quando a Iniciativa Liberal propõe que exista um cheque creche de 480 euros para as famílias
 
-496
+448
 00:23:02,619 --> 00:23:07,059
 poderem colocar as suas crianças na escola, isto é ou não preocupação com todos.
 
-497
+449
 00:23:07,059 --> 00:23:09,059
 Quando propomos que haja...
 
-498
+450
 00:23:09,059 --> 00:23:15,019
 Médico de família garantido para quem tem mais de 65 anos, há 345 mil portugueses que
 
-499
+451
 00:23:15,019 --> 00:23:16,019
 têm médico de família.
 
-500
+452
 00:23:16,019 --> 00:23:18,379
 Isto é crescimento para todos ou não?
 
-501
+453
 00:23:18,379 --> 00:23:22,500
 Quando propomos planos de recuperação de aprendizagens para as crianças porque não
 
-502
+454
 00:23:22,500 --> 00:23:27,059
 queremos que fiquem para trás, isto é crescimento para todos ou não?
 
-503
+455
 00:23:27,059 --> 00:23:29,059
 O nosso tempo está a fugir.
 
-504
+456
 00:23:29,059 --> 00:23:33,019
 Deixe-me entrar aqui na questão da saúde porque é um tema também que vos separa.
 
-505
-00:23:33,019 --> 00:23:36,700
-Consultando o Euro Health Consumer Index, que é...
+457
+00:23:33,019 --> 00:23:37,700
+Consultando o Euro Health Consumer Index, que é... Enfim.
 
-506
-00:23:36,700 --> 00:23:37,700
-Enfim.
-
-507
+458
 00:23:37,700 --> 00:23:43,340
 Onde a Iniciativa Liberal se apoia para sustentar o tipo de modelo para a saúde que defende,
 
-508
+459
 00:23:43,340 --> 00:23:46,740
 os Países Baixos, com que compara, de facto apresentam dos melhores indicadores.
 
-509
+460
 00:23:46,740 --> 00:23:49,779
 A Alemanha, com que também se compara, no entanto, apresenta indicadores muito semelhantes
 
-510
+461
 00:23:49,779 --> 00:23:53,259
 a Portugal, tanto no acesso como nos resultados alcançados.
 
-511
+462
 00:23:53,259 --> 00:23:55,819
 Quer explicar porque é que este modelo funciona melhor que o SNS?
 
-512
+463
 00:23:55,819 --> 00:23:56,819
 Porque permite às pessoas...
 
-513
+464
 00:23:56,819 --> 00:23:58,700
 Para já é um modelo com provas dadas.
 
-514
-00:23:58,700 --> 00:24:02,660
-E permite às pessoas que hoje estão em listas de espera de anos, portanto nós temos um
+465
+00:23:58,700 --> 00:24:03,660
+E permite às pessoas que hoje estão em listas de espera de anos, portanto nós temos um sistema...
 
-515
-00:24:02,660 --> 00:24:03,660
-sistema...
-
-516
+466
 00:24:03,660 --> 00:24:05,700
 Temos um país, dois sistemas em matéria de saúde.
 
-517
-00:24:05,700 --> 00:24:06,700
-Temos...
+467
+00:24:05,700 --> 00:24:10,100
+Temos aqueles que têm meios e que contratam seguros de saúde.
 
-518
-00:24:06,700 --> 00:24:10,100
-Aqueles que têm meios e que contratam seguros de saúde.
-
-519
+468
 00:24:10,100 --> 00:24:15,299
 Passamos de ter 2,5 milhões de seguros de saúde para ter 3,6 milhões agora.
 
-520
+469
 00:24:15,299 --> 00:24:19,180
 Aqueles que podem, que são funcionários públicos, têm acesso ao ADSE e repare, até
 
-521
+470
 00:24:19,180 --> 00:24:21,980
 pagam por isso, porque querem ter escolha.
 
-522
+471
 00:24:21,980 --> 00:24:25,100
 E aquilo que nós estamos a dizer é que queremos que os portugueses tenham essa escolha que
 
-523
+472
 00:24:25,100 --> 00:24:27,779
 se faz, por exemplo, na Alemanha e na Holanda.
 
-524
+473
 00:24:27,779 --> 00:24:29,740
 Mas em matéria de saúde há um ponto muito importante.
 
-525
+474
 00:24:29,740 --> 00:24:31,120
 Já falamos aqui de Braga.
 
-526
+475
 00:24:31,120 --> 00:24:32,740
 Eu candidato-me por Braga.
 
-527
+476
 00:24:32,740 --> 00:24:35,700
 E em Braga, o hospital de Braga era uma PPP.
 
-528
+477
 00:24:35,700 --> 00:24:37,460
 Serve toda a região.
 
-529
+478
 00:24:37,460 --> 00:24:43,100
 O Tribunal de Contas disse que era um hospital que funcionava, que tinha bons resultados
 
-530
+479
 00:24:43,100 --> 00:24:47,600
 para os contribuintes e os profissionais de saúde estavam satisfeitos.
 
-531
+480
 00:24:47,600 --> 00:24:52,299
-Por enviesamento ideológico, em Braga, em Louros, no Beatriz Ângelo, em Vila Franca
+Por enviesamento ideológico, em Braga, em Loures, no Beatriz Ângelo, em Vila Franca
 
-532
+481
 00:24:52,299 --> 00:24:57,220
 de Xira, o Bloco de Esquerda impôs a reversão dessas parcerias público-privadas.
 
-533
+482
 00:24:57,220 --> 00:24:59,940
 Consequência para estas populações.
 
-534
+483
 00:24:59,940 --> 00:25:01,140
 Pior serviço.
 
-535
+484
 00:25:01,140 --> 00:25:02,700
 Piores condições.
 
-536
+485
 00:25:02,700 --> 00:25:04,539
 Profissionais de saúde descontentes.
 
-537
-00:25:04,539 --> 00:25:05,539
-É esta a consequência.
-
-538
-00:25:05,539 --> 00:25:05,660
-É esta a consequência.
-
-539
+486
 00:25:05,700 --> 00:25:08,460
 É esta a consequência das políticas do Bloco de Esquerda.
 
-540
+487
 00:25:08,460 --> 00:25:15,319
 O Bloco de Esquerda anestesia na saúde e bloqueia a economia, traz prejuízo aos portugueses.
 
-541
+488
 00:25:15,319 --> 00:25:16,860
-Deixe-me ouvir a Marina Mortágua.
+Deixe-me ouvir a Mariana Mortágua.
 
-542
+489
 00:25:16,860 --> 00:25:22,420
-Marina Mortágua, na questão da saúde, o Bloco refere no programa que em 2023 as horas
+Mariana Mortágua, na questão da saúde, o Bloco refere no programa que em 2023 as horas
 
-543
+490
 00:25:22,420 --> 00:25:27,200
 extras realizadas por médicos e enfermeiros custaram mais de 450 milhões de euros, a
 
-544
+491
 00:25:27,200 --> 00:25:32,620
 que se junta 170 milhões gastos com tarefeiros, contas que permitiriam contratar mais de 16
 
-545
+492
 00:25:32,620 --> 00:25:35,539
 mil profissionais para o SNS.
 
-546
+493
 00:25:35,539 --> 00:25:40,159
-E, com essa absorção e essa reorganização do sistema, como é que ainda conseguiria finançar
+Assumindo que faria essa absorção e essa reorganização do sistema, como é que ainda conseguiria finançar
 
-547
+494
 00:25:40,159 --> 00:25:44,299
-a criação de um regime de exclusividade com uma juração de 40% sobre o salário?
+a criação de um regime de exclusividade com majoração de 40% sobre o salário?
 
-548
+495
 00:25:44,299 --> 00:25:48,779
 Bom, em primeiro lugar, eu quero uma economia que cresce em setores de valor acrescentado.
 
-549
+496
 00:25:48,779 --> 00:25:50,039
 Mas não tem medidas de crescimento no seu programa, Mariana.
 
-550
+497
 00:25:50,039 --> 00:25:52,000
 Eu quero uma economia de qualificações.
 
-551
+498
 00:25:52,000 --> 00:25:56,799
-Quero uma economia que investe na reconfissão energética, em setores de futuro para combater
+Quero uma economia que investe na reconversão energética, em setores de futuro para combater
 
-552
+499
 00:25:56,799 --> 00:26:00,779
 as alterações climáticas e que é capaz de dar empregos de qualidade e de futuro.
 
-553
+500
 00:26:00,779 --> 00:26:05,379
 O que eu não quero é uma economia dependente de atividades de baixa produtividade, mas
 
-554
+501
 00:26:05,380 --> 00:26:09,800
 de baixo valor acrescentado, que é para onde o mercado nos trouxe.
 
-555
+502
 00:26:09,800 --> 00:26:14,300
 Foi dito em Portugal, ao longo de três décadas, que se qualificássemos as novas gerações,
 
-556
+503
 00:26:14,300 --> 00:26:19,280
 se descêssemos os impostos, 15 pontos percentuais é quanto o IRC desceu nos últimos 30 anos,
 
-557
+504
 00:26:19,280 --> 00:26:22,480
 por causa dessa sua mesma lógica, exatamente a mesma lógica.
 
-558
+505
 00:26:22,480 --> 00:26:27,620
 E se privatizássemos e se liberalizássemos, se fizéssemos estas três coisas, Portugal
 
-559
+506
 00:26:27,620 --> 00:26:29,660
 ia ter um crescimento fulgurante.
 
-560
-00:26:29,660 --> 00:26:34,620
-O que aconteceu é que o mercado, com essas três coisas, trouxe-nos turismo, trouxe-nos
+507
+00:26:29,660 --> 00:26:35,380
+O que aconteceu é que o mercado, com essas três coisas, trouxe-nos turismo, trouxe-nos construção.
 
-561
-00:26:34,620 --> 00:26:35,380
-construção.
-
-562
+508
 00:26:35,380 --> 00:26:36,380
 E imobiliário.
 
-563
+509
 00:26:36,380 --> 00:26:43,000
 E deixou de lado atividades de valor acrescentado para enfrentar o futuro de emprego qualificado.
 
-564
+510
 00:26:43,000 --> 00:26:47,300
 E é precisamente isso que eu quero para Portugal, porque não quero este país de baixos salários
 
-565
+511
 00:26:47,300 --> 00:26:49,000
 e tenho um projeto para isso.
 
-566
+512
 00:26:49,000 --> 00:26:55,380
 Não digo é às pessoas que basta descer o IRC aos bancos e que com isso vou ter uma
 
-567
+513
 00:26:55,380 --> 00:26:56,380
 economia qualificada.
 
-568
+514
 00:26:56,380 --> 00:27:00,100
-O que nos leva à saúde e leva-nos também à educação, porque a iniciativa liberal
+O que nos leva à saúde e leva-nos também à educação, porque a Iniciativa Liberal
 
-569
+515
 00:27:00,100 --> 00:27:05,020
 devia explicar às pessoas como é que uma regra que por cada dois de educação ou duas
 
-570
-00:27:05,019 --> 00:27:08,339
+516
+00:27:05,020 --> 00:27:08,339
 pessoas da saúde, funcionários públicos saem, só entra um.
 
-571
+517
 00:27:08,339 --> 00:27:10,779
 Eu ouvi numa entrevista a dizer, a nossa regra...
 
-572
+518
 00:27:10,779 --> 00:27:13,259
 Peço desculpa, acha que os professores são o quê?
 
-573
+519
 00:27:13,259 --> 00:27:14,259
 E os polícias são o quê?
 
-574
+520
 00:27:14,259 --> 00:27:15,259
 E os enfermeiros são o quê?
 
-575
+521
 00:27:15,259 --> 00:27:22,259
 Portanto, diga-me por favor, não está a falar nem de médicos.
 
-576
+522
 00:27:22,259 --> 00:27:26,259
 Até 2028 vão-se reformar 17 mil professores.
 
-577
+523
 00:27:26,259 --> 00:27:30,019
-E a proposta da iniciativa liberal é que por cada dois que saem, entra um.
+E a proposta da Iniciativa Liberal é que por cada dois que saem, entra um.
 
-578
+524
 00:27:30,019 --> 00:27:31,019
 Diga-me por favor...
 
-579
+525
 00:27:31,019 --> 00:27:33,019
 Não fala de professores, fala de funcionários públicos no seu conjunto.
 
-580
+526
 00:27:33,019 --> 00:27:34,019
 Mas acha que os funcionários públicos são o quê?
 
-581
+527
 00:27:34,019 --> 00:27:35,019
 São professores.
 
-582
+528
 00:27:35,019 --> 00:27:36,019
 Mas vamos à saúde também.
 
-583
+529
 00:27:36,019 --> 00:27:37,019
 Vamos lá.
 
-584
+530
 00:27:37,019 --> 00:27:38,019
-Rapidamente, Mariano, sem passar a palavra.
+Rapidamente, Mariana, tem que passar a palavra.
 
-585
-00:27:38,019 --> 00:27:41,019
-O doutor Rocha diz-nos o que tanto faz ser público ou privado.
+531
+00:27:38,019 --> 00:27:42,019
+O dr. Rui Rocha diz-nos que tanto faz ser público ou privado. Não é verdade.
 
-586
-00:27:41,019 --> 00:27:42,019
-Não é verdade.
-
-587
+532
 00:27:42,019 --> 00:27:46,019
 A presidente do maior grupo privado de saúde foi à apresentação do seu programa eleitoral
 
-588
+533
 00:27:46,019 --> 00:27:50,019
 para anunciar ao mundo que a saúde é o grande negócio do século XXI.
 
-589
+534
 00:27:50,019 --> 00:27:54,019
 E é por isso que em vez de investir no Serviço Nacional de Saúde, ter um melhor Serviço
 
-590
+535
 00:27:54,019 --> 00:27:58,019
-Nacional de Saúde, que tem problemas, mas é preciso investir mais, a iniciativa liberal
+Nacional de Saúde, que tem problemas, mas é preciso investir mais, a Iniciativa Liberal
 
-591
+536
 00:27:58,019 --> 00:27:59,019
 tem uma regra.
 
-592
+537
 00:27:59,019 --> 00:28:00,019
-Quanto mais, Mariano?
+Quanto mais, Mariana?
 
-593
+538
 00:28:00,019 --> 00:28:03,019
 Dois por um, por cada dois profissionais de saúde que se reformam, entra um.
 
-594
+539
 00:28:03,019 --> 00:28:04,019
 Não é isto que está no programa.
 
-595
+540
 00:28:04,019 --> 00:28:05,019
 É falso.
 
-596
+541
 00:28:05,019 --> 00:28:08,019
-E não é preciso entregar o dinheiro ao privado para ficarmos com um sistema mais
+E quer entregar o dinheiro ao privado para ficarmos com um sistema mais
 
-597
+542
 00:28:08,019 --> 00:28:12,019
 caro, como é o alemão e como é o holandês, mais caro e com menos qualidade.
 
-598
+543
 00:28:12,019 --> 00:28:16,019
-Rui Rocha, para responderes, é a última intervenção que o nosso tempo está a escutar.
+Rui Rocha, para responder, é a última intervenção que o nosso tempo está a escutar.
 
-599
-00:28:16,019 --> 00:28:17,019
-Vamos lá ver.
+544
+00:28:16,019 --> 00:28:18,019
+Vamos lá ver. Eu vou voltar a dizer.
 
-600
-00:28:17,019 --> 00:28:18,019
-Eu vou voltar a dizer.
-
-601
+545
 00:28:18,019 --> 00:28:23,019
 Nós temos hoje em dia pessoas que estão em listas de espera dois anos para ter saúde.
 
-602
+546
 00:28:23,019 --> 00:28:26,019
 Temos pessoas que passam noites em centros de saúde à espera de uma senha para marcar
 
-603
+547
 00:28:26,019 --> 00:28:27,019
 uma consulta.
 
-604
+548
 00:28:27,019 --> 00:28:29,019
 Este é o país que temos.
 
-605
+549
 00:28:29,019 --> 00:28:30,019
 Eu volto a dizer.
 
-606
-00:28:30,019 --> 00:28:33,019
-Os funcionários públicos em Portugal pagam o ADS-5.
+550
+00:28:30,019 --> 00:28:37,019
+Os funcionários públicos em Portugal pagam o ADSE para terem acesso a diferentes escolhas.
 
-607
-00:28:33,019 --> 00:28:37,019
-O ADS-5 para terem acesso a diferentes escolhas.
-
-608
+551
 00:28:37,019 --> 00:28:40,019
 Para poderem ir ao privado, se quiserem ir ao privado.
 
-609
+552
 00:28:40,019 --> 00:28:42,019
 Para poderem ir ao público se entenderem que é melhor.
 
-610
+553
 00:28:42,019 --> 00:28:43,019
 Para irem ao social se é melhor.
 
-611
+554
 00:28:43,019 --> 00:28:47,019
 E o que estamos a dizer é que isto é um problema quando se aplica a todos os outros.
 
-612
+555
 00:28:47,019 --> 00:28:50,019
 Porque queremos todos os outros, quer o Bloco de Esquerda, reféns.
 
-613
+556
 00:28:50,019 --> 00:28:53,019
 Mas é um modelo mais caro, como acusa o Bloco de Esquerda?
 
-614
+557
 00:28:53,019 --> 00:28:54,019
 Não é um modelo mais caro.
 
-615
+558
 00:28:54,019 --> 00:28:55,019
-É, eu sei nem o que diz.
+É, é a OCDE que o diz.
 
-616
+559
 00:28:55,019 --> 00:28:57,019
 Não tem porque ser pelo seguinte.
 
-617
+560
 00:28:57,019 --> 00:29:01,019
 É que nos últimos anos, no Serviço Nacional de Saúde, já se aumentou, desde quando o
 
-618
+561
 00:29:01,019 --> 00:29:02,019
-António Costa, 72% do serviço.
+António Costa, 72% do serviço do orçamento do Serviço Nacional de Saúde.
 
-619
+562
 00:29:02,019 --> 00:29:07,019
 E as coisas não estão melhores, estão piores.
 
-620
+563
 00:29:07,019 --> 00:29:10,019
 Os profissionais de saúde estão mais descontentes.
 
-621
+564
 00:29:10,019 --> 00:29:12,019
 Os profissionais de saúde estão mais desmotivados.
 
-622
+565
 00:29:12,019 --> 00:29:14,019
 As pessoas estão em listas de espera.
 
-623
+566
 00:29:14,019 --> 00:29:15,019
 Esta é a realidade.
 
-624
+567
 00:29:15,019 --> 00:29:16,019
 Nós não vivemos outro país.
 
-625
+568
 00:29:16,019 --> 00:29:18,019
 E agora, há outra questão.
 
-626
+569
 00:29:18,019 --> 00:29:22,019
 É que a Mariana Mortágua fala como se a Iniciativa Liberal tivesse estado na gestão do país
 
-627
+570
 00:29:22,019 --> 00:29:23,019
 nos últimos anos.
 
-628
+571
 00:29:23,019 --> 00:29:24,019
 Ora, não estivemos.
 
-629
+572
 00:29:24,019 --> 00:29:29,019
 Quem apoiou o Partido Socialista durante quatro orçamentos, quem é corresponsável deste
 
-630
+573
 00:29:29,019 --> 00:29:31,019
 caminho que foi feito, não sou eu.
 
-631
+574
 00:29:31,019 --> 00:29:32,019
 Não é a Iniciativa Liberal.
 
-632
+575
 00:29:32,019 --> 00:29:33,019
 É o Bloco de Esquerda.
 
-633
+576
 00:29:33,019 --> 00:29:34,019
 É a Mariana Mortágua.
 
-634
+577
 00:29:34,019 --> 00:29:35,019
 Essa é a responsabilidade que tem nesta gestão.
 
-635
+578
 00:29:35,019 --> 00:29:36,019
 E, portanto, é preciso mudar o país.
 
-636
+579
 00:29:36,019 --> 00:29:37,019
 Nós olhamos para o programa do Bloco de Esquerda, não encontramos lá nada sobre crescimento.
 
-637
+580
 00:29:37,019 --> 00:29:38,019
 Nada.
 
-638
+581
 00:29:38,019 --> 00:29:39,019
 Não há uma visão, uma medida.
 
-639
+582
 00:29:39,019 --> 00:29:40,019
 Não há nada, Mariana.
 
-640
-00:29:40,019 --> 00:29:41,019
-Encontra.
-
-641
+583
 00:29:41,019 --> 00:29:42,019
 Encontra.
 
-642
+584
 00:29:42,019 --> 00:29:43,019
 Encontra é descido IRC para a banca.
 
-643
+585
 00:29:43,019 --> 00:29:44,019
 Isso não encontra.
 
-644
+586
 00:29:44,019 --> 00:29:45,019
 E quando há, há duas referências em texto e pela negativa.
 
-645
+587
 00:29:45,019 --> 00:29:46,019
 Não há uma única proposta.
 
-646
+588
 00:29:46,019 --> 00:29:47,019
 Portanto, os portugueses ficam com uma ideia clara.
 
-647
+589
 00:29:47,019 --> 00:29:48,019
 Com o Bloco de Esquerda, aquilo que aconteceu até hoje continuará a acontecer.
 
-648
-00:29:48,019 --> 00:29:49,019
-E continuará a acontecer.
-
-649
-00:29:49,019 --> 00:29:50,019
-E continuará a acontecer.
-
-650
-00:29:50,019 --> 00:29:51,019
-E continuará a acontecer.
-
-651
-00:29:51,019 --> 00:29:52,019
-E continuará a acontecer.
-
-652
+590
 00:29:52,019 --> 00:29:53,019
 E continuará a acontecer também apoiando o Pedro Nuno Santos.
 
-653
+591
 00:29:53,019 --> 00:29:54,019
 E portanto é isto que temos.
 
-654
+592
 00:29:54,019 --> 00:29:55,019
 Mais estagnação.
 
-655
+593
 00:29:55,019 --> 00:29:56,019
 Mais problemas para os portugueses.
 
-656
+594
 00:29:56,019 --> 00:29:57,019
 Mais imigração.
 
-657
+595
 00:29:57,019 --> 00:29:58,019
 Temos um em cada três portugueses jovens imigrados.
 
-658
+596
 00:29:58,019 --> 00:29:59,019
 Temos um em cada quatro dos que ficam que estão desempregados.
 
-659
-00:29:59,019 --> 00:30:00,019
-A IELE ainda quer casas mais caras.
+597
+00:29:59,019 --> 00:30:01,019
+A IL ainda quer casas mais caras. Agora pense.
 
-660
-00:30:00,019 --> 00:30:01,019
-Agora penso.
+598
+00:30:02,019 --> 00:30:24,180
+A IL quer casas mais baratas porque quer eliminar o IMT, quer eliminar o imposto de selo
 
-661
-00:30:01,019 --> 00:30:02,019
-Os salários...
-
-662
-00:30:02,019 --> 00:30:03,019
-A IELE quer casas mais baratas?
-
-663
-00:30:03,019 --> 00:30:04,019
-Não.
-
-664
-00:30:04,019 --> 00:30:05,019
-Não.
-
-665
-00:30:05,019 --> 00:30:06,019
-Não.
-
-666
-00:30:06,019 --> 00:30:07,019
-A IELE quer casas mais baratas?
-
-667
-00:30:07,019 --> 00:30:08,019
-Não.
-
-668
-00:30:08,019 --> 00:30:09,019
-Não.
-
-669
-00:30:09,019 --> 00:30:10,019
-Não.
-
-670
-00:30:10,019 --> 00:30:11,019
-Não.
-
-671
-00:30:11,019 --> 00:30:12,019
-Não.
-
-672
-00:30:12,019 --> 00:30:13,019
-Não.
-
-673
-00:30:13,019 --> 00:30:14,019
-Não.
-
-674
-00:30:14,019 --> 00:30:15,019
-Não.
-
-675
-00:30:15,019 --> 00:30:16,019
-Não.
-
-676
-00:30:16,019 --> 00:30:17,019
-Não.
-
-677
-00:30:17,019 --> 00:30:18,019
-Não.
-
-678
-00:30:18,019 --> 00:30:19,019
-Não.
-
-679
-00:30:19,019 --> 00:30:20,019
-Não.
-
-680
-00:30:20,019 --> 00:30:21,019
-Não.
-
-681
-00:30:21,019 --> 00:30:24,180
-porque quer eliminar o IMT, quer eliminar o imposto de selo
-
-682
+599
 00:30:24,180 --> 00:30:26,519
 e quer reduzir para 6% o IVA da construção.
 
-683
+600
 00:30:26,619 --> 00:30:27,379
 E os preços a subir?
 
-684
-00:30:27,700 --> 00:30:31,079
-A Mariana acha bem que o IVA da construção seja 23%
+601
+00:30:27,700 --> 00:30:32,379
+A Mariana acha bem que o IVA da construção seja 23% quando é um bem essencial.
 
-685
-00:30:31,079 --> 00:30:32,379
-quando é um bem essencial.
-
-686
+602
 00:30:32,680 --> 00:30:36,839
-Dizemos que é um bem essencial e pagam mesmo que um IAT quando se compra.
+Dizemos que é um bem essencial e pagam mesmo que um iate quando se compra.
 
-687
+603
 00:30:37,180 --> 00:30:38,119
 Isto não é aceitável, Mariana.
 
-688
+604
 00:30:38,900 --> 00:30:41,119
-E ela não se porta a mexer nos lucros da especulação
+A IL não suporta é mexer nos lucros da especulação
 
-689
+605
 00:30:41,119 --> 00:30:42,720
 e de quem ganha com a especulação imobiliária.
 
-690
+606
 00:30:42,779 --> 00:30:45,200
-Mas falou da PPB de Braga e eu quero responder.
+Mas falou da PPP de Braga e eu quero responder.
 
-691
+607
 00:30:45,559 --> 00:30:47,019
-Falou da PPB de Braga e eu quero responder.
+Falou da PPP de Braga e eu quero responder.
 
-692
+608
 00:30:47,299 --> 00:30:50,119
 Porque o Tribunal de Contas, em 2016, dizia
 
-693
+609
 00:30:50,120 --> 00:30:53,960
 que a produção acordada não subordina às necessidades de população,
 
-694
+610
 00:30:54,260 --> 00:30:56,020
 o que levou ao aumento das listas e o tempo de espera
 
-695
+611
 00:30:56,020 --> 00:31:07,200
-e que a entidade de estoura opera em falência técnica desde 2011.
+e que a entidade gestora opera em falência técnica desde 2011.
 
-696
-00:31:07,620 --> 00:31:10,900
-O Instituto Liberal diz-se liberal e tudo o que diz ao país
+612
+00:31:07,620 --> 00:31:13,020
+A Iniciativa Liberal diz-se liberal e tudo o que diz ao país é que quer dar cheques ao privado.
 
-697
-00:31:10,900 --> 00:31:13,020
-é que quer dar cheques ao privado.
-
-698
+613
 00:31:13,480 --> 00:31:17,060
 Eu quero um país em que os jovens queiram viver porque têm salários,
 
-699
+614
 00:31:17,300 --> 00:31:19,160
 em que sabem que a vida não é uma competição permanente.
 
-700
+615
 00:31:19,160 --> 00:31:20,100
-Em quantos países é que o senhor...
+Em quantos países é que o seu modelo foi aplicado?
 
-701
+616
 00:31:20,100 --> 00:31:22,740
 Em que a vida não é uma competição permanente.
 
-702
-00:31:22,740 --> 00:31:23,780
-Em quantos países é que o senhor...
-
-703
-00:31:23,780 --> 00:31:25,460
-Em tal sociedade há este debate.
-
-704
-00:31:25,540 --> 00:31:26,560
-Em quantos países é que o senhor...
-
-705
-00:31:26,560 --> 00:31:27,660
-Em qual comunidade nos conteste?
-
-706
+617
 00:31:28,020 --> 00:31:30,320
-Em qual país, em que as inimigas não são países liberais.
+...
 
-707
-00:31:30,560 --> 00:31:31,700
-É esse o problema de bloco esquerdo.
+618
+00:31:30,560 --> 00:31:30,902
+É esse o problema de bloco de esquerda.
 
-708
-00:31:31,700 --> 00:31:33,340
-É isso que me importa.
+619
+00:31:30,902 --> 00:31:33,301
+Quero agradecer a vossa presença na CNN Portugal.
 
-709
-00:31:33,680 --> 00:31:33,700
-É isso que me importa.
+620
+00:31:33,301 --> 00:31:35,660
+Rui Rocha já não regressa à CNN Portugal.
 
-710
-00:31:33,960 --> 00:31:34,060
-É isso que me importa.
-
-711
-00:31:34,060 --> 00:31:34,080
-É isso que me importa.
-
-712
-00:31:34,080 --> 00:31:35,420
-Rui Rocha já não regressa à CNN.
-
-713
+621
 00:31:35,660 --> 00:31:36,560
 Boa sorte para a campanha, Mariana.
 
-714
+622
 00:31:36,660 --> 00:31:37,900
 Vemos-nos no domingo à noite.
-
