@@ -1,6 +1,12 @@
 # TL;DR
 
 I wanted to have transcriptions of the debates and tried to do it myself.
+It is being a fun ride. Loads of work. 😅
+I've been improving the process over this period. Newer debates are likely better transcribed than the initial ones. I haven't got the time to re-review them, with all this content landing each day.
+
+**Disclaimer**: I try my best to review each debate's SRT (which never takes me less than 45 min on easy ones).
+It's sometimes very challenging to understand, let alone correct, when multiple people are talking at once.
+Whisper does an overall good job at this. There were a couple of periods I had to completely write from scratch.
 
 # Calendar
 
@@ -55,7 +61,7 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 ## 15/2
 
-- 18h CNN [IL - BE]()
+- 18h CNN [IL - BE](https://sicnoticias.pt/especiais/eleicoes-legislativas/debates/2024-02-15-Debate-BE-vs-IL-o-duelo-ideologico-cordial-32946e0b)
 
 ## 16/2
 
@@ -65,15 +71,15 @@ I wanted to have transcriptions of the debates and tried to do it myself.
 
 # Process
 
-## simpler audio-only grab from podcast
+## simpler audio-only grab from podcast (currently used)
 
 PODCAST PROCESS
 
-wget "url" -O 1.mp3
-ffmpeg -i 1.mp3 -map 0:a -c:a copy -map_metadata -1 2.mp3
-ffmpeg -i 2.mp3 -ss 35 -vcodec copy -acodec copy 3.mp3
+    wget "url" -O 1.mp3
+    ffmpeg -i 1.mp3 -map 0:a -c:a copy -map_metadata -1 2.mp3
+    ffmpeg -i 2.mp3 -ss 35 -vcodec copy -acodec copy 3.mp3
 
-## video stream grab w/ VLC + FFMPEG to extract aac stream and convert to mp3
+## video stream grab w/ VLC + FFMPEG to extract aac stream and convert to mp3 (initially used)
 
 - save m3u8 stream to file on VLC:
 - vlc open network
@@ -88,10 +94,12 @@ ffmpeg -i 2.mp3 -ss 35 -vcodec copy -acodec copy 3.mp3
 
 ## transcribe mp3 to srt
 
-- pinokio + whisper webui
-- large v3
-- portuguese
-- mp3 file...
+- [pinokio](https://pinokio.computer/) + [whisper webui](https://pinokio.computer/item?uri=https://github.com/cocktailpeanut/whisper-webui.pinokio)
+- `large v3`
+- `portuguese`
+- toggle off suffix checkbox
+- supply mp3 file and wait...
+- get output from app's `output` folder
 
 # navigation key bindings
 

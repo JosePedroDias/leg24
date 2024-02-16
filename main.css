@@ -7,23 +7,38 @@ body {
     font-family: sans-serif;
 }
 
-button {
+#ui button {
     display: inline-block;
     min-width: 2.2em;
     height: 2.2em;
     font-size: 1em;
 }
 
+#list span {
+    display: inline-block;
+    padding: 0 0.5em;
+    position: absolute;
+    left: 0;
+
+}
+
 #list ul {
+    width: 60dvw;
     font-size: 80%;
     columns: 3;
     -webkit-columns: 3;
     -moz-columns: 3;
 }
 
-#list li span {
-    display: inline-block;
-    width: 120px;
+#list li {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#list button {
+    width: 20dvw;
+    padding: 0.25em 0;
 }
 
 #ui {
@@ -92,4 +107,11 @@ dialog div {
 
 #search-results a {
     text-decoration-color: #84ace9;
+}
+
+#github {
+    font-family: 'Arial Narrow', sans-serif;
+    position: fixed;
+    right: 0.5em;
+    bottom: 0.25em;
 }

@@ -8,73 +8,13 @@
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        <ul id="list">
-            <li>5 fev (2a)</li>
-            <ul>
-                <li><span>PAN - Chega</span><button onclick="run('2024-02-05_pan-chega')">carregar</button></li>
-                <li><span>PS - IL    </span><button onclick="run('2024-02-05_ps-il')"    >carregar</button></li>
-            </ul>
-            <li>6 fev (3a)</li>
-            <ul>
-                <li><span>PCP - PAN </span><button onclick="run('2024-02-06_pcp-pan')" >carregar</button></li>
-                <li><span>AD - BE   </span><button onclick="run('2024-02-06_ad-be')"   >carregar</button></li>
-                <li><span>IL - Chega</span><button onclick="run('2024-02-06_il-chega')">carregar</button></li>
-            </ul>
-            <li>7 fev (4a)</li>
-            <ul>
-                <li><span>IL - Livre</span><button onclick="run('2024-02-07_il-livre')">carregar</button></li>
-            </ul>
-            <li>8 fev (5a)</li>
-            <ul>
-                <li><span>BE - Livre</span><button onclick="run('2024-02-08_be-livre')">carregar</button></li>
-            </ul>
-            <li>9 fev (6a)</li>
-            <ul>
-                <li><span>IL - PAN</span><button onclick="run('2024-02-09_il-pan')">carregar</button></li>
-                <li><span>PS - Livre</span><button onclick="run('2024-02-09_ps-livre')">carregar</button></li>
-                <li><span>Chega - PCP</span><button onclick="run('2024-02-09_chega-pcp')">carregar</button></li>
-            </ul>
-            <li>10 fev (sáb)</li>
-            <ul>
-                <li><span>PSD - PCP</span><button onclick="run('2024-02-10_psd-pcp')">carregar</button></li>
-                <li><span>PS - PAN</span><button onclick="run('2024-02-10_ps-pan')">carregar</button></li>
-            </ul>
-            <li>11 fev (dom)</li>
-            <ul>
-                <li><span>PSD - PAN</span><button onclick="run('2024-02-11_psd-pan')">carregar</button></li>
-                <li><span>BE - PCP</span><button onclick="run('2024-02-11_be-pcp')">carregar</button></li>
-            </ul>
-            <li>12 fev (2a)</li>
-            <ul>
-                <li><span>PSD - Chega</span><button onclick="run('2024-02-12_psd-chega')">carregar</button></li>
-            </ul>
-            <li>13 fev (3a)</li>
-            <ul>
-                <li><span>PCP - Livre</span><button onclick="run('2024-02-13_pcp-livre')">carregar</button></li>
-                <li><span>Chega - BE</span><button onclick="run('2024-02-13_chega-be')">carregar</button></li>
-            </ul>
-            <li>14 fev (4a)</li>
-            <ul>
-                <li><span>Livre - PAN</span><button onclick="run('2024-02-14_livre-pan')">carregar</button></li>
-                <li><span>PS - Chega</span><button onclick="run('2024-02-14_ps-chega')">carregar</button></li>
-                <li><span>IL - PCP</span><button onclick="run('2024-02-14_il-pcp')">carregar</button></li>
-            </ul>
-            <li>15 fev (5a)</li>
-            <ul>
-                <li><span>IL - BE</span><button onclick="run('2024-02-15_il-be')">carregar</button></li>
-            </ul>
-            <!-- <li>16 fev (6a)</li>
-            <ul>
-                <li><span></span><button onclick="run('2024-02-16_')">carregar</button></li>
-                <li><span></span><button onclick="run('2024-02-16_')">carregar</button></li>
-            </ul> -->
-        </ul>
+        <ul id="list"><li>a carregar...</li></ul>
 
         <div id="search" style="display: none">
-            <label for="search-input">palavra:</label>
-            <input type="search" id="search-input" value="" placeholder="palavra a pesquisar. mínimo 2 letras">
+            <label for="search-input">palavra</label>
+            <input type="search" id="search-input" value="" placeholder="palavra a pesquisar. mín 2 letras">
 
-            <label for="search-exact-word">exacta</label>
+            <label for="search-exact-word">exata</label>
             <input type="checkbox" name="search-exact-word" id="search-exact-word" value="">
 
             <label for="search-speaker">orador</label>
@@ -86,8 +26,6 @@
             <div id="search-results">
             </div>
         </div>
-
-        <!-- <p>* - transcrição por rever</p> -->
 
         <div id="ui">
             <span id="ui1">
@@ -103,12 +41,20 @@
         
         <div id="content"></div>
 
+        <a href="https://github.com/josepedrodias/leg24" id="github">código fonte do projeto</a>
+
         <script type="module">
             import { main } from './index.mjs';
+
+            import { populateList } from './list.mjs';
             import { search } from './search.mjs';
 
-            window.run = main();
-            if (!location.hash) search();
+            const run = main();
+
+            if (!location.hash) {
+                populateList(run);
+                search();
+            }
         </script>
     </body>
 </html>
