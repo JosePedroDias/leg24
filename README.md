@@ -101,6 +101,14 @@ PODCAST PROCESS
 - supply mp3 file and wait...
 - get output from app's `output` folder
 
+## WIP audio analysis
+
+    #set INFILE 2024-02-05_pan-chega.mp3
+    ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 $INFILE
+    ffmpeg -i $INFILE -lavfi showspectrumpic=s=3622x512 out.png
+    ffmpeg -i $INFILE -filter_complex "showwavespic=s=14488x512" -frames:v 1 out.png
+
+
 # navigation key bindings
 
 - `space` - toggle playback

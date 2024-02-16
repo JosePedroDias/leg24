@@ -1,6 +1,6 @@
 
 // 00:03:02,100
-function parseTime(str) {
+export function parseTime(str) {
     const parts = str.split(/[:,]/);
 
     const hh = parseInt(parts[0], 10);
@@ -23,7 +23,7 @@ function parseTimeFree(str) {
     return hh * 3600 + mm * 60 + ss;
 }
 
-function machineTime(secs) {
+export function machineTime(secs) {
     const hh = Math.floor(secs / 3600); secs -= hh * 3600;
     const mm = Math.floor(secs /   60); secs -= mm *   60;
     return `${hh.toString().padStart(2, '0')}:${mm.toString().padStart(2, '0')}:${secs.toFixed(3).padStart(6, '0').replace('.', ',')}`;

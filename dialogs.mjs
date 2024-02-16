@@ -1,3 +1,6 @@
+import { renderVicinityInCanvas } from './render.mjs';
+import { machineTime, parseTime } from './subtitles.mjs';
+
 function baseDialog(contentText, populateFn) {
     return new Promise((resolve) => {
         const dialogEl = document.createElement('dialog');
@@ -83,9 +86,9 @@ export function splitDialog(ratios) {
     return alertDialog('split', ratios.map(r => r.toFixed(1)));
 }
 
-export function tweakTimesDialog(subtitles, currentSubIndex, audio) {
+export function tweakTimesDialog(subtitles, metadata, currentSubIndex, audio) {
     return baseDialog('tweak subtitle timings', (dialogEl, onEnd) => {
-        const W = 400;
+        const W = 800;
         const H = 60;
 
         const canvasEl = document.createElement('canvas');
@@ -93,66 +96,73 @@ export function tweakTimesDialog(subtitles, currentSubIndex, audio) {
         canvasEl.setAttribute('height', H);
         dialogEl.appendChild(canvasEl);
         const ctx = canvasEl.getContext('2d');
-        const inputsEls = [];
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.font = `9px 'Arial Narrow',sans-serif`;
+        const inputEls = [];
 
-        const s0 = subtitles[currentSubIndex - 1];
-        const s1 = subtitles[currentSubIndex    ];
-        const s2 = subtitles[currentSubIndex + 1];
-        const sub3 = [s0, s1, s2];
-
+        const sub3 = [undefined, undefined, undefined];
         const references = [
-            [s0, 'end'],
-            [s1, 'start'],
-            [s1, 'end'],
-            [s2, 'start'],
+            [sub3[0], 'end'],
+            [sub3[1], 'start'],
+            [sub3[1], 'end'],
+            [sub3[2], 'start'],
         ];
 
-        let t0, t1, dur, scale;
+        const updateSubTrio = () => {
+            const s0 = subtitles[currentSubIndex - 1] || { content: 'STUB START', start: -1, end: 0 };
+            const s1 = subtitles[currentSubIndex    ];
+            const s2 = subtitles[currentSubIndex + 1] || { content: 'STUB END', start: audio.duration, end: audio.duration + 1 };
+            sub3[0] = s0;
+            sub3[1] = s1;
+            sub3[2] = s2;
+            references[0][0] = s0;
+            references[1][0] = s1;
+            references[2][0] = s1;
+            references[3][0] = s2;
+        }
+        updateSubTrio();
+
+        const deltaT = 4;
 
         const refresh = () => {
-            t0 = s0.end - 1;
-            t1 = s2.start + 1;
-            dur = t1 - t0;
-            scale = W / dur;
-
-            ctx.clearRect(0, 0, W, H);
-            ctx.fillStyle = 'blue';
-            for (let i = 0; i < 3; ++i) {
-                const s = sub3[i];
-                const x0 = (s.start - t0) * scale;
-                const w = (s.end - s.start) * scale;
-                const h = H / 3;
-                const y0 = i * h;
-                ctx.fillRect(x0, y0, w, h);
-            }
+            renderVicinityInCanvas(ctx, [W, H], subtitles, metadata, audio.currentTime, deltaT);
         };
         refresh();
-
-        for (const s of sub3) {
-            const pEl = document.createElement('p');
-            pEl.appendChild(document.createTextNode(s.content));
-            dialogEl.appendChild(pEl);
-        }
 
         references.forEach(([s, attr]) => {
             const inputEl = document.createElement('input');
             inputEl.type = 'text';
-            inputEl.value = s[attr];
+            inputEl.value = machineTime(s[attr]);
             dialogEl.appendChild(inputEl);
-            inputsEls.push[inputEl];
+            inputEls.push(inputEl);
             inputEl.addEventListener('change', () => {
-                s[attr] = parseFloat(inputEl.value);
+                s[attr] = parseTime(inputEl.value);
                 refresh();
             });
         });
 
+        const updateLabels = () => {
+            let i = 0;
+            for (const [s, attr] of references) {
+                const el = inputEls[i];
+                el.value = machineTime(s[attr]);
+                ++i;
+            }
+        }
+
         const onTimeUpdate = () => {
             const t = audio.currentTime;
             refresh();
-            const x = (t - t0) * scale;
-            ctx.fillStyle = 'red';
-            ctx.fillRect(x, 0, 1, H);
-            if (t >= t1) audio.pause();
+            const [_, s1, __] = sub3;
+            if (t < s1.start || t > s1.end) {
+                const newIndex = subtitles.findIndex((s) => s && t >= s.start && t <= s.end);
+                if (newIndex !== -1 && newIndex !== currentSubIndex) {
+                    currentSubIndex = newIndex;
+                    updateSubTrio();
+                    updateLabels();
+                }
+            }
         }
         audio.addEventListener('timeupdate', onTimeUpdate);
 
@@ -162,12 +172,8 @@ export function tweakTimesDialog(subtitles, currentSubIndex, audio) {
             dialogEl.appendChild(buttonEl);
             buttonEl.addEventListener('click', () => {
                 if (label === 'play') {
-                    if (audio.paused) {
-                        audio.currentTime = t0;
-                        audio.play();
-                    } else {
-                        audio.pause();
-                    }
+                    if (audio.paused) audio.play();
+                    else audio.pause();
                 } else {
                     audio.removeEventListener('timeupdate', onTimeUpdate);
                     onEnd();
