@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "p n santos",
+        "m mortágua"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "p n santos": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "m mortágua": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
