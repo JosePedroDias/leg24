@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "l montenegro",
+        "r rocha"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "l montenegro": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "r rocha": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

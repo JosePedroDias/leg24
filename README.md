@@ -73,6 +73,10 @@ Whisper does an overall good job at this. There were a couple of periods I had t
 - 20.30 TVI [PS - PCP](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-17-O-debate-CDU-PS-na-integra-b3313bc4)
 - 21h SIC   [PSD - Livre](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-18-AD-e-Livre-abracam-se-na-Justica-mas-afastam-se-nas-solucoes-para-os-jovens-a612f031)
 
+## 18/2
+
+- 20.45 SIC [PSD - IL](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-18-O-debate-entre-IL-e-AD-na-integra-fb58dc52)
+
 # Process
 
 ## simpler audio-only grab from podcast (currently used)
