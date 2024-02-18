@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "l montenegro",
+        "r tavares"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "l montenegro": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "r tavares": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

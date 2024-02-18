@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "p n santos",
+        "p raimundo"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "p n santos": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "p raimundo": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
