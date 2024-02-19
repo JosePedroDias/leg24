@@ -78,6 +78,18 @@ Whisper does an overall good job at this. There were a couple of periods I had t
 - 20.45 SIC [PSD - IL](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-18-O-debate-entre-IL-e-AD-na-integra-fb58dc52)
 - 21.50 CNN [BE - Pan](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-18-BE-vs-PAN-o-debate-na-integra-com-Mariana-ao-ataque-e-Ines-a-travar-populismos-505393e8)
 
+## 19/2
+
+- 21h SIC [PS - PSD]
+
+## 20/2
+
+- 21h RTP [partidos sem assento p]
+
+## 23/2
+
+- 21h RTP [partidos com assento p]
+
 # Process
 
 ## simpler audio-only grab from podcast (currently used)
