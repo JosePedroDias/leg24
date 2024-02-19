@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "m mortágua",
+        "i sousa real"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "m mortágua": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "i sousa real": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}
