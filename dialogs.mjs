@@ -115,7 +115,8 @@ export function tweakTimesDialog(subtitles, metadata, currentSubIndex, audio) {
             const s2 = subtitles[currentSubIndex + 1] || { content: 'STUB END', start: audio.duration, end: audio.duration + 1 };
             sub3[0] = s0;
             sub3[1] = s1;
-            sub3[2] = s2;
+            sub3[2] = s1;
+            sub3[3] = s2;
             references[0][0] = s0;
             references[1][0] = s1;
             references[2][0] = s1;
