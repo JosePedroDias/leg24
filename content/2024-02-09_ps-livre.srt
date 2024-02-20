@@ -920,7 +920,7 @@ Simplificou-se o licenciamento.
 
 231
 00:12:38,320 --> 00:12:40,120
-Pedro Nunes Santos, podemos ouvir a lista toda.
+Pedro Nuno Santos, podemos ouvir a lista toda.
 
 232
 00:12:40,360 --> 00:12:42,060
