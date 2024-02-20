@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "p n santos",
+        "l montenegro"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "p n santos": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "l montenegro": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

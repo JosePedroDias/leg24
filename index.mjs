@@ -240,9 +240,8 @@ export function main() {
                     updateList();
                     saveSubs();
                 } else if (ev.key === 't') {
-                    if (currentSubIndex < 1 || currentSubIndex > subtitles.length - 2) return;
                     audio.pause();
-                    await tweakTimesDialog(subtitles, currentSubIndex, audio);
+                    await tweakTimesDialog(subtitles, metadata, currentSubIndex, audio);
                     saveSubs();
                 } else if (ev.key === 'x') {
                     if (currentSubIndex === -1) return togglePlayEl.focus();

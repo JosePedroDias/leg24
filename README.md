@@ -80,7 +80,7 @@ Whisper does an overall good job at this. There were a couple of periods I had t
 
 ## 19/2
 
-- 21h SIC [PS - PSD]
+- 21h SIC [PS - PSD](https://sicnoticias.pt/especiais/eleicoes-legislativas/2024-02-19-Debate-PS-vs-AD-na-integra-ed5878a7)
 
 ## 20/2
 
