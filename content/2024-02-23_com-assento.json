@@ -1,0 +1,21 @@
+{
+    "bindings": [
+        "moderador",
+        "a",
+        "b"
+    ],
+    "speakers": {
+        "moderador": {
+            "color": "gray",
+            "subtitles": []
+        },
+        "a": {
+            "color": "cyan",
+            "subtitles": []
+        },
+        "b": {
+            "color": "magenta",
+            "subtitles": []
+        }
+    }
+}

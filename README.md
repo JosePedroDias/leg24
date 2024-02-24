@@ -84,11 +84,11 @@ Whisper does an overall good job at this. There were a couple of periods I had t
 
 ## 20/2
 
-- 21h RTP [partidos sem assento p]
+- 21h RTP3 [partidos sem assento parlamentar](https://www.rtp.pt/noticias/politica/dez-forcas-politicas-sem-assento-parlamentar-em-debate-na-rtp_n1551993)
 
 ## 23/2
 
-- 21h RTP [partidos com assento p]
+- 21h RTP1 [partidos com assento parlamentar](https://www.rtp.pt/noticias/politica/pedro-nuno-admite-viabilizar-governo-da-ad-montenegro-continua-a-nao-esclarecer_n1552696)
 
 # Process
 
@@ -99,6 +99,10 @@ PODCAST PROCESS
     wget "url" -O 1.mp3
     ffmpeg -i 1.mp3 -map 0:a -c:a copy -map_metadata -1 2.mp3
     ffmpeg -i 2.mp3 -ss 35 -vcodec copy -acodec copy 3.mp3
+
+    wget "url" -O 1.mp4
+    ffmpeg -i 1.mp4 -map 0:a -c:a copy -map_metadata -1 2.aac
+    ffmpeg -i 2.aac -ss 20 -codec:a libmp3lame -b:a 128k 3.mp3
 
 ## video stream grab w/ VLC + FFMPEG to extract aac stream and convert to mp3 (initially used)
 

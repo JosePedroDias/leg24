@@ -19,6 +19,8 @@ export async function populateList(run) {
     const listEl = document.getElementById('list');
     listEl.innerHTML = '';
 
+    const unrevised = ['sem-assento', 'com-assento'];
+
     for (const { date, items } of dates) {
         const dayUl = document.createElement('ul');
         const { dayOfWeek, day, month } = parseYyyyMmDd(date);
@@ -30,6 +32,10 @@ export async function populateList(run) {
         for (const item of items) {
             const itemLiEl = document.createElement('li');
             const buttonEl = document.createElement('button');
+            if (unrevised.includes(item)) {
+                buttonEl.title = 'por rever';
+                buttonEl.classList.add('pending-review');
+            }
             buttonEl.appendChild(document.createTextNode(item));
             buttonEl.dataset.debate = `${date}_${item}`;
             itemLiEl.appendChild(buttonEl);

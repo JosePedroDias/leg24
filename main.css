@@ -39,6 +39,12 @@ body {
 #list button {
     width: 20dvw;
     padding: 0.25em 0;
+    border: 1px solid #bbb;
+}
+
+#list button.pending-review {
+    font-style: italic;
+    background-color: yellow;
 }
 
 #ui {
