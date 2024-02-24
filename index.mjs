@@ -164,7 +164,7 @@ export function main() {
             else if (ev.key === 'ArrowRight') deltaSecs =  15;
             else if (ev.key === 'ArrowUp')    deltaIndex = -1;
             else if (ev.key === 'ArrowDown')  deltaIndex =  1;
-            else if (IS_EDITING && sub && ['j', 's', 'e', 't', 'x', 'f', '1', '2', '3', '§'].includes(ev.key)) {
+            else if (IS_EDITING && sub && ['j', 's', 'e', 't', 'x', 'f', '1', '2', '3', '4', '5', '6', '7', '8', '9', '§'].includes(ev.key)) {
                 if (ev.key === 'j') {
                     audio.pause();
                     const mode = await joinDialog();
@@ -263,7 +263,7 @@ export function main() {
                     reassignSpeakerIndices(metadata, (idx) => idx >= currentSubIndex ? idx + 1 : idx);
                     updateList();
                     saveBoth();
-                } else if (['1', '2', '3', '§'].includes(ev.key)) {
+                } else if (['1', '2', '3', '4', '5', '6', '7', '8', '9', '§'].includes(ev.key)) {
                     if (currentSubIndex === -1) return togglePlayEl.focus();
                     const speaker = metadata.bindings[Number(ev.key) - 1];
                     setSubtitleSpeaker(metadata, currentSubIndex + 1, speaker);

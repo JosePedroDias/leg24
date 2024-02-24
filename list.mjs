@@ -19,7 +19,7 @@ export async function populateList(run) {
     const listEl = document.getElementById('list');
     listEl.innerHTML = '';
 
-    const unrevised = ['sem-assento', 'com-assento'];
+    const unrevised = ['sem-assento'];
 
     for (const { date, items } of dates) {
         const dayUl = document.createElement('ul');
